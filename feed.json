@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://gabrielcornish.micro.blog/2022/08/10/today-i-started.html",
+				
+				"content_html": "<p>Today I started playing around with AI art generation with #dalle2</p>\n\n<p>Here&rsquo;s a colorful graffiti painting of a corgi.</p>\n\n<p><img src=\"uploads/2022/331d4a705d.png\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Today I started playing around with AI art generation with #dalle2\r\n\r\nHere's a colorful graffiti painting of a corgi.\n\n<img src=\"uploads/2022/331d4a705d.png\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-10T15:12:20-07:00",
+				"url": "https://blog.gabrielcornish.com/2022/08/10/today-i-started.html"
+			},
+			{
 				"id": "http://gabrielcornish.micro.blog/2022/04/15/game-design-tip.html",
 				
 				"content_html": "<p>Game design tip: The simplest way to make an interesting game is to give it unusual design constraints.</p>\n",
