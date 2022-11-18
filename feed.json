@@ -7,11 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://gabrielcornish.micro.blog/2022/11/18/sm-companies-make.html",
+				
+				"content_html": "<p>SM companies make it so easy to distribute content. But, relying on Twitter and SM platforms to distribute our content will always be risky.</p>\n\n<p>Own your content! Post to your own site first and then syndicate content out to other platforms. Stay independent on the web.</p>\n",
+				"content_text": "SM companies make it so easy to distribute content. But, relying on Twitter and SM platforms to distribute our content will always be risky.\r\n\r\nOwn your content! Post to your own site first and then syndicate content out to other platforms. Stay independent on the web.\n",
+				"date_published": "2022-11-18T09:42:30-08:00",
+				"url": "https://blog.gabrielcornish.com/2022/11/18/sm-companies-make.html"
+			},
+			{
 				"id": "http://gabrielcornish.micro.blog/2022/08/10/today-i-started.html",
 				
 				"content_html": "<p>Today I started playing around with AI art generation with #dalle2</p>\n\n<p>Here&rsquo;s a colorful graffiti painting of a corgi.</p>\n\n<p><img src=\"uploads/2022/331d4a705d.png\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Today I started playing around with AI art generation with #dalle2\r\n\r\nHere's a colorful graffiti painting of a corgi.\n\n<img src=\"uploads/2022/331d4a705d.png\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-08-10T15:12:20-07:00",
+				"date_published": "2022-08-10T14:12:20-08:00",
 				"url": "https://blog.gabrielcornish.com/2022/08/10/today-i-started.html"
 			},
 			{
@@ -19,7 +27,7 @@
 				
 				"content_html": "<p>Game design tip: The simplest way to make an interesting game is to give it unusual design constraints.</p>\n",
 				"content_text": "Game design tip: The simplest way to make an interesting game is to give it unusual design constraints.\n",
-				"date_published": "2022-04-15T10:48:51-07:00",
+				"date_published": "2022-04-15T09:48:51-08:00",
 				"url": "https://blog.gabrielcornish.com/2022/04/15/game-design-tip.html"
 			},
 			{
@@ -27,7 +35,7 @@
 				
 				"content_html": "<p><img src=\"uploads/2021/1ee7f38de5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "\n\n<img src=\"uploads/2021/1ee7f38de5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-04-01T14:41:03-07:00",
+				"date_published": "2021-04-01T13:41:03-08:00",
 				"url": "https://blog.gabrielcornish.com/2021/04/01/134103.html"
 			},
 			{
@@ -35,7 +43,7 @@
 				
 				"content_html": "<p>We @HomeTeamGameDev just released our 100th game! This was a fun project to contribute to. <a href=\"https://gamkedo.itch.io/springfield-property-manager\">gamkedo.itch.io/springfie&hellip;</a> #gamedev</p>\n\n<p><img src=\"uploads/2020/b6e430c9f7.gif\" width=\"400\" height=\"288\" alt=\"\" /></p>\n",
 				"content_text": "We @HomeTeamGameDev just released our 100th game! This was a fun project to contribute to. [gamkedo.itch.io/springfie...](https://gamkedo.itch.io/springfield-property-manager) #gamedev\n\n<img src=\"uploads/2020/b6e430c9f7.gif\" width=\"400\" height=\"288\" alt=\"\" />\n",
-				"date_published": "2020-09-28T09:05:32-07:00",
+				"date_published": "2020-09-28T08:05:32-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/09/28/we-hometeamgamedev-just.html"
 			},
 			{
@@ -43,7 +51,7 @@
 				
 				"content_html": "<p>She’s had a long day.</p>\n\n<p><img src=\"uploads/2020/9774fa281b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "She’s had a long day. \n\n<img src=\"uploads/2020/9774fa281b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-09-19T15:31:14-07:00",
+				"date_published": "2020-09-19T14:31:14-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/09/19/shes-had-a.html"
 			},
 			{
@@ -51,7 +59,7 @@
 				
 				"content_html": "<p>Rediscovering the joy of doodling in MS Paint 🎨 #pixelart</p>\n\n<p><img src=\"uploads/2020/42ff59b303.png\" width=\"600\" height=\"544\" alt=\"\" /></p>\n",
 				"content_text": "Rediscovering the joy of doodling in MS Paint 🎨 #pixelart\n\n<img src=\"uploads/2020/42ff59b303.png\" width=\"600\" height=\"544\" alt=\"\" />\n",
-				"date_published": "2020-08-21T16:37:59-07:00",
+				"date_published": "2020-08-21T15:37:59-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/08/21/rediscovering-the-joy.html"
 			},
 			{
@@ -59,7 +67,7 @@
 				
 				"content_html": "<p>This week in hobby #gamedev I added some new building and ship models to @HomeTeamGameDev Time Cannon. Fleshing out the environment has been a ton of fun. #indiedev #screenshotsaturday</p>\n\n<p><img src=\"uploads/2020/f4774098e6.png\" width=\"600\" height=\"322\" alt=\"\" /></p>\n",
 				"content_text": "This week in hobby #gamedev I added some new building and ship models to @HomeTeamGameDev Time Cannon. Fleshing out the environment has been a ton of fun. #indiedev #screenshotsaturday\n\n<img src=\"uploads/2020/f4774098e6.png\" width=\"600\" height=\"322\" alt=\"\" />\n",
-				"date_published": "2020-08-15T18:55:27-07:00",
+				"date_published": "2020-08-15T17:55:27-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/08/15/this-week-in.html"
 			},
 			{
@@ -67,7 +75,7 @@
 				
 				"content_html": "<p>I had a lot of fun using MagicaVoxel for the first time to create some building assets for @HomeTeamGameDev Time Cannon led by @ChrisDeLeon #gamedev</p>\n\n<p><img src=\"uploads/2020/5e38d3a0bf.png\" width=\"600\" height=\"497\" alt=\"\" /></p>\n",
 				"content_text": "I had a lot of fun using MagicaVoxel for the first time to create some building assets for @HomeTeamGameDev Time Cannon led by @ChrisDeLeon #gamedev\r\n \n\n<img src=\"uploads/2020/5e38d3a0bf.png\" width=\"600\" height=\"497\" alt=\"\" />\n",
-				"date_published": "2020-08-09T11:28:37-07:00",
+				"date_published": "2020-08-09T10:28:37-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/08/09/i-had-a.html"
 			},
 			{
@@ -75,7 +83,7 @@
 				
 				"content_html": "<p>The #gamedev possibilities with Unreal 5 are truly outstanding. I&rsquo;ll finally be able to render my text adventure games with .TTF fonts instead of Bit-mapped and with relatively no performance drops. The future is here. #UE5 #indiedev #interactivefiction #narrativedesign</p>\n",
 				"content_text": "The #gamedev possibilities with Unreal 5 are truly outstanding. I'll finally be able to render my text adventure games with .TTF fonts instead of Bit-mapped and with relatively no performance drops. The future is here. #UE5 #indiedev #interactivefiction #narrativedesign\n",
-				"date_published": "2020-05-13T17:02:00-07:00",
+				"date_published": "2020-05-13T16:02:00-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/05/13/the-gamedev-possibilities.html"
 			},
 			{
@@ -83,7 +91,7 @@
 				
 				"content_html": "<p>It doesn’t matter how old you are, this is still hands down the single best way to spend a Saturday morning.</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/aedbaadbfe.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
 				"content_text": "It doesn’t matter how old you are, this is still hands down the single best way to spend a Saturday morning. \n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/aedbaadbfe.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
-				"date_published": "2020-05-02T09:05:42-07:00",
+				"date_published": "2020-05-02T08:05:42-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/05/02/it-doesnt-matter.html"
 			},
 			{
@@ -91,7 +99,7 @@
 				
 				"content_html": "<p>PSA: To all the #gamedev peeps out there starting to work from home for the first time, remember to take the weekend to step away from work. Rest, recover and get some sun. It goes a long way. Happy friday all! #indiedev #pico8 #pixelart</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/3728994b27.gif\" width=\"600\" height=\"461\" alt=\"\" /></p>\n",
 				"content_text": "PSA: To all the #gamedev peeps out there starting to work from home for the first time, remember to take the weekend to step away from work. Rest, recover and get some sun. It goes a long way. Happy friday all! #indiedev #pico8 #pixelart\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/3728994b27.gif\" width=\"600\" height=\"461\" alt=\"\" />\n",
-				"date_published": "2020-03-27T10:38:11-07:00",
+				"date_published": "2020-03-27T09:38:11-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/03/27/psa-to-all.html"
 			},
 			{
@@ -99,7 +107,7 @@
 				"title": "The Soul Key: RELEASED!",
 				"content_html": "<p>I just released a tiny retro game called &ldquo;The Soul Key&rdquo;. It&rsquo;s a short game with multiple endings and a corgi! Check it out.</p>\n\n<iframe src=\"https://itch.io/embed/595463?bg_color=C2C3C7&fg_color=000&link_color=FF004D&border_color=000\" width=\"552\" height=\"167\" frameborder=\"0\"><a href=\"https://gabrielcornish.itch.io/the-soul-key\">The Soul Key by Gabriel Cornish</a></iframe>\n",
 				"content_text": "I just released a tiny retro game called \"The Soul Key\". It's a short game with multiple endings and a corgi! Check it out. \n\n<iframe src=\"https://itch.io/embed/595463?bg_color=C2C3C7&fg_color=000&link_color=FF004D&border_color=000\" width=\"552\" height=\"167\" frameborder=\"0\"><a href=\"https://gabrielcornish.itch.io/the-soul-key\">The Soul Key by Gabriel Cornish</a></iframe>\n",
-				"date_published": "2020-03-26T13:53:00-07:00",
+				"date_published": "2020-03-26T12:53:00-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/03/26/the-soul-key.html",
 				"tags": ["portfolio"]
 			},
@@ -108,7 +116,7 @@
 				
 				"content_html": "<p>Even while on a dungeon crawling adventure, there&rsquo;s always enough time to pet a corgi. #gamedev #pico8 #bitsy #indiedev #pixelart</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/17f0a3764d.gif\" width=\"512\" height=\"512\" alt=\"\" /></p>\n",
 				"content_text": "Even while on a dungeon crawling adventure, there's always enough time to pet a corgi. #gamedev #pico8 #bitsy #indiedev #pixelart\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/17f0a3764d.gif\" width=\"512\" height=\"512\" alt=\"\" />\n",
-				"date_published": "2020-03-25T10:08:01-07:00",
+				"date_published": "2020-03-25T09:08:01-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/03/25/even-while-on.html"
 			},
 			{
@@ -116,7 +124,7 @@
 				
 				"content_html": "<p>Playing around some more with  #bitsy #gamedev. The constraints are actually quite a lot of fun to work with. The #pico8 color palette is also usually my goto. #indiedev #pixelart #1bit</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/71b2e47728.gif\" width=\"512\" height=\"512\" alt=\"\" /></p>\n",
 				"content_text": "Playing around some more with  #bitsy #gamedev. The constraints are actually quite a lot of fun to work with. The #pico8 color palette is also usually my goto. #indiedev #pixelart #1bit \n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/71b2e47728.gif\" width=\"512\" height=\"512\" alt=\"\" />\n",
-				"date_published": "2020-03-24T17:06:32-07:00",
+				"date_published": "2020-03-24T16:06:32-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/03/24/playing-around-some.html"
 			},
 			{
@@ -124,7 +132,7 @@
 				
 				"content_html": "<p>Behold! My game design masterpiece. #gamedev #Bitsy #pixelart #indiedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/1e986d0891.gif\" width=\"526\" height=\"526\" alt=\"\" /></p>\n",
 				"content_text": "Behold! My game design masterpiece. #gamedev #Bitsy #pixelart #indiedev\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/1e986d0891.gif\" width=\"526\" height=\"526\" alt=\"\" />\n",
-				"date_published": "2020-03-23T15:22:04-07:00",
+				"date_published": "2020-03-23T14:22:04-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/03/23/behold-my-game.html"
 			},
 			{
@@ -132,7 +140,7 @@
 				
 				"content_html": "<p>Thanks a bunch for the recommendation @magspinner. Coin Dasher it is! #godot #gamedev #indiedev #pixelart</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/4aa2f51c77.gif\" width=\"600\" height=\"446\" alt=\"\" /></p>\n",
 				"content_text": "Thanks a bunch for the recommendation @magspinner. Coin Dasher it is! #godot #gamedev #indiedev #pixelart\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/4aa2f51c77.gif\" width=\"600\" height=\"446\" alt=\"\" />\n",
-				"date_published": "2020-03-21T11:49:35-07:00",
+				"date_published": "2020-03-21T10:49:35-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/03/21/thanks-a-bunch.html"
 			},
 			{
@@ -140,7 +148,7 @@
 				
 				"content_html": "<p>I don&rsquo;t have a name for my latest #gamedev project. Would anyone be willing to suggest some family-friendly names for the game&rsquo;s title? #indiedev #pixelart #godot #indiegamedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/288a8ec1a4.gif\" width=\"600\" height=\"446\" alt=\"\" /></p>\n",
 				"content_text": "I don't have a name for my latest #gamedev project. Would anyone be willing to suggest some family-friendly names for the game's title? #indiedev #pixelart #godot #indiegamedev\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/288a8ec1a4.gif\" width=\"600\" height=\"446\" alt=\"\" />\n",
-				"date_published": "2020-03-20T16:37:45-07:00",
+				"date_published": "2020-03-20T15:37:45-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/03/20/i-dont-have.html"
 			},
 			{
@@ -148,7 +156,7 @@
 				
 				"content_html": "<p>Amazing what a little polish can do for such a simple game. I challenged myself to make a game in an hour and then polish it for a minimum of 30 minutes a day, every day. After a week, I&rsquo;m happy with how it&rsquo;s turning out. #gamedev #godot #indiedev #pixelart #indiegamedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/609f54e4a5.gif\" width=\"600\" height=\"446\" alt=\"\" /></p>\n",
 				"content_text": "Amazing what a little polish can do for such a simple game. I challenged myself to make a game in an hour and then polish it for a minimum of 30 minutes a day, every day. After a week, I'm happy with how it's turning out. #gamedev #godot #indiedev #pixelart #indiegamedev\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/609f54e4a5.gif\" width=\"600\" height=\"446\" alt=\"\" />\n",
-				"date_published": "2020-03-19T13:21:16-07:00",
+				"date_published": "2020-03-19T12:21:16-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/03/19/amazing-what-a.html"
 			},
 			{
@@ -156,7 +164,7 @@
 				
 				"content_html": "<p>Exploring a new game mechanic. After an hour of work this is what I&rsquo;ve come up with so far. #gamedev #pico8 #godot #indiedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/bda0d8ef46.gif\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
 				"content_text": "Exploring a new game mechanic. After an hour of work this is what I've come up with so far. #gamedev #pico8 #godot #indiedev\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/bda0d8ef46.gif\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2020-03-09T17:18:58-07:00",
+				"date_published": "2020-03-09T16:18:58-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/03/09/exploring-a-new.html"
 			},
 			{
@@ -164,7 +172,7 @@
 				
 				"content_html": "<p>Yesterday I completed my 4th #gamedev project of the year. Didn’t turn out quite how I had hoped, but it was still a decent prototyping excercise and I learned a lot. Today I started planning for game 5 of 2020. #godot #indiedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/8b8dc340c4.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Yesterday I completed my 4th #gamedev project of the year. Didn’t turn out quite how I had hoped, but it was still a decent prototyping excercise and I learned a lot. Today I started planning for game 5 of 2020. #godot #indiedev\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/8b8dc340c4.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-03-03T16:50:18-07:00",
+				"date_published": "2020-03-03T15:50:18-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/03/03/yesterday-i-completed.html"
 			},
 			{
@@ -172,7 +180,7 @@
 				
 				"content_html": "<p>I&rsquo;m thinking my new #gamedev project will be an arcade game about unlocking happy thoughts. #godot #pico8 #indiedev #wholesomegames</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/57691b7970.gif\" width=\"600\" height=\"453\" alt=\"\" /></p>\n",
 				"content_text": "I'm thinking my new #gamedev project will be an arcade game about unlocking happy thoughts. #godot #pico8 #indiedev #wholesomegames\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/57691b7970.gif\" width=\"600\" height=\"453\" alt=\"\" />\n",
-				"date_published": "2020-02-28T16:02:15-07:00",
+				"date_published": "2020-02-28T15:02:15-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/02/28/im-thinking-my.html"
 			},
 			{
@@ -180,7 +188,7 @@
 				
 				"content_html": "<p>The best part of getting ready to close out another month in #indiedev is being able to look back at everything you did or didn’t do.</p>\n\n<p>Pen and paper can be a good substitute for a producer if you don’t have one handy for your #gamedev projects.</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/00f7778687.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "The best part of getting ready to close out another month in #indiedev is being able to look back at everything you did or didn’t do. \n\nPen and paper can be a good substitute for a producer if you don’t have one handy for your #gamedev projects. \n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/00f7778687.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-02-26T09:35:24-07:00",
+				"date_published": "2020-02-26T08:35:24-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/02/26/the-best-part.html"
 			},
 			{
@@ -188,7 +196,7 @@
 				
 				"content_html": "<p>I needed to start a #gamedev project today, but I had no idea what to make. Therefor I now have a main menu and no gameplay 🤦‍♂️</p>\n\n<p>I know I shouldn&rsquo;t wait for inspiration, but it sure would be nice if my muse showed up to help out a little. Pleeease! #pico8 #godot #indiedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/4851835fca.gif\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
 				"content_text": "I needed to start a #gamedev project today, but I had no idea what to make. Therefor I now have a main menu and no gameplay 🤦‍♂️ \r\n\r\nI know I shouldn't wait for inspiration, but it sure would be nice if my muse showed up to help out a little. Pleeease! #pico8 #godot #indiedev\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/4851835fca.gif\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2020-02-25T17:28:39-07:00",
+				"date_published": "2020-02-25T16:28:39-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/02/25/i-needed-to.html"
 			},
 			{
@@ -196,7 +204,7 @@
 				
 				"content_html": "<p>Friday’s at the office. #gamedev #indiedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/dbc8224dce.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Friday’s at the office. #gamedev #indiedev\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/dbc8224dce.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-02-21T16:39:03-07:00",
+				"date_published": "2020-02-21T15:39:03-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/02/21/fridays-at-the.html"
 			},
 			{
@@ -204,7 +212,7 @@
 				
 				"content_html": "<p>Finally got arround to making a quick showreel of some of my work.</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/0b4edaca20.gif\" width=\"512\" height=\"288\" alt=\"\" /></p>\n",
 				"content_text": "Finally got arround to making a quick showreel of some of my work.\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/0b4edaca20.gif\" width=\"512\" height=\"288\" alt=\"\" />\n",
-				"date_published": "2020-02-21T12:41:23-07:00",
+				"date_published": "2020-02-21T11:41:23-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/02/21/finally-got-arround.html"
 			},
 			{
@@ -212,7 +220,7 @@
 				
 				"content_html": "<p>Another atmospheric environment I&rsquo;ve been working on this week.</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/8e3278926b.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
 				"content_text": "Another atmospheric environment I've been working on this week.\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/8e3278926b.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
-				"date_published": "2020-02-21T10:48:00-07:00",
+				"date_published": "2020-02-21T09:48:00-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/02/21/another-atmospheric-environment.html",
 				"tags": ["portfolio"]
 			},
@@ -221,7 +229,7 @@
 				
 				"content_html": "<p>10 year old me should have never parted with this game. I’m finally reunited with my childhood 😊</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/2bdf8c226c.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "10 year old me should have never parted with this game. I’m finally reunited with my childhood 😊\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/2bdf8c226c.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-02-19T20:41:59-07:00",
+				"date_published": "2020-02-19T19:41:59-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/02/19/year-old-me.html"
 			},
 			{
@@ -229,7 +237,7 @@
 				
 				"content_html": "<p>I threw together this quick environment in honor of yesterday&rsquo;s lazy Sunday afternoon. Practicing my world building and environmental storytelling. #gamedev #madewithdreams</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/05c6b6d642.gif\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
 				"content_text": "I threw together this quick environment in honor of yesterday's lazy Sunday afternoon. Practicing my world building and environmental storytelling. #gamedev #madewithdreams\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/05c6b6d642.gif\" width=\"600\" height=\"337\" alt=\"\" />\n",
-				"date_published": "2020-02-17T11:46:00-07:00",
+				"date_published": "2020-02-17T10:46:00-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/02/17/i-threw-together.html",
 				"tags": ["portfolio"]
 			},
@@ -238,7 +246,7 @@
 				
 				"content_html": "<p>Found a few classics at my local bookstore.</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/785666d4b9.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
 				"content_text": "Found a few classics at my local bookstore.\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/785666d4b9.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
-				"date_published": "2020-02-14T21:00:00-07:00",
+				"date_published": "2020-02-14T20:00:00-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/02/14/found-a-few.html"
 			},
 			{
@@ -246,7 +254,7 @@
 				
 				"content_html": "<p>Sometimes if you look at chopped up watermelon closely, it looks like sashimi.</p>\n",
 				"content_text": "Sometimes if you look at chopped up watermelon closely, it looks like sashimi.\n",
-				"date_published": "2020-02-10T11:26:56-07:00",
+				"date_published": "2020-02-10T10:26:56-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/02/10/sometimes-if-you.html"
 			},
 			{
@@ -254,7 +262,7 @@
 				
 				"content_html": "<p>Today I made a small game about a farting heart. Why? Just &lsquo;cuz. Happy Friday and I hope you have a great weekend! #gamedev #pico8 #godot #indiedev</p>\n\n<p>Project inspired by <a href=\"https://forums.tigsource.com/index.php?topic=6585.0\">Fart Race and Cattle Cows</a></p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/d62c4a6415.jpg\" width=\"600\" height=\"335\" alt=\"\" /></p>\n",
 				"content_text": "Today I made a small game about a farting heart. Why? Just 'cuz. Happy Friday and I hope you have a great weekend! #gamedev #pico8 #godot #indiedev\n\nProject inspired by [Fart Race and Cattle Cows](https://forums.tigsource.com/index.php?topic=6585.0) \n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/d62c4a6415.jpg\" width=\"600\" height=\"335\" alt=\"\" />\n",
-				"date_published": "2020-02-07T11:41:00-07:00",
+				"date_published": "2020-02-07T10:41:00-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/02/07/today-i-made.html",
 				"tags": ["portfolio"]
 			},
@@ -263,7 +271,7 @@
 				
 				"content_html": "<p>Some days #gamedev can feel a little bit like this. Gotta just keep swimming. #pixelart #indiedev</p>\n\n<p>This sketch was inspired by an old @jwaaaap / @thepoppenkast game.</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/51e141b30c.jpg\" width=\"592\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Some days #gamedev can feel a little bit like this. Gotta just keep swimming. #pixelart #indiedev\r\n\r\nThis sketch was inspired by an old @jwaaaap / @thepoppenkast game.\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/51e141b30c.jpg\" width=\"592\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-02-04T13:02:11-07:00",
+				"date_published": "2020-02-04T12:02:11-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/02/04/some-days-gamedev.html"
 			},
 			{
@@ -271,7 +279,7 @@
 				
 				"content_html": "<p>I’ve decided to unashamedly brag about picking this perfect orange from a perfect tree on this perfect Saturday.</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/0a92e363fc.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://blog.gabrielcornish.com/uploads/2020/1bfb31d8f0.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "I’ve decided to unashamedly brag about picking this perfect orange from a perfect tree on this perfect Saturday.\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/0a92e363fc.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://blog.gabrielcornish.com/uploads/2020/1bfb31d8f0.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-02-01T13:03:26-07:00",
+				"date_published": "2020-02-01T12:03:26-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/02/01/ive-decided-to.html"
 			},
 			{
@@ -279,7 +287,7 @@
 				
 				"content_html": "<p>I&rsquo;ve been thinking a lot about the Quantity vs. Quality debate. Which do you value more in your #gamedev and creative work? I tend to side more with the quantity route, but a part of me wishes I  valued the quality route a bit more. #pixelart #pico8 #indiedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/66fe0d162e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "I've been thinking a lot about the Quantity vs. Quality debate. Which do you value more in your #gamedev and creative work? I tend to side more with the quantity route, but a part of me wishes I  valued the quality route a bit more. #pixelart #pico8 #indiedev\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/66fe0d162e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-01-31T11:31:06-07:00",
+				"date_published": "2020-01-31T10:31:06-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/31/ive-been-thinking.html"
 			},
 			{
@@ -287,7 +295,7 @@
 				
 				"content_html": "<p>Here&rsquo;s a one-word motivational poster on the best #gamedev advice I ever received. Easy to learn. Simple to understand. Hard to master. #pixelart #indiedev #pico8</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/c5a40f67b0.jpg\" width=\"600\" height=\"476\" alt=\"\" /></p>\n",
 				"content_text": "Here's a one-word motivational poster on the best #gamedev advice I ever received. Easy to learn. Simple to understand. Hard to master. #pixelart #indiedev #pico8\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/c5a40f67b0.jpg\" width=\"600\" height=\"476\" alt=\"\" />\n",
-				"date_published": "2020-01-30T11:46:02-07:00",
+				"date_published": "2020-01-30T10:46:02-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/30/heres-a-oneword.html"
 			},
 			{
@@ -295,7 +303,7 @@
 				
 				"content_html": "<p>Today I felt bummed out for cancelling my #gamedev project. So&hellip; I made this to cheer myself up.</p>\n\n<p>If you need it, I hope it cheers you up too. #pixelart #pico8 #godot #indiedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/033fe0b7e1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Today I felt bummed out for cancelling my #gamedev project. So... I made this to cheer myself up. \r\n\r\nIf you need it, I hope it cheers you up too. #pixelart #pico8 #godot #indiedev\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/033fe0b7e1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-01-29T16:39:19-07:00",
+				"date_published": "2020-01-29T15:39:19-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/29/today-i-felt.html"
 			},
 			{
@@ -303,7 +311,7 @@
 				
 				"content_html": "<p>Added some visual polish to my upcoming #twine game. #gamedev #pixelart #indiedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/155b55cced.jpg\" width=\"600\" height=\"421\" alt=\"\" /></p>\n",
 				"content_text": "Added some visual polish to my upcoming #twine game. #gamedev #pixelart #indiedev\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/155b55cced.jpg\" width=\"600\" height=\"421\" alt=\"\" />\n",
-				"date_published": "2020-01-27T14:04:00-07:00",
+				"date_published": "2020-01-27T13:04:00-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/27/added-some-visual.html",
 				"tags": ["portfolio"]
 			},
@@ -312,7 +320,7 @@
 				
 				"content_html": "<p>I swear you&rsquo;d think my upcoming #gamedev project was made entirely with Crayons. It&rsquo;s not that far off 😂 Disaster Dorm is my upcoming #twine game about what happens when you create an AI Robot to clean your room. #pixelart #indiedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/6335110f82.jpg\" width=\"600\" height=\"421\" alt=\"\" /></p>\n",
 				"content_text": "I swear you'd think my upcoming #gamedev project was made entirely with Crayons. It's not that far off 😂 Disaster Dorm is my upcoming #twine game about what happens when you create an AI Robot to clean your room. #pixelart #indiedev\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/6335110f82.jpg\" width=\"600\" height=\"421\" alt=\"\" />\n",
-				"date_published": "2020-01-24T16:47:41-07:00",
+				"date_published": "2020-01-24T15:47:41-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/24/i-swear-youd.html"
 			},
 			{
@@ -320,7 +328,7 @@
 				
 				"content_html": "<p>For #tbt here&rsquo;s a goofy game I made with my friends @emichen88 @PowerAuerArt. The <a href=\"https://gabrielcornish.itch.io/al-a-choose-your-own-adventure\">game</a> is about demons haunting your apartment in order to ruin your love life. #pixelart #gamedev #indiedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/bfc57a3ea3.jpg\" width=\"600\" height=\"476\" alt=\"\" /></p>\n",
 				"content_text": "For #tbt here's a goofy game I made with my friends @emichen88 @PowerAuerArt. The [game](https://gabrielcornish.itch.io/al-a-choose-your-own-adventure) is about demons haunting your apartment in order to ruin your love life. #pixelart #gamedev #indiedev\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/bfc57a3ea3.jpg\" width=\"600\" height=\"476\" alt=\"\" />\n",
-				"date_published": "2020-01-23T17:23:00-07:00",
+				"date_published": "2020-01-23T16:23:00-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/23/for-tbt-heres.html",
 				"tags": ["portfolio"]
 			},
@@ -329,7 +337,7 @@
 				
 				"content_html": "<p>Working on a simple yet wholesome #pixelart style. As a #gamedev with little art skills, sometimes you just gotta learn to work with what you&rsquo;re capable of. For me, that just happens to be a step above stick figures 😋 There&rsquo;s charm in imperfection. #indiedev #wabi-sabi</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/0c2398feb2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Working on a simple yet wholesome #pixelart style. As a #gamedev with little art skills, sometimes you just gotta learn to work with what you're capable of. For me, that just happens to be a step above stick figures 😋 There's charm in imperfection. #indiedev #wabi-sabi\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/0c2398feb2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-01-23T17:09:27-07:00",
+				"date_published": "2020-01-23T16:09:27-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/23/working-on-a.html"
 			},
 			{
@@ -337,7 +345,7 @@
 				
 				"content_html": "<p>Some programmers talk to a rubber duck to walk through their problems. I prefer my good buddy Bob Ross. #gamedev #indiedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/b42255832f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Some programmers talk to a rubber duck to walk through their problems. I prefer my good buddy Bob Ross. #gamedev #indiedev \n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/b42255832f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-01-17T12:53:17-07:00",
+				"date_published": "2020-01-17T11:53:17-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/17/some-programmers-talk.html"
 			},
 			{
@@ -345,7 +353,7 @@
 				
 				"content_html": "<p>For #tbthursday, here&rsquo;s a small arcade game I made a while ago. I think this was the first game I ever made in #pico8. Good times. Good times. #gamedev #indiedev #pixelart <a href=\"https://gabrielcornish.itch.io/shoot-stuff\">gabrielcornish.itch.io/shoot-stu&hellip;</a></p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/81a219cb30.jpg\" width=\"600\" height=\"476\" alt=\"\" /></p>\n",
 				"content_text": "For #tbthursday, here's a small arcade game I made a while ago. I think this was the first game I ever made in #pico8. Good times. Good times. #gamedev #indiedev #pixelart [gabrielcornish.itch.io/shoot-stu...](https://gabrielcornish.itch.io/shoot-stuff)\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/81a219cb30.jpg\" width=\"600\" height=\"476\" alt=\"\" />\n",
-				"date_published": "2020-01-16T10:09:00-07:00",
+				"date_published": "2020-01-16T09:09:00-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/16/for-tbthursday-heres.html",
 				"tags": ["portfolio"]
 			},
@@ -354,7 +362,7 @@
 				
 				"content_html": "<p>Pixel doesn’t allow anyone into her not-so-secret fort. #corgi</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/54b8c8bf7a.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Pixel doesn’t allow anyone into her not-so-secret fort. #corgi\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/54b8c8bf7a.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-01-15T12:40:19-07:00",
+				"date_published": "2020-01-15T11:40:19-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/15/pixel-doesnt-allow.html"
 			},
 			{
@@ -362,7 +370,7 @@
 				
 				"content_html": "<p>Happy Wednesday. Here, have a wobbly Kirby. #pico8 #pixelart</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/3172bb12fb.jpg\" width=\"600\" height=\"581\" alt=\"\" /></p>\n",
 				"content_text": "Happy Wednesday. Here, have a wobbly Kirby. #pico8 #pixelart\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/3172bb12fb.jpg\" width=\"600\" height=\"581\" alt=\"\" />\n",
-				"date_published": "2020-01-15T11:55:55-07:00",
+				"date_published": "2020-01-15T10:55:55-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/15/happy-wednesday-here.html"
 			},
 			{
@@ -370,7 +378,7 @@
 				
 				"content_html": "<p>If you&rsquo;re an #indiedev battling with uncertainty, here&rsquo;s a quote that will hopefully make you feel better.</p>\n\n<p>&ldquo;Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.&rdquo; —Marcus Aurelius</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/5759e1ee2d.jpg\" width=\"512\" height=\"256\" alt=\"\" /></p>\n",
 				"content_text": "If you're an #indiedev battling with uncertainty, here's a quote that will hopefully make you feel better.\r\n\r\n\"Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.\" —Marcus Aurelius\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/5759e1ee2d.jpg\" width=\"512\" height=\"256\" alt=\"\" />\n",
-				"date_published": "2020-01-14T12:04:54-07:00",
+				"date_published": "2020-01-14T11:04:54-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/14/if-youre-an.html"
 			},
 			{
@@ -378,7 +386,7 @@
 				
 				"content_html": "<p>I&rsquo;ve worked with many game engines in my career, but I&rsquo;m always very grateful that a tool like @twinethreads exist. If you&rsquo;re a #gamedev who&rsquo;s benefited from #twine, why not show it some love? Share a twine game that has impacted your life in some way. #pixelart #indiedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/dd750efc53.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "I've worked with many game engines in my career, but I'm always very grateful that a tool like @twinethreads exist. If you're a #gamedev who's benefited from #twine, why not show it some love? Share a twine game that has impacted your life in some way. #pixelart #indiedev\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/dd750efc53.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-01-14T10:43:48-07:00",
+				"date_published": "2020-01-14T09:43:48-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/14/ive-worked-with.html"
 			},
 			{
@@ -386,7 +394,7 @@
 				
 				"content_html": "<p>Want to learn how to create dialogue bubbles in your #twine game? Cyrus Firheir wrote a tutorial that&rsquo;s perfect for your next story-based #indiedev project. <a href=\"https://gist.github.com/cyrusfirheir/b7b75ba3ba13caecbcb0f43f3ec30c2e\">Check it out</a>. @twinethreads #gamedev #pixelart</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/7d30eb1659.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
 				"content_text": "Want to learn how to create dialogue bubbles in your #twine game? Cyrus Firheir wrote a tutorial that's perfect for your next story-based #indiedev project. [Check it out](https://gist.github.com/cyrusfirheir/b7b75ba3ba13caecbcb0f43f3ec30c2e). @twinethreads #gamedev #pixelart\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/7d30eb1659.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2020-01-13T12:48:22-07:00",
+				"date_published": "2020-01-13T11:48:22-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/13/want-to-learn.html"
 			},
 			{
@@ -394,7 +402,7 @@
 				
 				"content_html": "<p>Have a case of the Monday&rsquo;s? Check out this feel-good puzzle platformer by @AnderssonKev @WhyKevDev! Just the trailer will put you in a good mood 😊It&rsquo;s called <a href=\"https://store.steampowered.com/app/1196800/TaniNani/\">TaniNani </a> and it comes out this month! #indiedev #indiegames</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/a82005b00d.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
 				"content_text": "Have a case of the Monday's? Check out this feel-good puzzle platformer by @AnderssonKev @WhyKevDev! Just the trailer will put you in a good mood 😊It's called [TaniNani ](https://store.steampowered.com/app/1196800/TaniNani/) and it comes out this month! #indiedev #indiegames\r\n\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/a82005b00d.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
-				"date_published": "2020-01-13T10:45:13-07:00",
+				"date_published": "2020-01-13T09:45:13-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/13/have-a-case.html"
 			},
 			{
@@ -402,7 +410,7 @@
 				
 				"content_html": "<p>I admit it. I love games that are easy, wholesome and just plain fun. Games that just make you feel good and relaxed. If you&rsquo;re a #gamedev making games with these aesthetics, I&rsquo;d love to check out your work. #pico8 #pixelart #indiedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/3faaad27fc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "I admit it. I love games that are easy, wholesome and just plain fun. Games that just make you feel good and relaxed. If you're a #gamedev making games with these aesthetics, I'd love to check out your work. #pico8 #pixelart #indiedev\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/3faaad27fc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-01-08T15:52:25-07:00",
+				"date_published": "2020-01-08T14:52:25-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/08/i-admit-it.html"
 			},
 			{
@@ -410,7 +418,7 @@
 				
 				"content_html": "<p>Updated my #gamedev project with a new color palette and new characters. I was inspired by @Spdrcstl to integrate #bitsy into #twine for this upcoming project. #pixelart #indiedev #indiegamedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/70ea669bc9.jpg\" width=\"600\" height=\"305\" alt=\"\" /></p>\n",
 				"content_text": "Updated my #gamedev project with a new color palette and new characters. I was inspired by @Spdrcstl to integrate #bitsy into #twine for this upcoming project. #pixelart #indiedev #indiegamedev\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/70ea669bc9.jpg\" width=\"600\" height=\"305\" alt=\"\" />\n",
-				"date_published": "2020-01-03T17:01:00-07:00",
+				"date_published": "2020-01-03T16:01:00-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/03/updated-my-gamedev.html",
 				"tags": ["portfolio"]
 			},
@@ -419,7 +427,7 @@
 				
 				"content_html": "<p>Today I created the cast of characters for my #gamedev #twine project. #pixelart #indiedev #indiegamedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/13fd7bb59f.jpg\" width=\"512\" height=\"512\" alt=\"\" /></p>\n",
 				"content_text": "Today I created the cast of characters for my #gamedev #twine project. #pixelart #indiedev #indiegamedev\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/13fd7bb59f.jpg\" width=\"512\" height=\"512\" alt=\"\" />\n",
-				"date_published": "2020-01-03T15:58:19-07:00",
+				"date_published": "2020-01-03T14:58:19-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/03/today-i-created.html"
 			},
 			{
@@ -427,7 +435,7 @@
 				
 				"content_html": "<p>Today I started up a new #gamedev project using #twine and the #pico8 color palette.</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/5302281742.jpg\" width=\"600\" height=\"362\" alt=\"\" /></p>\n",
 				"content_text": "Today I started up a new #gamedev project using #twine and the #pico8 color palette.\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/5302281742.jpg\" width=\"600\" height=\"362\" alt=\"\" />\n",
-				"date_published": "2020-01-02T17:19:20-07:00",
+				"date_published": "2020-01-02T16:19:20-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/02/today-i-started.html"
 			},
 			{
@@ -435,7 +443,7 @@
 				
 				"content_html": "<p>Sunrise walk before work.</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/f1ac938fc2.jpg\" width=\"600\" height=\"338\" alt=\"\" /></p>\n",
 				"content_text": "Sunrise walk before work.\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/f1ac938fc2.jpg\" width=\"600\" height=\"338\" alt=\"\" />\n",
-				"date_published": "2020-01-02T09:18:15-07:00",
+				"date_published": "2020-01-02T08:18:15-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/02/sunrise-walk-before.html"
 			},
 			{
@@ -443,7 +451,7 @@
 				
 				"content_html": "<p>Is it crazy to believe that the next decade can be better than the last?</p>\n\n<p>The #gamedev community had its ups and downs, but it ultimately closed out an amazing decade in gaming. I cannot wait to see what this fantastic industry has to offer in 2020 and beyond. #pico8 #pixelart</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2020/b454cbcca0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Is it crazy to believe that the next decade can be better than the last? \r\n\r\nThe #gamedev community had its ups and downs, but it ultimately closed out an amazing decade in gaming. I cannot wait to see what this fantastic industry has to offer in 2020 and beyond. #pico8 #pixelart\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2020/b454cbcca0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-01-01T15:53:02-07:00",
+				"date_published": "2020-01-01T14:53:02-08:00",
 				"url": "https://blog.gabrielcornish.com/2020/01/01/is-it-crazy.html"
 			},
 			{
@@ -451,7 +459,7 @@
 				
 				"content_html": "<p>My world famous Wabi-Sabi wrapping technique. I’m proud of this one.</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/5dc0c194f4.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
 				"content_text": "My world famous Wabi-Sabi wrapping technique. I’m proud of this one. \n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/5dc0c194f4.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
-				"date_published": "2019-12-25T09:31:19-07:00",
+				"date_published": "2019-12-25T08:31:19-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/25/my-world-famous.html"
 			},
 			{
@@ -459,7 +467,7 @@
 				
 				"content_html": "<p>Happy Holidays everyone! Over the next couple weeks, I hope you have an abundance of Triple F&rsquo;s&hellip; Friends, Family and Food. #pico8 #pixelart</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/283f5dc8ea.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Happy Holidays everyone! Over the next couple weeks, I hope you have an abundance of Triple F's... Friends, Family and Food. #pico8 #pixelart\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/283f5dc8ea.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2019-12-24T12:58:48-07:00",
+				"date_published": "2019-12-24T11:58:48-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/24/happy-holidays-everyone.html"
 			},
 			{
@@ -467,7 +475,7 @@
 				
 				"content_html": "<p>Today I saw someone flying a kite in front of a rainbow. Gotta love Sunday.</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/3b27e6103a.jpg\" width=\"600\" height=\"457\" alt=\"\" /></p>\n",
 				"content_text": "Today I saw someone flying a kite in front of a rainbow. Gotta love Sunday. \n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/3b27e6103a.jpg\" width=\"600\" height=\"457\" alt=\"\" />\n",
-				"date_published": "2019-12-22T11:25:07-07:00",
+				"date_published": "2019-12-22T10:25:07-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/22/today-i-saw.html"
 			},
 			{
@@ -475,7 +483,7 @@
 				
 				"content_html": "<p>For some reason, I&rsquo;m really enjoying working on this 3D #lowrez aesthetic. #pixelart #godot #gamedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/0dbc7fb37b.jpg\" width=\"600\" height=\"577\" alt=\"\" /></p>\n",
 				"content_text": "For some reason, I'm really enjoying working on this 3D #lowrez aesthetic. #pixelart #godot #gamedev\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/0dbc7fb37b.jpg\" width=\"600\" height=\"577\" alt=\"\" />\n",
-				"date_published": "2019-12-21T13:53:00-07:00",
+				"date_published": "2019-12-21T12:53:00-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/21/for-some-reason.html",
 				"tags": ["portfolio"]
 			},
@@ -484,7 +492,7 @@
 				
 				"content_html": "<p>I don&rsquo;t know about you, but my #corgi only ever has one thing on her mind. She can go from Zero-To-Play in under a second. #pico8 #pixelart</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/5703d2b389.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "I don't know about you, but my #corgi only ever has one thing on her mind. She can go from Zero-To-Play in under a second. #pico8 #pixelart\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/5703d2b389.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2019-12-20T16:33:05-07:00",
+				"date_published": "2019-12-20T15:33:05-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/20/i-dont-know.html"
 			},
 			{
@@ -492,7 +500,7 @@
 				
 				"content_html": "<p>Happy Friday! Here&rsquo;s another wobble doodle. #pico8 #pixelart</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/45b11faa62.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Happy Friday! Here's another wobble doodle. #pico8 #pixelart\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/45b11faa62.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2019-12-20T13:05:05-07:00",
+				"date_published": "2019-12-20T12:05:05-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/20/happy-friday-heres.html"
 			},
 			{
@@ -500,7 +508,7 @@
 				
 				"content_html": "<p>Hard to believe another #starwars trilogy is concluding. Tonight&rsquo;s all about good friends, fountain drinks and a bucket of popcorn. Just like old times 😊 #pico8 #pixelart</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/7ce1bf939e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Hard to believe another #starwars trilogy is concluding. Tonight's all about good friends, fountain drinks and a bucket of popcorn. Just like old times 😊 #pico8 #pixelart\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/7ce1bf939e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2019-12-19T22:39:20-07:00",
+				"date_published": "2019-12-19T21:39:20-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/19/hard-to-believe.html"
 			},
 			{
@@ -508,7 +516,7 @@
 				
 				"content_html": "<p>It&rsquo;s hard to keep these three things equally balanced, but we should try anyways. Happy #gamedev&rsquo;s makes a happier industry. A happier industry makes better games. Better games makes happier players. Win-win. 😊 #pico8 #pixelart</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/cc3a38b202.jpg\" width=\"256\" height=\"256\" alt=\"\" /></p>\n",
 				"content_text": "It's hard to keep these three things equally balanced, but we should try anyways. Happy #gamedev's makes a happier industry. A happier industry makes better games. Better games makes happier players. Win-win. 😊 #pico8 #pixelart\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/cc3a38b202.jpg\" width=\"256\" height=\"256\" alt=\"\" />\n",
-				"date_published": "2019-12-19T11:00:50-07:00",
+				"date_published": "2019-12-19T10:00:50-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/19/its-hard-to.html"
 			},
 			{
@@ -516,7 +524,7 @@
 				
 				"content_html": "<p>Spent today doing some #gamedev and trying to recapture the look and feel of a #ps1 game. #godot #RetroGaming</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/dc1c6ceb24.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
 				"content_text": "Spent today doing some #gamedev and trying to recapture the look and feel of a #ps1 game. #godot #RetroGaming\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/dc1c6ceb24.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2019-12-18T18:25:00-07:00",
+				"date_published": "2019-12-18T17:25:00-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/18/spent-today-doing.html",
 				"tags": ["portfolio"]
 			},
@@ -525,7 +533,7 @@
 				
 				"content_html": "<p>If your a #gamedev making games today, thank you! If you&rsquo;re a #gamer playing games today, thank you! Have fun and enjoy yourself today.</p>\n\n<ul>\n<li>#pixelart made with #pico8 &amp; #WOBBLE_PAINT</li>\n</ul>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/4ba0bb6c5d.jpg\" width=\"256\" height=\"256\" alt=\"\" /></p>\n",
 				"content_text": "If your a #gamedev making games today, thank you! If you're a #gamer playing games today, thank you! Have fun and enjoy yourself today. \r\n\r\n- #pixelart made with #pico8 & #WOBBLE_PAINT\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/4ba0bb6c5d.jpg\" width=\"256\" height=\"256\" alt=\"\" />\n",
-				"date_published": "2019-12-18T08:34:33-07:00",
+				"date_published": "2019-12-18T07:34:33-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/18/if-your-a.html"
 			},
 			{
@@ -533,7 +541,7 @@
 				
 				"content_html": "<p>We need more #cozygames retro synthwave stuff! It&rsquo;s been a challenge to get the week going, so I hope this #gamedev sketch brings you some much needed &ldquo;chill&rdquo; this week. Credit for the inspiration goes to @StegmayerLuke &amp; @Theoremnd #pixelart</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/940598bdef.jpg\" width=\"256\" height=\"256\" alt=\"\" /></p>\n",
 				"content_text": "We need more #cozygames retro synthwave stuff! It's been a challenge to get the week going, so I hope this #gamedev sketch brings you some much needed \"chill\" this week. Credit for the inspiration goes to @StegmayerLuke & @Theoremnd #pixelart\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/940598bdef.jpg\" width=\"256\" height=\"256\" alt=\"\" />\n",
-				"date_published": "2019-12-17T16:49:41-07:00",
+				"date_published": "2019-12-17T15:49:41-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/17/we-need-more.html"
 			},
 			{
@@ -541,7 +549,7 @@
 				
 				"content_html": "<p>For #tbt here&rsquo;s a small game I made a LONG time ago. What is this even!? Who knows. However there&rsquo;s a quality in the work that only a beginner can have. Remember to enjoy your #gamedev journey. Keep a beginners mind.\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/bad0a79176.gif\" alt=\"\" /></p>\n",
 				"content_text": "For #tbt here's a small game I made a LONG time ago. What is this even!? Who knows. However there's a quality in the work that only a beginner can have. Remember to enjoy your #gamedev journey. Keep a beginners mind.\n![](https://blog.gabrielcornish.com/uploads/2019/bad0a79176.gif)\n",
-				"date_published": "2019-12-12T16:21:48-07:00",
+				"date_published": "2019-12-12T15:21:48-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/12/for-tbt-heres.html"
 			},
 			{
@@ -549,7 +557,7 @@
 				
 				"content_html": "<p>Thinking through minimalist choice design structures in #gamedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/16dab78489.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Thinking through minimalist choice design structures in #gamedev \n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/16dab78489.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2019-12-11T18:31:01-07:00",
+				"date_published": "2019-12-11T17:31:01-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/11/thinking-through-minimalist.html"
 			},
 			{
@@ -557,7 +565,7 @@
 				
 				"content_html": "<p>Snapshot of my game making space. Happy Monday and start of the week to all the #gamedev out there making their dreams come true.</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/d5d85d8c9d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Snapshot of my game making space. Happy Monday and start of the week to all the #gamedev out there making their dreams come true. \n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/d5d85d8c9d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2019-12-09T12:32:47-07:00",
+				"date_published": "2019-12-09T11:32:47-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/09/snapshot-of-my.html"
 			},
 			{
@@ -565,7 +573,7 @@
 				
 				"content_html": "<p>Sunrise walk.</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/22c9c554d7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Sunrise walk.\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/22c9c554d7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2019-12-09T11:16:39-07:00",
+				"date_published": "2019-12-09T10:16:39-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/09/sunrise-walk.html"
 			},
 			{
@@ -573,7 +581,7 @@
 				
 				"content_html": "<p>Practicing some more #pixelart. This one was inspired by @csmgllz &ldquo;Riders of the dawn&rdquo;</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/eb35a0cd74.jpg\" width=\"256\" height=\"256\" alt=\"\" /></p>\n",
 				"content_text": "Practicing some more #pixelart. This one was inspired by @csmgllz \"Riders of the dawn\"\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/eb35a0cd74.jpg\" width=\"256\" height=\"256\" alt=\"\" />\n",
-				"date_published": "2019-12-07T15:47:02-07:00",
+				"date_published": "2019-12-07T14:47:02-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/07/practicing-some-more.html"
 			},
 			{
@@ -581,7 +589,7 @@
 				
 				"content_html": "<p>Today I worked on some concept art for my next #gamedev project. I&rsquo;m new to #pixelart but I&rsquo;ve been having a lot of fun with it so far and I&rsquo;m learning a lot.</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/376e603f74.jpg\" width=\"256\" height=\"256\" alt=\"\" /></p>\n",
 				"content_text": "Today I worked on some concept art for my next #gamedev project. I'm new to #pixelart but I've been having a lot of fun with it so far and I'm learning a lot.\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/376e603f74.jpg\" width=\"256\" height=\"256\" alt=\"\" />\n",
-				"date_published": "2019-12-06T15:40:14-07:00",
+				"date_published": "2019-12-06T14:40:14-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/06/today-i-worked.html"
 			},
 			{
@@ -589,7 +597,7 @@
 				
 				"content_html": "<p>Goof off and eat marshmallows with your friend! I just released <a href=\"https://gabrielcornish.itch.io/marshmallow-nights\">Marshmallow Nights</a>, another short #twine game you can finish in a single sitting. #gamedev</p>\n\n<p><img src=\"https://imgur.com/R4J3myK.gif\" alt=\"\" /></p>\n",
 				"content_text": "Goof off and eat marshmallows with your friend! I just released [Marshmallow Nights](https://gabrielcornish.itch.io/marshmallow-nights), another short #twine game you can finish in a single sitting. #gamedev\n\n![](https://imgur.com/R4J3myK.gif)\n",
-				"date_published": "2019-12-04T16:48:50-07:00",
+				"date_published": "2019-12-04T15:48:50-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/04/goof-off-and.html"
 			},
 			{
@@ -597,7 +605,7 @@
 				
 				"content_html": "<p>It&rsquo;s raining, so I thought I&rsquo;d make a small #cozygame today. It&rsquo;s called Hot Soup and you can <a href=\"https://gabrielcornish.itch.io/hot-soup\">play</a> it on itch now. #gamedev #twine\n<img src=\"https://img.itch.zone/aW1nLzI3NDMwNzMuZ2lm/original/7YB776.gif\" alt=\"\" /></p>\n",
 				"content_text": "It's raining, so I thought I'd make a small #cozygame today. It's called Hot Soup and you can [play](https://gabrielcornish.itch.io/hot-soup) it on itch now. #gamedev #twine\n![](https://img.itch.zone/aW1nLzI3NDMwNzMuZ2lm/original/7YB776.gif)\n",
-				"date_published": "2019-12-02T17:11:16-07:00",
+				"date_published": "2019-12-02T16:11:16-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/02/its-raining-so.html"
 			},
 			{
@@ -605,7 +613,7 @@
 				
 				"content_html": "<p>Rainy day, warm fire and a hot tea is the perfect way to prep for the #gamedev week ahead.</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/ed6ba95fd1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Rainy day, warm fire and a hot tea is the perfect way to prep for the #gamedev week ahead.\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/ed6ba95fd1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2019-12-01T18:06:30-07:00",
+				"date_published": "2019-12-01T17:06:30-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/12/01/rainy-day-warm.html"
 			},
 			{
@@ -613,7 +621,7 @@
 				
 				"content_html": "<p>One of my favorite #gamedev manifestos. Credit goes to @lexaloffle from a talk he gave for the <a href=\"https://www.youtube.com/watch?v=87jfTIWosBw\">NYU Game Center</a>.</p>\n\n<ul>\n<li><p>Small things matter</p></li>\n\n<li><p>Discard and move on</p></li>\n\n<li><p>Inhabit boundaries</p></li>\n\n<li><p>Follow a new path</p></li>\n\n<li><p>Ignore the real world</p></li>\n</ul>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/ed494d5a23.jpg\" width=\"443\" height=\"333\" alt=\"\" /></p>\n",
 				"content_text": "One of my favorite #gamedev manifestos. Credit goes to @lexaloffle from a talk he gave for the [NYU Game Center](https://www.youtube.com/watch?v=87jfTIWosBw).\r\n\r\n- Small things matter\r\n\r\n- Discard and move on\r\n\r\n- Inhabit boundaries\r\n\r\n- Follow a new path\r\n\r\n- Ignore the real world\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/ed494d5a23.jpg\" width=\"443\" height=\"333\" alt=\"\" />\n",
-				"date_published": "2019-11-26T08:56:11-07:00",
+				"date_published": "2019-11-26T07:56:11-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/11/26/one-of-my.html"
 			},
 			{
@@ -621,7 +629,7 @@
 				
 				"content_html": "<p>It might be silly to celebrate temporary tiny wins, but I&rsquo;m gonna celebrate the tiny win. <a href=\"https://gabrielcornish.itch.io/the-hackers-cave\">The Hacker&rsquo;s Cave</a> made it to the front page of Itch! #gamedev</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/dc2cc5d4c4.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
 				"content_text": "It might be silly to celebrate temporary tiny wins, but I'm gonna celebrate the tiny win. [The Hacker's Cave](https://gabrielcornish.itch.io/the-hackers-cave) made it to the front page of Itch! #gamedev\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/dc2cc5d4c4.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
-				"date_published": "2019-11-25T22:24:53-07:00",
+				"date_published": "2019-11-25T21:24:53-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/11/25/it-might-be.html"
 			},
 			{
@@ -629,7 +637,7 @@
 				
 				"content_html": "<p>As someone who thinks a lot about what a game &ldquo;is&rdquo;, <a href=\"http://jeff-vogel.blogspot.com/2017/12/i-settle-all-video-game-arguments-part.html\">this article</a> by @spiderwebsoft is one of my favorite responses to that question.</p>\n",
 				"content_text": "As someone who thinks a lot about what a game \"is\", [this article](http://jeff-vogel.blogspot.com/2017/12/i-settle-all-video-game-arguments-part.html) by @spiderwebsoft is one of my favorite responses to that question.\n",
-				"date_published": "2019-11-25T16:48:03-07:00",
+				"date_published": "2019-11-25T15:48:03-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/11/25/as-someone-who.html"
 			},
 			{
@@ -637,7 +645,7 @@
 				
 				"content_html": "<p>Found this awesome #gamedev tutorial gif. Credit goes to @Securas2010 who is doing some really cool #indiegamedev stuff in #godot.</p>\n\n<p><img src=\"https://imgur.com/h1Pb6TC.gif\" alt=\"\" /></p>\n",
 				"content_text": "Found this awesome #gamedev tutorial gif. Credit goes to @Securas2010 who is doing some really cool #indiegamedev stuff in #godot.\n\n![](https://imgur.com/h1Pb6TC.gif)\n",
-				"date_published": "2019-11-25T16:00:28-07:00",
+				"date_published": "2019-11-25T15:00:28-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/11/25/found-this-awesome.html"
 			},
 			{
@@ -645,7 +653,7 @@
 				
 				"content_html": "<blockquote>\n<p>&ldquo;Learn to be indifferent to what makes no difference&rdquo; - Marcus Aurelius</p>\n</blockquote>\n",
 				"content_text": "> \"Learn to be indifferent to what makes no difference\" - Marcus Aurelius\n",
-				"date_published": "2019-11-23T13:54:13-07:00",
+				"date_published": "2019-11-23T12:54:13-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/11/23/learn-to-be.html"
 			},
 			{
@@ -653,7 +661,7 @@
 				
 				"content_html": "<p>How to choose a #gamedev theme you&rsquo;ll be excited about for your next project:</p>\n\n<p>(1) Write 10 things you DID yesterday.</p>\n\n<p>(2) Write 10 things you SAW yesterday.</p>\n\n<p>(3) Select your favorite verb from the DID list and combine it with your favorite noun from SAW list.</p>\n\n<p>(4) Make game!</p>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/240c949416.jpg\" width=\"440\" height=\"220\" alt=\"\" /></p>\n",
 				"content_text": "How to choose a #gamedev theme you'll be excited about for your next project:\r\n\r\n(1) Write 10 things you DID yesterday.\r\n\r\n(2) Write 10 things you SAW yesterday.\r\n\r\n(3) Select your favorite verb from the DID list and combine it with your favorite noun from SAW list.\r\n\r\n(4) Make game!\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/240c949416.jpg\" width=\"440\" height=\"220\" alt=\"\" />\n",
-				"date_published": "2019-11-22T15:34:52-07:00",
+				"date_published": "2019-11-22T14:34:52-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/11/22/how-to-choose.html"
 			},
 			{
@@ -661,7 +669,7 @@
 				
 				"content_html": "<blockquote>\n<p>Keep company only with corgis who uplift you, whose presence calls forth your best. - Epictetus</p>\n</blockquote>\n\n<p><img src=\"https://blog.gabrielcornish.com/uploads/2019/f203baa4d0.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
 				"content_text": "> Keep company only with corgis who uplift you, whose presence calls forth your best. - Epictetus\n\n<img src=\"https://blog.gabrielcornish.com/uploads/2019/f203baa4d0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2019-11-22T12:36:26-07:00",
+				"date_published": "2019-11-22T11:36:26-08:00",
 				"url": "https://blog.gabrielcornish.com/2019/11/22/keep-company-only.html"
 			}
 	]
