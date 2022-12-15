@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://gabrielcornish.micro.blog/2022/12/15/not-knowing-what.html",
+				
+				"content_html": "<p>Not knowing what &ldquo;done&rdquo; looks like is the equivalent to running a marathon without a finish line.</p>\n",
+				"content_text": "Not knowing what \"done\" looks like is the equivalent to running a marathon without a finish line.\n",
+				"date_published": "2022-12-15T11:26:35-08:00",
+				"url": "https://gabrielcornish.com/2022/12/15/not-knowing-what.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2022/12/08/im-calling-it.html",
+				
+				"content_html": "<p>🕹️ I&rsquo;m calling it now: the GOTY will be an action-adventure game, because, if we&rsquo;re honest, that&rsquo;s pretty much who wins every year. #TheGameAwards</p>\n",
+				"content_text": "🕹️ I'm calling it now: the GOTY will be an action-adventure game, because, if we're honest, that's pretty much who wins every year. #TheGameAwards\n",
+				"date_published": "2022-12-08T10:08:03-08:00",
+				"url": "https://gabrielcornish.com/2022/12/08/im-calling-it.html"
+			},
+			{
 				"id": "http://gabrielcornish.micro.blog/2022/12/04/sunday-morning-walk.html",
 				
 				"content_html": "<p>Sunday morning walk after a rainy day.</p>\n\n<p><img src=\"uploads/2022/99b99b40e4.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
