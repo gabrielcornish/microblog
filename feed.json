@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://gabrielcornish.micro.blog/2023/04/24/game-idea-an.html",
+				
+				"content_html": "<p>Game Idea: An action-shooter where your bullets become more powerful the less ammo you have.</p>\n",
+				"content_text": "Game Idea: An action-shooter where your bullets become more powerful the less ammo you have.\n",
+				"date_published": "2023-04-24T16:44:57-07:00",
+				"url": "https://gabrielcornish.com/2023/04/24/game-idea-an.html"
+			},
+			{
 				"id": "http://gabrielcornish.micro.blog/2023/04/18/i-can-finally.html",
 				
-				"content_html": "<p>I can finally talk about what I&rsquo;ve been working on for the last few years! Life By You is an open-world life simulation game coming to Early Access in September 2023.</p>\n\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"//www.youtube.com/embed/U9c3WEYTJIU\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
-				"content_text": "I can finally talk about what I've been working on for the last few years! Life By You is an open-world life simulation game coming to Early Access in September 2023.\r\n\r\n{{< youtube U9c3WEYTJIU >}}\n",
+				"content_html": "<p>I can finally talk about what I&rsquo;ve been working on for the last few years! Life By You is an open-world life simulation game coming to Early Access in September 2023. 🕹️</p>\n\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"//www.youtube.com/embed/U9c3WEYTJIU\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_text": "I can finally talk about what I've been working on for the last few years! Life By You is an open-world life simulation game coming to Early Access in September 2023. 🕹️\n\n{{< youtube U9c3WEYTJIU >}}\n",
 				"date_published": "2023-04-18T13:33:43-07:00",
 				"url": "https://gabrielcornish.com/2023/04/18/i-can-finally.html"
 			},
@@ -41,8 +49,8 @@
 			{
 				"id": "http://gabrielcornish.micro.blog/2022/12/31/its-been-a.html",
 				
-				"content_html": "<p>It’s been a relaxing break, but it’s rained quite a bit. So, we decided to go through the Sinister Six campaign. Just got to the final villain.</p>\n\n<p><img src=\"uploads/2023/e68d251494.jpg\" width=\"599\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "It’s been a relaxing break, but it’s rained quite a bit. So, we decided to go through the Sinister Six campaign. Just got to the final villain. \n\n<img src=\"uploads/2023/e68d251494.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>It’s been a relaxing break, but it’s rained quite a bit. So, we decided to go through the Sinister Six campaign. Just got to the final villain.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/16155/2023/e68d251494.jpg\" width=\"599\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "It’s been a relaxing break, but it’s rained quite a bit. So, we decided to go through the Sinister Six campaign. Just got to the final villain. \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2023/e68d251494.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-31T17:53:46-07:00",
 				"url": "https://gabrielcornish.com/2022/12/31/its-been-a.html"
 			},
@@ -201,8 +209,8 @@
 			{
 				"id": "http://gabrielcornish.micro.blog/2020/08/21/rediscovering-the-joy.html",
 				
-				"content_html": "<p>Rediscovering the joy of doodling in MS Paint 🎨 #pixelart</p>\n\n<p><img src=\"uploads/2020/42ff59b303.png\" width=\"600\" height=\"544\" alt=\"\" /></p>\n",
-				"content_text": "Rediscovering the joy of doodling in MS Paint 🎨 #pixelart\n\n<img src=\"uploads/2020/42ff59b303.png\" width=\"600\" height=\"544\" alt=\"\" />\n",
+				"content_html": "<p>Rediscovering the joy of doodling in MS Paint 🎨 #pixelart</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/16155/2020/42ff59b303.png\" width=\"600\" height=\"544\" alt=\"\" /></p>\n",
+				"content_text": "Rediscovering the joy of doodling in MS Paint 🎨 #pixelart\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/42ff59b303.png\" width=\"600\" height=\"544\" alt=\"\" />\n",
 				"date_published": "2020-08-21T16:37:59-07:00",
 				"url": "https://gabrielcornish.com/2020/08/21/rediscovering-the-joy.html"
 			},
