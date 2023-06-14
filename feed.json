@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://gabrielcornish.micro.blog/2023/06/14/signs-and-feedback.html",
+				"title": "Signs and Feedback are the language of video games.",
+				"content_html": "<p>The player sees a sign, they provide input, and then receive feedback. Repeat. This loop is the heart of how games create a dialogue with the player.</p>\n\n<p><strong>Why It Matters</strong>: Sending clear messages and feedback about the state of the game allows the player to react and make informed choices. This is a critical element to making a game more enjoyable.</p>\n\n<p><strong>The Bigger Picture</strong>: Creating gameplay that provides clear signs and feedback is more than just crafting a more fun experience. It&rsquo;s about making a more accessible experience so that more people can enjoy games.</p>\n\n<p><strong>Deeper Dive</strong>: If you&rsquo;re interested in this area of game design, check out <a href=\"https://gdkeys.com/keys-signs-feedback/\">GDKey&rsquo;s excellent article</a> (5 minute read).</p>\n\n<p><img src=\"uploads/2023/a6fc98f86a.png\" width=\"600\" height=\"139\" alt=\"\"></p>\n",
+				"content_text": "The player sees a sign, they provide input, and then receive feedback. Repeat. This loop is the heart of how games create a dialogue with the player.\r\n\r\n**Why It Matters**: Sending clear messages and feedback about the state of the game allows the player to react and make informed choices. This is a critical element to making a game more enjoyable.\r\n\r\n**The Bigger Picture**: Creating gameplay that provides clear signs and feedback is more than just crafting a more fun experience. It's about making a more accessible experience so that more people can enjoy games.\r\n\r\n**Deeper Dive**: If you're interested in this area of game design, check out [GDKey's excellent article](https://gdkeys.com/keys-signs-feedback/) (5 minute read). \n\n<img src=\"uploads/2023/a6fc98f86a.png\" width=\"600\" height=\"139\" alt=\"\">\n",
+				"date_published": "2023-06-14T15:11:03-07:00",
+				"url": "https://gabrielcornish.com/2023/06/14/signs-and-feedback.html"
+			},
+			{
 				"id": "http://gabrielcornish.micro.blog/2023/04/24/game-idea-an.html",
 				
-				"content_html": "<p>Game Idea: An action-shooter where your bullets become more powerful the less ammo you have.</p>\n",
-				"content_text": "Game Idea: An action-shooter where your bullets become more powerful the less ammo you have.\n",
+				"content_html": "<p>Game Idea: An action-shooter where your bullets become more powerful the less ammo you have. 🕹️</p>\n",
+				"content_text": "Game Idea: An action-shooter where your bullets become more powerful the less ammo you have. 🕹️\n",
 				"date_published": "2023-04-24T16:44:57-07:00",
 				"url": "https://gabrielcornish.com/2023/04/24/game-idea-an.html"
 			},
@@ -185,8 +193,8 @@
 			{
 				"id": "http://gabrielcornish.micro.blog/2021/04/01/134103.html",
 				
-				"content_html": "<p><img src=\"http://gabrielcornish.com/16155/2021/1ee7f38de5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"http://gabrielcornish.com/16155/2021/1ee7f38de5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/16155/2021/1ee7f38de5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2021/1ee7f38de5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-01T14:41:03-07:00",
 				"url": "https://gabrielcornish.com/2021/04/01/134103.html"
 			},
@@ -201,8 +209,8 @@
 			{
 				"id": "http://gabrielcornish.micro.blog/2020/09/19/shes-had-a.html",
 				
-				"content_html": "<p>She’s had a long day.</p>\n\n<p><img src=\"uploads/2020/9774fa281b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "She’s had a long day. \n\n<img src=\"uploads/2020/9774fa281b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>She’s had a long day.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/16155/2020/9774fa281b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "She’s had a long day. \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/9774fa281b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-09-19T15:31:14-07:00",
 				"url": "https://gabrielcornish.com/2020/09/19/shes-had-a.html"
 			},
