@@ -7,10 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://gabrielcornish.micro.blog/2023/06/20/my-first-fathers.html",
+				
+				"content_html": "<p>✨ My first Father’s Day gift.</p>\n\n<p>“Air Jordan 1 Retro OG Spider-Man Across the Spider-Verse”</p>\n\n<p><img src=\"uploads/2023/aeec353f5d.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "✨ My first Father’s Day gift. \n\n“Air Jordan 1 Retro OG Spider-Man Across the Spider-Verse”\n\n<img src=\"uploads/2023/aeec353f5d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-20T07:01:35-07:00",
+				"url": "https://gabrielcornish.com/2023/06/20/my-first-fathers.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2023/06/19/i-wrote-about.html",
+				
+				"content_html": "<p><a href=\"https://gabrielcornish.com/2023/06/17/but-what-does.html\">I wrote about this the other day</a>, but Zach Gage put it more succinctly.</p>\n\n<p><img src=\"uploads/2023/image.jpg\" width=\"426\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "[I wrote about this the other day](https://gabrielcornish.com/2023/06/17/but-what-does.html), but Zach Gage put it more succinctly.\r\n\n<img src=\"uploads/2023/image.jpg\" width=\"426\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-19T08:42:52-07:00",
+				"url": "https://gabrielcornish.com/2023/06/19/i-wrote-about.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2023/06/18/doing-nothing-in.html",
+				"title": "Doing nothing in games should be meaningful.",
+				"content_html": "<p><strong>Why it matters</strong>: In game design, not pushing a button can be just as important as pushing a button. Choosing not to do something should have gameplay consequences.</p>\n\n<p><li>If there’s a benefit to doing something in your game, there should also be a benefit to not doing it.\nThis approach creates tradeoffs. Tradeoffs are one of a player&rsquo;s most fun decisions in a game.</li></p>\n\n<p><strong>For example</strong>: Say you have a treasure chest in your game that the player can destroy to earn a reward; what are some ways to reward them for not destroying it?</p>\n\n<p>Maybe they could:</p>\n\n<p><li>Gift the chest to an NPC to increase friendship with them </li>\n<li>Use the chest to climb onto a ledge that’s out of reach </li></p>\n\n<p><strong>The bottom line</strong>: You can increase the depth of a single interaction if you consider how the player can benefit from not doing the interaction. 🕹️</p>\n",
+				"content_text": "**Why it matters**: In game design, not pushing a button can be just as important as pushing a button. Choosing not to do something should have gameplay consequences.\r\n\r\n<li>If there’s a benefit to doing something in your game, there should also be a benefit to not doing it.\r\nThis approach creates tradeoffs. Tradeoffs are one of a player's most fun decisions in a game.</li>\r\n\r\n**For example**: Say you have a treasure chest in your game that the player can destroy to earn a reward; what are some ways to reward them for not destroying it? \r\n\r\nMaybe they could:\r\n\r\n<li>Gift the chest to an NPC to increase friendship with them </li>\r\n<li>Use the chest to climb onto a ledge that’s out of reach </li>\r\n\r\n**The bottom line**: You can increase the depth of a single interaction if you consider how the player can benefit from not doing the interaction. 🕹️\n",
+				"date_published": "2023-06-18T15:50:39-07:00",
+				"url": "https://gabrielcornish.com/2023/06/18/doing-nothing-in.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2023/06/17/but-what-does.html",
+				
+				"content_html": "<p>🕹️ Player verbs are gameplay.</p>\n\n<p><strong>Why it matters</strong>: &ldquo;But what does the player get to do?&rdquo;</p>\n\n<p>This is the question I have to ask after most game announcements and trailers.</p>\n\n<p><strong>The bottom line</strong>:\nCinematic trailers are not gameplay. Backstory and lore are not gameplay. Beautiful graphics are not gameplay.</p>\n",
+				"content_text": "🕹️ Player verbs are gameplay.\n\n**Why it matters**: \"But what does the player get to do?\"\n\nThis is the question I have to ask after most game announcements and trailers.\n\n**The bottom line**:\nCinematic trailers are not gameplay. Backstory and lore are not gameplay. Beautiful graphics are not gameplay.\n\n",
+				"date_published": "2023-06-17T17:15:23-07:00",
+				"url": "https://gabrielcornish.com/2023/06/17/but-what-does.html"
+			},
+			{
 				"id": "http://gabrielcornish.micro.blog/2023/06/14/signs-and-feedback.html",
 				"title": "Signs and Feedback are the language of video games.",
-				"content_html": "<p>The player sees a sign, they provide input, and then receive feedback. Repeat. This loop is the heart of how games create a dialogue with the player.</p>\n\n<p><strong>Why It Matters</strong>: Sending clear messages and feedback about the state of the game allows the player to react and make informed choices. This is a critical element to making a game more enjoyable.</p>\n\n<p><strong>The Bigger Picture</strong>: Creating gameplay that provides clear signs and feedback is more than just crafting a more fun experience. It&rsquo;s about making a more accessible experience so that more people can enjoy games.</p>\n\n<p><strong>Deeper Dive</strong>: If you&rsquo;re interested in this area of game design, check out <a href=\"https://gdkeys.com/keys-signs-feedback/\">GDKey&rsquo;s excellent article</a> (5 minute read).</p>\n\n<p><img src=\"uploads/2023/a6fc98f86a.png\" width=\"600\" height=\"139\" alt=\"\"></p>\n",
-				"content_text": "The player sees a sign, they provide input, and then receive feedback. Repeat. This loop is the heart of how games create a dialogue with the player.\r\n\r\n**Why It Matters**: Sending clear messages and feedback about the state of the game allows the player to react and make informed choices. This is a critical element to making a game more enjoyable.\r\n\r\n**The Bigger Picture**: Creating gameplay that provides clear signs and feedback is more than just crafting a more fun experience. It's about making a more accessible experience so that more people can enjoy games.\r\n\r\n**Deeper Dive**: If you're interested in this area of game design, check out [GDKey's excellent article](https://gdkeys.com/keys-signs-feedback/) (5 minute read). \n\n<img src=\"uploads/2023/a6fc98f86a.png\" width=\"600\" height=\"139\" alt=\"\">\n",
+				"content_html": "<p>The player sees a sign, they provide input, and then receive feedback. Repeat. This loop is the heart of how games create a dialogue with the player.</p>\n\n<p><strong>Why it matters</strong>: Sending clear messages and feedback about the state of the game allows the player to react and make informed choices. This is a critical element to making a game more enjoyable.</p>\n\n<p><strong>The bigger picture</strong>: Creating gameplay that provides clear signs and feedback is more than just crafting a more fun experience. It&rsquo;s about making a more accessible experience so that more people can enjoy games.</p>\n\n<p><strong>Deeper dive</strong>: If you&rsquo;re interested in this area of game design, check out <a href=\"https://gdkeys.com/keys-signs-feedback/\">GDKey&rsquo;s excellent article</a> (5 minute read).</p>\n\n<p><img src=\"uploads/2023/a6fc98f86a.png\" width=\"600\" height=\"139\" alt=\"\"></p>\n",
+				"content_text": "The player sees a sign, they provide input, and then receive feedback. Repeat. This loop is the heart of how games create a dialogue with the player.\n\n**Why it matters**: Sending clear messages and feedback about the state of the game allows the player to react and make informed choices. This is a critical element to making a game more enjoyable.\n\n**The bigger picture**: Creating gameplay that provides clear signs and feedback is more than just crafting a more fun experience. It's about making a more accessible experience so that more people can enjoy games.\n\n**Deeper dive**: If you're interested in this area of game design, check out [GDKey's excellent article](https://gdkeys.com/keys-signs-feedback/) (5 minute read). \n\n<img src=\"uploads/2023/a6fc98f86a.png\" width=\"600\" height=\"139\" alt=\"\">\n",
 				"date_published": "2023-06-14T15:11:03-07:00",
 				"url": "https://gabrielcornish.com/2023/06/14/signs-and-feedback.html"
 			},
@@ -33,8 +65,8 @@
 			{
 				"id": "http://gabrielcornish.micro.blog/2023/01/23/080827.html",
 				
-				"content_html": "<p><img src=\"uploads/2023/ca631cad9a.jpg\" width=\"599\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2023/ca631cad9a.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/16155/2023/ca631cad9a.jpg\" width=\"599\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2023/ca631cad9a.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-23T09:08:27-07:00",
 				"url": "https://gabrielcornish.com/2023/01/23/080827.html"
 			},
@@ -129,8 +161,8 @@
 			{
 				"id": "http://gabrielcornish.micro.blog/2022/11/23/ive-watched-a.html",
 				
-				"content_html": "<p>📺 I’ve watched a lot of tv shows in my life, but Chuck will always be in my top 5 of all time. So, if you haven’t seen it, do your eyeballs a favor!</p>\n\n<p><img src=\"uploads/2022/0a28351739.jpg\" width=\"599\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "📺 I’ve watched a lot of tv shows in my life, but Chuck will always be in my top 5 of all time. So, if you haven’t seen it, do your eyeballs a favor! \n\n<img src=\"uploads/2022/0a28351739.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>📺 I’ve watched a lot of tv shows in my life, but Chuck will always be in my top 5 of all time. So, if you haven’t seen it, do your eyeballs a favor!</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/16155/2022/0a28351739.jpg\" width=\"599\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "📺 I’ve watched a lot of tv shows in my life, but Chuck will always be in my top 5 of all time. So, if you haven’t seen it, do your eyeballs a favor! \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2022/0a28351739.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-23T12:36:29-07:00",
 				"url": "https://gabrielcornish.com/2022/11/23/ive-watched-a.html"
 			},
@@ -201,8 +233,8 @@
 			{
 				"id": "http://gabrielcornish.micro.blog/2020/09/28/we-hometeamgamedev-just.html",
 				
-				"content_html": "<p>We @HomeTeamGameDev just released our 100th game! This was a fun project to contribute to. <a href=\"https://gamkedo.itch.io/springfield-property-manager\">gamkedo.itch.io/springfie&hellip;</a> #gamedev</p>\n\n<p><img src=\"uploads/2020/b6e430c9f7.gif\" width=\"400\" height=\"288\" alt=\"\" /></p>\n",
-				"content_text": "We @HomeTeamGameDev just released our 100th game! This was a fun project to contribute to. [gamkedo.itch.io/springfie...](https://gamkedo.itch.io/springfield-property-manager) #gamedev\n\n<img src=\"uploads/2020/b6e430c9f7.gif\" width=\"400\" height=\"288\" alt=\"\" />\n",
+				"content_html": "<p>We @HomeTeamGameDev just released our 100th game! This was a fun project to contribute to. <a href=\"https://gamkedo.itch.io/springfield-property-manager\">gamkedo.itch.io/springfie&hellip;</a> #gamedev</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/16155/2020/b6e430c9f7.gif\" width=\"400\" height=\"288\" alt=\"\" /></p>\n",
+				"content_text": "We @HomeTeamGameDev just released our 100th game! This was a fun project to contribute to. [gamkedo.itch.io/springfie...](https://gamkedo.itch.io/springfield-property-manager) #gamedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/b6e430c9f7.gif\" width=\"400\" height=\"288\" alt=\"\" />\n",
 				"date_published": "2020-09-28T09:05:32-07:00",
 				"url": "https://gabrielcornish.com/2020/09/28/we-hometeamgamedev-just.html"
 			},
