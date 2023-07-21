@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://gabrielcornish.micro.blog/2023/07/21/me-hugs-wife.html",
+				
+				"content_html": "<p>Me: <em>hugs wife</em> I love you\nWife: Your shirt smells like spit up</p>\n",
+				"content_text": "Me: *hugs wife* I love you\nWife: Your shirt smells like spit up \n",
+				"date_published": "2023-07-21T12:46:30-07:00",
+				"url": "https://gabrielcornish.com/2023/07/21/me-hugs-wife.html"
+			},
+			{
 				"id": "http://gabrielcornish.micro.blog/2023/07/15/i-impusively-signed.html",
 				"title": "🕹️ I impusively signed up for a game jam",
 				"content_html": "<p>It was probably not the best idea. I have a newborn, and I&rsquo;m helping the studio I work at launch its first game in the next couple of months&hellip; so time isn&rsquo;t something I have a lot of.</p>\n\n<p><strong>Anyways</strong>: I decided to make a card game for the Godot Wild Jam. The theme is &ldquo;Train&rdquo;</p>\n\n<ul>\n<li>I established the data structure for shuffling and dealing out the deck of cards</li>\n<li>Picked the color palette for the game</li>\n<li>Got a basic visual representation of cards to show up on the screen</li>\n</ul>\n\n<p><strong>The Concept</strong>: You&rsquo;re a personal trainer for trains.</p>\n\n<ul>\n<li>Your goal is to help them get fit by helping them shed their extra cargo</li>\n<li>You&rsquo;ll play cards and powerups to help them lose the right amount of cargo</li>\n</ul>\n\n<p><strong>Next up</strong>: I gotta work on the functionality for allowing the player to play cards.</p>\n\n<p><img src=\"uploads/2023/day-one-progress.gif\" width=\"400\" height=\"250\" alt=\"\"></p>\n",
