@@ -11,7 +11,7 @@
 				
 				"content_html": "<p>Just stumbled on this quote and it got me thinking.</p>\n<blockquote>\n<p>“No matter what the work you are doing, be always ready to drop it. And plan it, so as to be able to leave it.” ― Leo Tolstoy</p>\n</blockquote>\n<p>I find myself sometimes clinging to things past the point where I should have let them go.</p>\n",
 				"content_text": "Just stumbled on this quote and it got me thinking.\r\n\r\n> “No matter what the work you are doing, be always ready to drop it. And plan it, so as to be able to leave it.” ― Leo Tolstoy\r\n\r\nI find myself sometimes clinging to things past the point where I should have let them go.\n",
-				"date_published": "2024-03-07T14:47:38-08:00",
+				"date_published": "2024-03-07T15:47:38-07:00",
 				"url": "https://gabrielcornish.com/2024/03/07/just-stumbled-on.html"
 			},
 			{
@@ -19,7 +19,7 @@
 				
 				"content_html": "<p>🧘I thought it would be good to formalize my mental health toolkit.</p>\n<p><strong>This process keeps me going</strong>:</p>\n<ul>\n<li>Meditate every day for at least 10 minutes</li>\n<li>Workout 20 minutes, 4 times a week</li>\n<li>Create something for 20 minutes, 3 times per week</li>\n</ul>\n<p><strong>Total time required</strong>:</p>\n<ul>\n<li>30 minutes per day</li>\n<li>3.5 hours per week</li>\n</ul>\n",
 				"content_text": "🧘I thought it would be good to formalize my mental health toolkit.\r\n\r\n**This process keeps me going**:\r\n\r\n- Meditate every day for at least 10 minutes\r\n- Workout 20 minutes, 4 times a week\r\n- Create something for 20 minutes, 3 times per week\r\n\r\n**Total time required**: \r\n\r\n- 30 minutes per day\r\n- 3.5 hours per week\n",
-				"date_published": "2024-03-02T10:52:22-08:00",
+				"date_published": "2024-03-02T11:52:22-07:00",
 				"url": "https://gabrielcornish.com/2024/03/02/i-thought-it.html"
 			},
 			{
@@ -27,7 +27,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<img src=\"uploads/2024/screenshot-2024-03-02-100359.png\" width=\"600\" height=\"381\" alt=\"\">\n",
-				"date_published": "2024-03-01T14:17:49-08:00",
+				"date_published": "2024-03-01T15:17:49-07:00",
 				"url": "https://gabrielcornish.com/2024/03/01/141749.html"
 			},
 			{
@@ -35,7 +35,7 @@
 				
 				"content_html": "<p>I want to get back to doing my MS Paint doodles, so here’s todays.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I want to get back to doing my MS Paint doodles, so here’s todays. \n\n<img src=\"uploads/2024/image.png\" width=\"600\" height=\"367\" alt=\"\">\n",
-				"date_published": "2024-02-09T19:26:47-08:00",
+				"date_published": "2024-02-09T20:26:47-07:00",
 				"url": "https://gabrielcornish.com/2024/02/09/i-want-to.html"
 			},
 			{
@@ -43,7 +43,7 @@
 				"title": "Use This Simple Technique To Generate Gameplay Ideas Fast",
 				"content_html": "<!-- raw HTML omitted -->\n<h2 id=\"the-problem\">The Problem</h2>\n<p>Have you ever tried to make a game about a theme like love?</p>\n<p>It sounds simple, right?</p>\n<p>But when you sit down to design it, you might find yourself stuck.</p>\n<p>Where do you even start? There are so many ways to approach this theme. It&rsquo;s like standing at a crossroads with hundreds of paths.</p>\n<p>You could go in any direction, but how do you know which one is right?</p>\n<p>This is a big challenge for game designers, both newbies and pros. It&rsquo;s easy to get lost in the sea of ideas and end up not starting at all.</p>\n<h2 id=\"why-it-matters\">Why It Matters</h2>\n<p>Why is solving this problem important?</p>\n<p>Well, having a clear process to turn any theme into a game concept is key. It helps you move faster in developing your game.</p>\n<p>You waste less time thinking and more time actually creating. Plus, you start to get a feel for what ideas will work and what won&rsquo;t right from the start.</p>\n<h2 id=\"personal-experience\">Personal Experience</h2>\n<p>I&rsquo;ve been there, stuck in the idea phase.</p>\n<p>Once, during a game jam, I spent half of the 48 hours trying to decide on an idea.</p>\n<p>When I finally picked one, I hardly had any time left to make the game. And I wasn&rsquo;t alone in this struggle. After reading other developers' logs, I knew we needed a better way.</p>\n<h2 id=\"verb-before-consequence\">Verb Before Consequence</h2>\n<p><strong>The solution is simple</strong>: &ldquo;Verb Before Consequence&rdquo;, or V.B.C.</p>\n<p>This means you think of a gameplay idea as something the player must do (the verb) before something else happens (the consequence).</p>\n<p><strong>For example</strong>:</p>\n<ul>\n<li>&ldquo;Rescue the princess BEFORE the dragon eats her.&rdquo;</li>\n<li>&ldquo;Stop the love of your life at the airport BEFORE they hop on a plane and leave forever.&rdquo;</li>\n<li>&ldquo;Clean the whole house BEFORE your parents get home.&rdquo;</li>\n</ul>\n<p>These ideas have a few key things:</p>\n<ul>\n<li><strong>Drama</strong>: There&rsquo;s a clear consequence and a ticking clock.</li>\n<li><strong>Interactivity</strong>: The player has a task they must do.</li>\n<li><strong>Clarity</strong>: You understand what the game is about.</li>\n</ul>\n<h2 id=\"objections\">Objections</h2>\n<p>Some might say this method is too simple to create a good game. But simplicity is powerful. The best games often have straightforward, engaging concepts.</p>\n<p>For example:</p>\n<ul>\n<li><strong>Chess</strong>: Checkmate your opponent BEFORE they checkmate you</li>\n<li><strong>Super Mario Bros.</strong>: &ldquo;Reach the end of the level BEFORE time runs out</li>\n<li><strong>Capture The Flag</strong>: Take the other team&rsquo;s flag back to your base BEFORE they take yours</li>\n<li><strong>Basketball / Football / Soccer</strong>: Score the most amount of points BEFORE time runs out</li>\n</ul>\n<p>You can dissect plenty of games and mechanics using this lens.</p>\n<h2 id=\"how-to-use-the-vbc-technique\">How to use the V.B.C. Technique</h2>\n<p>Whenever you need to come up with a gameplay concept, fill in the blanks, <strong>&ldquo;Do (Verb) BEFORE (Consequence).&quot;</strong></p>\n<p>Boom! You&rsquo;ve got a solid concept to start designing your game.</p>\n<p>By using this V.B.C. method, you&rsquo;ll find yourself moving from idea to game development much faster.</p>\n<p>It&rsquo;s a straightforward, effective tool to unlock endless creative possibilities.</p>\n<p>So, next time you&rsquo;re stuck, remember: <strong>Verb Before Consequence</strong>.</p>\n<p>Happy game designing!</p>\n",
 				"content_text": "<img src=\"uploads/2024/generate-ideas.png\" width=\"600\" height=\"375\" alt=\"\">\n\n## The Problem\n\nHave you ever tried to make a game about a theme like love?\n\nIt sounds simple, right? \n\nBut when you sit down to design it, you might find yourself stuck. \n\nWhere do you even start? There are so many ways to approach this theme. It's like standing at a crossroads with hundreds of paths. \n\nYou could go in any direction, but how do you know which one is right?\n\nThis is a big challenge for game designers, both newbies and pros. It's easy to get lost in the sea of ideas and end up not starting at all.\n\n## Why It Matters\n\nWhy is solving this problem important? \n\nWell, having a clear process to turn any theme into a game concept is key. It helps you move faster in developing your game. \n\nYou waste less time thinking and more time actually creating. Plus, you start to get a feel for what ideas will work and what won't right from the start.\n\n## Personal Experience\n\nI've been there, stuck in the idea phase. \n\nOnce, during a game jam, I spent half of the 48 hours trying to decide on an idea. \n\nWhen I finally picked one, I hardly had any time left to make the game. And I wasn't alone in this struggle. After reading other developers' logs, I knew we needed a better way.\n\n## Verb Before Consequence\n\n**The solution is simple**: \"Verb Before Consequence\", or V.B.C. \n\nThis means you think of a gameplay idea as something the player must do (the verb) before something else happens (the consequence). \n\n**For example**:\n\n- \"Rescue the princess BEFORE the dragon eats her.\"\n- \"Stop the love of your life at the airport BEFORE they hop on a plane and leave forever.\"\n- \"Clean the whole house BEFORE your parents get home.\"\n\nThese ideas have a few key things:\n\n- **Drama**: There's a clear consequence and a ticking clock.\n- **Interactivity**: The player has a task they must do.\n- **Clarity**: You understand what the game is about.\n\n## Objections\n\nSome might say this method is too simple to create a good game. But simplicity is powerful. The best games often have straightforward, engaging concepts.\n\nFor example: \n\n- **Chess**: Checkmate your opponent BEFORE they checkmate you\n- **Super Mario Bros.**: \"Reach the end of the level BEFORE time runs out\n- **Capture The Flag**: Take the other team's flag back to your base BEFORE they take yours\n- **Basketball / Football / Soccer**: Score the most amount of points BEFORE time runs out\n\nYou can dissect plenty of games and mechanics using this lens.\n\n## How to use the V.B.C. Technique\n\nWhenever you need to come up with a gameplay concept, fill in the blanks, **\"Do (Verb) BEFORE (Consequence).\"** \n\nBoom! You've got a solid concept to start designing your game.\n\nBy using this V.B.C. method, you'll find yourself moving from idea to game development much faster. \n\nIt's a straightforward, effective tool to unlock endless creative possibilities. \n\nSo, next time you're stuck, remember: **Verb Before Consequence**. \n\nHappy game designing!\n",
-				"date_published": "2024-01-23T11:00:07-08:00",
+				"date_published": "2024-01-23T12:00:07-07:00",
 				"url": "https://gabrielcornish.com/2024/01/23/use-this-simple.html",
 				"tags": ["Newsletter"]
 			},
@@ -52,7 +52,7 @@
 				"title": "Ask This One Question To Make Game Design 10x Easier",
 				"content_html": "<!-- raw HTML omitted -->\n<p>You know how tricky and complex game design can be.</p>\n<p>In this journey filled with endless tasks and challenges, it&rsquo;s easy to lose focus. But there&rsquo;s one simple question that can make your life as a game designer much easier.</p>\n<h2 id=\"whats-the-big-question\">What&rsquo;s the Big Question?</h2>\n<p>Here&rsquo;s the most important question you should always ask:</p>\n<p>&ldquo;What problem are we trying to solve?&rdquo;</p>\n<p>Sounds simple, right?</p>\n<p>But it&rsquo;s often overlooked even with experienced developers. When you&rsquo;re deep in game development, it&rsquo;s easy to get lost in the details and forget the main goal.</p>\n<p>Albert Einstein said, “If I were given one hour to save the planet, I would spend 59 minutes defining the problem and one minute resolving it.”</p>\n<p>This quote highlights how crucial it is to know the problem before you jump into solutions.</p>\n<h2 id=\"why-this-question-matters\">Why This Question Matters</h2>\n<p>Game development is a journey filled with distractions.</p>\n<p>As a game designer, your job is to solve problems for the player. But remember, not every problem needs solving.</p>\n<p>It&rsquo;s important to focus on the right ones. Asking &ldquo;What problem are we solving?&rdquo; brings clarity and focus.</p>\n<h2 id=\"the-benefits-of-asking-the-right-question\">The Benefits of Asking the Right Question</h2>\n<ol>\n<li>\n<p>Productivity: If you understand the problem, you can work more efficiently.</p>\n</li>\n<li>\n<p>Alignment: It ensures everyone on the team is on the same page. This minimizes miscommunication and conflicts.</p>\n</li>\n<li>\n<p>Time-saving: It saves hours of work. You don&rsquo;t waste time on solving the wrong problems.</p>\n</li>\n</ol>\n<h2 id=\"why-people-avoid-asking-this-question\">Why People Avoid Asking This Question</h2>\n<p>Some might think it&rsquo;s a rude question, or fear it might get annoying if asked too often.</p>\n<p>But the truth is, it&rsquo;s a necessary step in effective problem-solving.</p>\n<h2 id=\"personal-experience\">Personal Experience</h2>\n<p>I&rsquo;ve been in design meetings where we debated solutions for hours! It never occurred to us that we didn&rsquo;t even agree on the problem.</p>\n<p>We spent hours in discussions and left with no clear direction. We could have avoided this by asking, &ldquo;What problem are we solving?&rdquo;</p>\n<h2 id=\"a-simple-framework\">A Simple Framework</h2>\n<ol>\n<li>\n<p>Agree on the Problem: Always ensure everyone agrees on the problem.</p>\n</li>\n<li>\n<p>Clear Goal: At the start of meetings, state the problem you&rsquo;re there to solve.</p>\n</li>\n<li>\n<p>Self-Reflection:  If you&rsquo;re on your own, ask yourself if you&rsquo;re solving the right problem. Is it a problem worth solving to begin with?</p>\n</li>\n</ol>\n<h2 id=\"conclusion\">Conclusion</h2>\n<p>In game development, it&rsquo;s easy to get caught up in endless tasks.</p>\n<p>By asking, &ldquo;What problem are we solving?&rdquo; you bring clarity and focus to your work.</p>\n<p>This simple question is a powerful tool in your game design toolkit. Use it wisely, and watch your productivity and efficiency soar!</p>\n",
 				"content_text": "<img src=\"uploads/2024/questions.png\" width=\"600\" height=\"376\" alt=\"\">\n\nYou know how tricky and complex game design can be. \n\nIn this journey filled with endless tasks and challenges, it's easy to lose focus. But there's one simple question that can make your life as a game designer much easier.\n\n## What's the Big Question?\n\nHere's the most important question you should always ask: \n\n\"What problem are we trying to solve?\" \n\nSounds simple, right? \n\nBut it's often overlooked even with experienced developers. When you're deep in game development, it's easy to get lost in the details and forget the main goal. \n\nAlbert Einstein said, “If I were given one hour to save the planet, I would spend 59 minutes defining the problem and one minute resolving it.” \n\nThis quote highlights how crucial it is to know the problem before you jump into solutions. \n\n## Why This Question Matters\n\nGame development is a journey filled with distractions. \n\nAs a game designer, your job is to solve problems for the player. But remember, not every problem needs solving. \n\nIt's important to focus on the right ones. Asking \"What problem are we solving?\" brings clarity and focus.\n\n## The Benefits of Asking the Right Question\n\n1. Productivity: If you understand the problem, you can work more efficiently.\n\n2. Alignment: It ensures everyone on the team is on the same page. This minimizes miscommunication and conflicts.\n\n3. Time-saving: It saves hours of work. You don't waste time on solving the wrong problems.\n\n## Why People Avoid Asking This Question\n\nSome might think it's a rude question, or fear it might get annoying if asked too often. \n\nBut the truth is, it's a necessary step in effective problem-solving.\n\n## Personal Experience\n\nI've been in design meetings where we debated solutions for hours! It never occurred to us that we didn't even agree on the problem. \n\nWe spent hours in discussions and left with no clear direction. We could have avoided this by asking, \"What problem are we solving?\"\n\n## A Simple Framework\n\n1. Agree on the Problem: Always ensure everyone agrees on the problem.\n\n2. Clear Goal: At the start of meetings, state the problem you're there to solve.\n\n3. Self-Reflection:  If you're on your own, ask yourself if you're solving the right problem. Is it a problem worth solving to begin with?\n\n## Conclusion\n\nIn game development, it's easy to get caught up in endless tasks. \n\nBy asking, \"What problem are we solving?\" you bring clarity and focus to your work. \n\nThis simple question is a powerful tool in your game design toolkit. Use it wisely, and watch your productivity and efficiency soar!\n",
-				"date_published": "2024-01-15T10:24:30-08:00",
+				"date_published": "2024-01-15T11:24:30-07:00",
 				"url": "https://gabrielcornish.com/2024/01/15/ask-this-one.html",
 				"tags": ["Newsletter"]
 			},
@@ -61,7 +61,7 @@
 				
 				"content_html": "<p>Receiving feedback made easy:</p>\n<ol>\n<li>Assume positive intent.</li>\n<li>Appreciate all feedback. Say thank you even if you don&rsquo;t agree.</li>\n<li>Accept or discard, but always consider it deeply.</li>\n</ol>\n<p>This simple process elevates your creations and builds collaborative relationships.</p>\n",
 				"content_text": "Receiving feedback made easy: \r\n\r\n1. Assume positive intent.\r\n2. Appreciate all feedback. Say thank you even if you don't agree.\r\n3. Accept or discard, but always consider it deeply. \r\n\r\nThis simple process elevates your creations and builds collaborative relationships. \n",
-				"date_published": "2024-01-10T08:49:51-08:00",
+				"date_published": "2024-01-10T09:49:51-07:00",
 				"url": "https://gabrielcornish.com/2024/01/10/receiving-feedback-made.html"
 			},
 			{
@@ -69,7 +69,7 @@
 				"title": "The #1 Skill in Game Design: Mastering Feedback",
 				"content_html": "<!-- raw HTML omitted -->\n<h2 id=\"whats-the-big-deal-with-feedback\">What&rsquo;s the Big Deal with Feedback?</h2>\n<p>When you&rsquo;re crafting a video game, it&rsquo;s like you&rsquo;re in a bubble.</p>\n<p>You think your game is awesome, but will others feel the same?</p>\n<p>The truth is, you can&rsquo;t know if your game is a hit or a miss until players get their hands on it. That&rsquo;s where feedback comes in, and trust me on this, it&rsquo;s a game-changer!</p>\n<h2 id=\"why-feedback-is-your-superpower\">Why Feedback is Your Superpower</h2>\n<p>Imagine feedback as a power tool in your game design toolbox. It&rsquo;s not just about listening to what others say about your game. It&rsquo;s about how you listen.</p>\n<p>Taking feedback the right way can turn your good game into a legendary one. It will also improve your relationship with players and coworkers!</p>\n<h2 id=\"ego-be-gone\">Ego, Be Gone!</h2>\n<p>First things first, you&rsquo;ve got to ditch the ego. I&rsquo;m serious.</p>\n<p>Remember, your game isn&rsquo;t about you – it&rsquo;s for the players. When someone gives you feedback, they&rsquo;re helping you, not attacking you.</p>\n<p>Appreciation is key here.</p>\n<p>Even if you don&rsquo;t agree with what they&rsquo;re saying, say thanks. It shows you value their opinion. They will be more likely to come to you again with feedback.</p>\n<h2 id=\"the-truth-about-feedback\">The Truth About Feedback</h2>\n<p>Here&rsquo;s a secret: when someone tells you there&rsquo;s a problem with your game, they&rsquo;re usually right.</p>\n<p>But if they give you a solution, be cautious. That&rsquo;s your job to figure out.</p>\n<p>Either way, be grateful you&rsquo;re getting feedback. If someone&rsquo;s not giving you feedback after you ask, it might mean they don&rsquo;t believe you&rsquo;ll receive it well. Yikes!</p>\n<p>You want play testers to always feel comfortable being honest with you. That&rsquo;s your responsibility.</p>\n<h2 id=\"why-feedback-rocks\">Why Feedback Rocks</h2>\n<p>Learning to love feedback can do wonders.</p>\n<p>The more feedback you get, the more you learn, and the better your game becomes.</p>\n<p>It&rsquo;s like having a secret weapon that keeps making your game cooler and cooler.  Designers who know how to receive feedback will always produce a better game than those who don&rsquo;t.</p>\n<h2 id=\"common-worries-about-feedback\">Common Worries About Feedback</h2>\n<p>Some people worry that showing their game too early might give a bad impression. Or worse, someone might steal their idea!</p>\n<p>And sometimes, the feedback feels just&hellip; wrong. Like the player doesn&rsquo;t &lsquo;get&rsquo; your game. Or they&rsquo;ll just tell you what you already know.</p>\n<p>These are real worries, but don&rsquo;t let them stop you from seeking it out anyway. The value you get from a good feedback process outweighs any of the costs.</p>\n<p>It&rsquo;s never too early to get feedback.</p>\n<p>Look at how Slay the Spire looked when their designers started requesting feedback.</p>\n<!-- raw HTML omitted -->\n<p>That game went on to become a smash hit!</p>\n<h2 id=\"my-story-with-feedback\">My Story with Feedback</h2>\n<p>I didn&rsquo;t always take feedback well.</p>\n<p>In the beginning, I would get defensive or justify my design. I would blame the person for not &ldquo;getting&rdquo; my design.</p>\n<p>This held me back as a game designer.</p>\n<p>But when I started embracing feedback, everything changed. I went from a so-so designer to one of the best on my team! I got promotions and more opportunities within the studio.</p>\n<p>People enjoyed working with me because I was open to their ideas. They felt comfortable coming to me with problems and I loved hearing their feedback.</p>\n<p>It wasn&rsquo;t always easy, but it was always worth it.</p>\n<h2 id=\"feedback-made-easy-a-two-step-process\">Feedback Made Easy: A Two-Step Process</h2>\n<p>Ready to become a feedback expert? Here&rsquo;s how:</p>\n<ol>\n<li>\n<p><strong>Appreciate the Feedback</strong>: Say thanks, even if you don&rsquo;t agree. It shows gratitude and encourages the other person to come back with more.</p>\n</li>\n<li>\n<p><strong>Accept or Discard</strong>: You decide if the feedback works for your game. Give the feedback honest consideration before making a decision. (Pssst, you can keep this part a secret.)</p>\n</li>\n</ol>\n<h2 id=\"the-bottom-line\">The Bottom Line</h2>\n<p>Feedback isn&rsquo;t just about making your game better. It&rsquo;s about being a better designer, a better team player, and building trust with players.</p>\n<p>When someone offers you feedback, remember, it&rsquo;s not just advice.  It&rsquo;s your ticket to being a great game designer! 🌟🎮👾</p>\n",
 				"content_text": "<img src=\"uploads/2024/skill.png\" width=\"600\" height=\"388\" alt=\"\">\n\n## What's the Big Deal with Feedback?\n\nWhen you're crafting a video game, it's like you're in a bubble. \n\nYou think your game is awesome, but will others feel the same? \n\nThe truth is, you can't know if your game is a hit or a miss until players get their hands on it. That's where feedback comes in, and trust me on this, it's a game-changer!\n\n## Why Feedback is Your Superpower\n\nImagine feedback as a power tool in your game design toolbox. It's not just about listening to what others say about your game. It's about how you listen. \n\nTaking feedback the right way can turn your good game into a legendary one. It will also improve your relationship with players and coworkers!\n\n## Ego, Be Gone!\n\nFirst things first, you've got to ditch the ego. I'm serious.\n\nRemember, your game isn't about you – it's for the players. When someone gives you feedback, they're helping you, not attacking you. \n\nAppreciation is key here. \n\nEven if you don't agree with what they're saying, say thanks. It shows you value their opinion. They will be more likely to come to you again with feedback.\n\n## The Truth About Feedback\n\nHere's a secret: when someone tells you there's a problem with your game, they're usually right. \n\nBut if they give you a solution, be cautious. That's your job to figure out. \n\nEither way, be grateful you're getting feedback. If someone's not giving you feedback after you ask, it might mean they don't believe you'll receive it well. Yikes! \n\nYou want play testers to always feel comfortable being honest with you. That's your responsibility.\n\n## Why Feedback Rocks\n\nLearning to love feedback can do wonders. \n\nThe more feedback you get, the more you learn, and the better your game becomes. \n\nIt's like having a secret weapon that keeps making your game cooler and cooler.  Designers who know how to receive feedback will always produce a better game than those who don't.\n\n## Common Worries About Feedback\n\nSome people worry that showing their game too early might give a bad impression. Or worse, someone might steal their idea! \n\nAnd sometimes, the feedback feels just... wrong. Like the player doesn't 'get' your game. Or they'll just tell you what you already know.\n\nThese are real worries, but don't let them stop you from seeking it out anyway. The value you get from a good feedback process outweighs any of the costs.\n\nIt's never too early to get feedback. \n\nLook at how Slay the Spire looked when their designers started requesting feedback. \n\n<img src=\"uploads/2024/slay.jpg\" width=\"600\" height=\"337\" alt=\"\">\n\nThat game went on to become a smash hit!\n\n## My Story with Feedback\n\nI didn't always take feedback well. \n\nIn the beginning, I would get defensive or justify my design. I would blame the person for not \"getting\" my design.\n\nThis held me back as a game designer.\n\n But when I started embracing feedback, everything changed. I went from a so-so designer to one of the best on my team! I got promotions and more opportunities within the studio.\n\nPeople enjoyed working with me because I was open to their ideas. They felt comfortable coming to me with problems and I loved hearing their feedback. \n\nIt wasn't always easy, but it was always worth it.\n\n## Feedback Made Easy: A Two-Step Process\n\nReady to become a feedback expert? Here's how:\n\n1. **Appreciate the Feedback**: Say thanks, even if you don't agree. It shows gratitude and encourages the other person to come back with more.\n\n2. **Accept or Discard**: You decide if the feedback works for your game. Give the feedback honest consideration before making a decision. (Pssst, you can keep this part a secret.)\n\n## The Bottom Line\n\nFeedback isn't just about making your game better. It's about being a better designer, a better team player, and building trust with players. \n\nWhen someone offers you feedback, remember, it's not just advice.  It's your ticket to being a great game designer! 🌟🎮👾\n",
-				"date_published": "2024-01-09T11:37:59-08:00",
+				"date_published": "2024-01-09T12:37:59-07:00",
 				"url": "https://gabrielcornish.com/2024/01/09/the-skill-in.html"
 			},
 			{
@@ -77,7 +77,7 @@
 				
 				"content_html": "<p>Here is the key to compelling games!</p>\n<p>It&rsquo;s not just about mastering design techniques. Observe the behavior and emotions you enjoy in your favorite experiences.</p>\n<p>How can you get the player to feel those too?</p>\n",
 				"content_text": "Here is the key to compelling games!\r\n\r\nIt's not just about mastering design techniques. Observe the behavior and emotions you enjoy in your favorite experiences.\r\n\r\nHow can you get the player to feel those too?\n",
-				"date_published": "2023-12-06T11:02:28-08:00",
+				"date_published": "2023-12-06T12:02:28-07:00",
 				"url": "https://gabrielcornish.com/2023/12/06/here-is-the.html"
 			},
 			{
@@ -85,7 +85,7 @@
 				
 				"content_html": "<p>Thoughts are temporary. They come and go. We just need to let them pass through.</p>\n",
 				"content_text": "Thoughts are temporary. They come and go. We just need to let them pass through.\n",
-				"date_published": "2023-12-04T10:09:47-08:00",
+				"date_published": "2023-12-04T11:09:47-07:00",
 				"url": "https://gabrielcornish.com/2023/12/04/thoughts-are-temporary.html"
 			},
 			{
@@ -93,7 +93,7 @@
 				"title": "The Game Dev Practice That Changed Everything",
 				"content_html": "<!-- raw HTML omitted -->\n<p>I owe my entire game development career to a single practice: <strong>Learning to make games in 2 hours</strong>.</p>\n<p><strong>Why it matters</strong>:</p>\n<ul>\n<li>We&rsquo;re all busy, and it&rsquo;s hard to find time to make games</li>\n<li>The problem is you need to make a lot of games to build the skills necessary to make game development a lifelong career</li>\n</ul>\n<p>There is no way around this. The experience gets you to where you want to go.</p>\n<blockquote>\n<p>“You make good work by (among other things) making lots of work that isn&rsquo;t very good, and gradually weeding out the parts that aren&rsquo;t good, the parts that aren&rsquo;t yours. It&rsquo;s called feedback, and it&rsquo;s the most direct route to learning about your own vision. It&rsquo;s also called doing your work. After all, someone has to do your work, and you&rsquo;re the closest person around.” - David Bayles.</p>\n</blockquote>\n<p><strong>Solution</strong>: The two-hour game jam is the best practice to develop and keep your skills sharp and growing. It will:</p>\n<ul>\n<li>Help you develop your unique style and voice</li>\n<li>Teach you how to wield your tools efficiently</li>\n<li>Show you how to scope, finish, and ship</li>\n<li>Force you to value process over outcome</li>\n<li>And so much more&hellip;</li>\n</ul>\n<p>None of this is new. People have been making games in a short time frame for a long time. Vlambeer, a successful independent game studio, was created by game jam culture. Jan Willem Nijman would regularly participate in 3-hour game jams. <a href=\"https://gamejolt.com/games/fart-race/286\">He even once made a game in 16 minutes</a>.</p>\n<blockquote>\n<p>That’s when I realized that design experience isn’t in the size of your games, or even in the scope of it - it’s in the number of projects you’ve been through. - <a href=\"https://www.gamedeveloper.com/audio/game-a-week-getting-experienced-at-failure\">Rami Ismail</a></p>\n</blockquote>\n<p>The game developer who has made a hundred small games has a massive advantage over the designer who&rsquo;s only ever worked on one big game.</p>\n<p><strong>The big benefit</strong>: This is a sustainable practice. Because the time commitment is so low, you can do this even if you have the busiest schedules. I&rsquo;ve maintained this practice even while caring for a newborn, helping launch a AAA game, and spooling up a new workout routine.</p>\n<p><strong>No matter how busy life gets, I can still crank out a game in 2 hours.</strong></p>\n<p>The best part is you don&rsquo;t need to do the 2 hours all at once! I tend to split up my 2-hour game jam into four 30-minute sessions.</p>\n<p><strong>If you have 30 minutes every other day of the week, you can make games and improve your skills.</strong></p>\n<p>By consistently practicing the 2-hour game jam, I&rsquo;ve been able to:</p>\n<ul>\n<li>Break into the game industry</li>\n<li>Learn a bunch of different game engines and techniques</li>\n<li>Get thousands of people to play my games on itch.io</li>\n<li>Create over 100 games</li>\n<li>Design innovative features for large teams and game studios</li>\n</ul>\n<p>Lastly, it&rsquo;s just straight-up fun! If you commit to the practice, I guarantee you will have fun.</p>\n<h2 id=\"how-to-get-started-in-4-easy-steps\">How to get started in 4 easy steps</h2>\n<h3 id=\"step-1-make-a-game-a-week-for-one-month\">Step 1. Make a game a week for one month</h3>\n<ul>\n<li>Every Monday, commit to creating a new game</li>\n<li>Work on your game for 30 minutes every other day. Or all at once. The choice is yours.</li>\n<li>Remember! You only get two hours!</li>\n</ul>\n<h3 id=\"step-2-ship-it-or-kill-it\">Step 2. Ship it or Kill it</h3>\n<ul>\n<li>When two hours are up, your game should be finished.</li>\n<li>Decide whether to ship the game or delete it forever.</li>\n</ul>\n<p>This part is crucial! You&rsquo;ve made a game, and now it&rsquo;s time to put it in players’ hands so that they can play it. If you can&rsquo;t bring yourself to share your game, you must delete the game. Permanently.</p>\n<p>This teaches you a couple of things:</p>\n<ul>\n<li>Games are meant to be played by other people</li>\n<li>Delete your game so you&rsquo;re not tempted to &ldquo;delay&rdquo; or keep working on it</li>\n<li>Don&rsquo;t get attached to your work</li>\n</ul>\n<p>However, go for it if you want to capture a screenshot or video before deleting your game.</p>\n<p><strong>A common objection</strong>: &ldquo;But what if I want to keep working on it because I like what I built and it has potential?&rdquo;</p>\n<p>It took two hours to make the game. Delete it and start over. If you can&rsquo;t get yourself to do that, the game may not be worth pursuing.</p>\n<h3 id=\"step-3-process-over-outcome\">Step 3. Process over outcome</h3>\n<p>The 2-hour game jam is a practice. You don&rsquo;t go to the gym once and suddenly become fit.</p>\n<ul>\n<li>Don&rsquo;t worry about how the game turned out</li>\n<li>Don&rsquo;t worry if the game is good or bad</li>\n<li>Don&rsquo;t worry about if you feel like it&rsquo;s a waste of time</li>\n</ul>\n<p>This practice will build on itself, given enough reps and time.</p>\n<p>Repetition. Repetition. Repetition. This is how you get better. <strong>This is how you make games for a lifetime.</strong></p>\n",
 				"content_text": "<img src=\"https://cdn.uploads.micro.blog/16155/2023/fdd2bada-42a7-4556-b611-0b00f69ae114-1792x1024.png\" width=\"600\" height=\"342\" alt=\"\">\r\n\r\nI owe my entire game development career to a single practice: **Learning to make games in 2 hours**.\r\n\r\n**Why it matters**:\r\n\r\n- We're all busy, and it's hard to find time to make games\r\n- The problem is you need to make a lot of games to build the skills necessary to make game development a lifelong career\r\n\r\nThere is no way around this. The experience gets you to where you want to go.\r\n\r\n> “You make good work by (among other things) making lots of work that isn't very good, and gradually weeding out the parts that aren't good, the parts that aren't yours. It's called feedback, and it's the most direct route to learning about your own vision. It's also called doing your work. After all, someone has to do your work, and you're the closest person around.” - David Bayles.\r\n\r\n**Solution**: The two-hour game jam is the best practice to develop and keep your skills sharp and growing. It will:\r\n\r\n- Help you develop your unique style and voice\r\n- Teach you how to wield your tools efficiently\r\n- Show you how to scope, finish, and ship\r\n- Force you to value process over outcome\r\n- And so much more...\r\n\r\nNone of this is new. People have been making games in a short time frame for a long time. Vlambeer, a successful independent game studio, was created by game jam culture. Jan Willem Nijman would regularly participate in 3-hour game jams. [He even once made a game in 16 minutes](https://gamejolt.com/games/fart-race/286).\r\n\r\n> That’s when I realized that design experience isn’t in the size of your games, or even in the scope of it - it’s in the number of projects you’ve been through. - [Rami Ismail](https://www.gamedeveloper.com/audio/game-a-week-getting-experienced-at-failure)\r\n\r\nThe game developer who has made a hundred small games has a massive advantage over the designer who's only ever worked on one big game.\r\n\r\n**The big benefit**: This is a sustainable practice. Because the time commitment is so low, you can do this even if you have the busiest schedules. I've maintained this practice even while caring for a newborn, helping launch a AAA game, and spooling up a new workout routine.\r\n\r\n**No matter how busy life gets, I can still crank out a game in 2 hours.**\r\n\r\nThe best part is you don't need to do the 2 hours all at once! I tend to split up my 2-hour game jam into four 30-minute sessions.\r\n\r\n**If you have 30 minutes every other day of the week, you can make games and improve your skills.**\r\n\r\nBy consistently practicing the 2-hour game jam, I've been able to:\r\n\r\n- Break into the game industry\r\n- Learn a bunch of different game engines and techniques\r\n- Get thousands of people to play my games on itch.io\r\n- Create over 100 games\r\n- Design innovative features for large teams and game studios\r\n\r\nLastly, it's just straight-up fun! If you commit to the practice, I guarantee you will have fun.\r\n\r\n## How to get started in 4 easy steps\r\n\r\n### Step 1. Make a game a week for one month\r\n\r\n- Every Monday, commit to creating a new game\r\n- Work on your game for 30 minutes every other day. Or all at once. The choice is yours.\r\n- Remember! You only get two hours!\r\n\r\n### Step 2. Ship it or Kill it\r\n\r\n- When two hours are up, your game should be finished.\r\n- Decide whether to ship the game or delete it forever.\r\n\r\nThis part is crucial! You've made a game, and now it's time to put it in players’ hands so that they can play it. If you can't bring yourself to share your game, you must delete the game. Permanently.\r\n\r\nThis teaches you a couple of things:\r\n\r\n- Games are meant to be played by other people\r\n- Delete your game so you're not tempted to \"delay\" or keep working on it\r\n- Don't get attached to your work\r\n\r\nHowever, go for it if you want to capture a screenshot or video before deleting your game.\r\n\r\n**A common objection**: \"But what if I want to keep working on it because I like what I built and it has potential?\"\r\n\r\nIt took two hours to make the game. Delete it and start over. If you can't get yourself to do that, the game may not be worth pursuing.\r\n\r\n### Step 3. Process over outcome\r\n\r\nThe 2-hour game jam is a practice. You don't go to the gym once and suddenly become fit.\r\n\r\n- Don't worry about how the game turned out\r\n- Don't worry if the game is good or bad\r\n- Don't worry about if you feel like it's a waste of time\r\n\r\nThis practice will build on itself, given enough reps and time.\r\n\r\nRepetition. Repetition. Repetition. This is how you get better. **This is how you make games for a lifetime.**\n",
-				"date_published": "2023-12-03T14:46:00-08:00",
+				"date_published": "2023-12-03T15:46:00-07:00",
 				"url": "https://gabrielcornish.com/2023/12/03/the-game-dev.html"
 			},
 			{
@@ -101,7 +101,7 @@
 				
 				"content_html": "<p>🕹️ I found a <a href=\"http://stuffedwomb.at/the_small_game\">manifesto about small games</a> and I love it.</p>\n<ul>\n<li>As I get older, I crave smaller and tighter experiences when it comes to the games I want to play.</li>\n</ul>\n",
 				"content_text": "🕹️ I found a [manifesto about small games](http://stuffedwomb.at/the_small_game) and I love it.\r\n\r\n- As I get older, I crave smaller and tighter experiences when it comes to the games I want to play.\n",
-				"date_published": "2023-07-25T04:39:49-08:00",
+				"date_published": "2023-07-25T05:39:49-07:00",
 				"url": "https://gabrielcornish.com/2023/07/25/i-found-a.html"
 			},
 			{
@@ -109,7 +109,7 @@
 				
 				"content_html": "<p>🕹️ I just found out that Rock Paper Shotgun <a href=\"https://www.rockpapershotgun.com/priceless-play-04-january-2020\">wrote a review</a> of one of my games (Marshmallow Nights).</p>\n<p>This is the first review I&rsquo;ve ever gotten from a website!</p>\n",
 				"content_text": "🕹️ I just found out that Rock Paper Shotgun [wrote a review](https://www.rockpapershotgun.com/priceless-play-04-january-2020) of one of my games (Marshmallow Nights).\n\nThis is the first review I've ever gotten from a website!\n",
-				"date_published": "2023-07-24T04:30:23-08:00",
+				"date_published": "2023-07-24T05:30:23-07:00",
 				"url": "https://gabrielcornish.com/2023/07/24/i-just-found.html"
 			},
 			{
@@ -117,7 +117,7 @@
 				
 				"content_html": "<ul>\n<li>Me: <em>(hugs wife)</em> I love you</li>\n<li>Wife: Your shirt smells like spit up</li>\n</ul>\n",
 				"content_text": "- Me: *(hugs wife)* I love you\n- Wife: Your shirt smells like spit up \n",
-				"date_published": "2023-07-21T11:46:30-08:00",
+				"date_published": "2023-07-21T12:46:30-07:00",
 				"url": "https://gabrielcornish.com/2023/07/21/me-hugs-wife.html"
 			},
 			{
@@ -125,7 +125,7 @@
 				"title": "🕹️ I impusively signed up for a game jam",
 				"content_html": "<p>It was probably not the best idea. I have a newborn, and I&rsquo;m helping the studio I work at launch its first game in the next couple of months&hellip; so time isn&rsquo;t something I have a lot of.</p>\n<p><strong>Anyways</strong>: I decided to make a card game for the Godot Wild Jam. The theme is &ldquo;Train&rdquo;</p>\n<ul>\n<li>I established the data structure for shuffling and dealing out the deck of cards</li>\n<li>Picked the color palette for the game</li>\n<li>Got a basic visual representation of cards to show up on the screen</li>\n</ul>\n<p><strong>The Concept</strong>: You&rsquo;re a personal trainer for trains.</p>\n<ul>\n<li>Your goal is to help them get fit by helping them shed their extra cargo</li>\n<li>You&rsquo;ll play cards and powerups to help them lose the right amount of cargo</li>\n</ul>\n<p><strong>Next up</strong>: I gotta work on the functionality for allowing the player to play cards.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "It was probably not the best idea. I have a newborn, and I'm helping the studio I work at launch its first game in the next couple of months... so time isn't something I have a lot of.\r\n\r\n**Anyways**: I decided to make a card game for the Godot Wild Jam. The theme is \"Train\"\r\n\r\n- I established the data structure for shuffling and dealing out the deck of cards\r\n- Picked the color palette for the game\r\n- Got a basic visual representation of cards to show up on the screen\r\n\r\n**The Concept**: You're a personal trainer for trains.\r\n\r\n- Your goal is to help them get fit by helping them shed their extra cargo\r\n- You'll play cards and powerups to help them lose the right amount of cargo\r\n\r\n**Next up**: I gotta work on the functionality for allowing the player to play cards.\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2023/day-one-progress.gif\" width=\"400\" height=\"250\" alt=\"\">\n",
-				"date_published": "2023-07-15T16:53:42-08:00",
+				"date_published": "2023-07-15T17:53:42-07:00",
 				"url": "https://gabrielcornish.com/2023/07/15/i-impusively-signed.html"
 			},
 			{
@@ -133,7 +133,7 @@
 				"title": "🕹️ Clarify your game design with \"If-Then\" thinking",
 				"content_html": "<!-- raw HTML omitted -->\n<p><strong>Why it matters</strong>: Gameplay becomes stronger when you talk about it the same way players talk about it.</p>\n<ul>\n<li>&ldquo;<strong>If you</strong> drink the potion, <strong>then</strong> you heal&rdquo; (Every game ever)</li>\n<li>&ldquo;<strong>If you</strong> rest at a bonfire, <strong>then</strong> it unlocks a checkpoint&rdquo; (Dark Souls)</li>\n<li>&ldquo;<strong>If you</strong> throw your axe, <strong>then</strong> you can press triangle to recall it&rdquo; (God of War)</li>\n</ul>\n<p><strong>Pro tip</strong>: &ldquo;If You&rdquo; is one of the best ways to start a gameplay concept:</p>\n<ul>\n<li>&ldquo;<strong>If</strong>&rdquo; implies choices and possibility</li>\n<li>&ldquo;<strong>You</strong>&rdquo; puts the player at the center of the design</li>\n</ul>\n<p>This method serves as a way to check how intuitive the concept is. If it&rsquo;s confusing as a sentence, it will be confusing as gameplay.</p>\n<p><strong>Yes, but</strong>: Add a &ldquo;but&rdquo; at the end of the statement to introduce a twist to the concept. The Dark Souls example becomes, &ldquo;<strong>If you</strong> rest at a bonfire, <strong>then</strong> it unlocks a checkpoint&hellip; <strong>But</strong>, it also respawns all the enemies in the area.&rdquo;</p>\n<p><strong>Bottom line</strong>: Good game design starts with clear and easy-to-understand concepts.</p>\n",
 				"content_text": "<img src=\"https://cdn.uploads.micro.blog/16155/2023/clear-game-design.png\" width=\"600\" height=\"336\" alt=\"\">\r\n\r\n**Why it matters**: Gameplay becomes stronger when you talk about it the same way players talk about it.\r\n\r\n- \"**If you** drink the potion, **then** you heal\" (Every game ever)\r\n- \"**If you** rest at a bonfire, **then** it unlocks a checkpoint\" (Dark Souls)\r\n- \"**If you** throw your axe, **then** you can press triangle to recall it\" (God of War)\r\n\r\n**Pro tip**: \"If You\" is one of the best ways to start a gameplay concept:\r\n\r\n- \"**If**\" implies choices and possibility\r\n- \"**You**\" puts the player at the center of the design\r\n\r\nThis method serves as a way to check how intuitive the concept is. If it's confusing as a sentence, it will be confusing as gameplay.\r\n\r\n**Yes, but**: Add a \"but\" at the end of the statement to introduce a twist to the concept. The Dark Souls example becomes, \"**If you** rest at a bonfire, **then** it unlocks a checkpoint... **But**, it also respawns all the enemies in the area.\"\r\n\r\n**Bottom line**: Good game design starts with clear and easy-to-understand concepts. \n",
-				"date_published": "2023-07-06T08:34:38-08:00",
+				"date_published": "2023-07-06T09:34:38-07:00",
 				"url": "https://gabrielcornish.com/2023/07/06/clarify-your-game.html"
 			},
 			{
@@ -141,7 +141,7 @@
 				
 				"content_html": "<p>I started working on a roguelike for the <a href=\"https://play.date/\">Playdate</a> 🕹️</p>\n<ul>\n<li>I&rsquo;ve always loved fantasy consoles and the constraints that come along with designing games for them</li>\n</ul>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I started working on a roguelike for the [Playdate](https://play.date/) 🕹️\r\n\r\n- I've always loved fantasy consoles and the constraints that come along with designing games for them\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2023/1-bit.png\" width=\"400\" height=\"240\" alt=\"\">\n",
-				"date_published": "2023-07-05T12:49:36-08:00",
+				"date_published": "2023-07-05T13:49:36-07:00",
 				"url": "https://gabrielcornish.com/2023/07/05/i-started-working.html"
 			},
 			{
@@ -149,7 +149,7 @@
 				
 				"content_html": "<p>I like that there are no rate limits on the indie web 😊</p>\n",
 				"content_text": "I like that there are no rate limits on the indie web 😊\n",
-				"date_published": "2023-07-01T13:25:20-08:00",
+				"date_published": "2023-07-01T14:25:20-07:00",
 				"url": "https://gabrielcornish.com/2023/07/01/i-like-that.html"
 			},
 			{
@@ -157,7 +157,7 @@
 				
 				"content_html": "<p>🕹️ I love simple, practical guides.</p>\n<p><strong>Credit</strong>: <a href=\"https://www.valadria.com/\">Matt Hackett</a></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "🕹️ I love simple, practical guides.\r\n\r\n**Credit**: [Matt Hackett](https://www.valadria.com/) \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2023/1687329618709.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-06-21T16:12:23-08:00",
+				"date_published": "2023-06-21T17:12:23-07:00",
 				"url": "https://gabrielcornish.com/2023/06/21/i-love-simple.html"
 			},
 			{
@@ -165,7 +165,7 @@
 				
 				"content_html": "<p>🕹️ Game Design Tip: &ldquo;If the player doesn&rsquo;t see it, it may not exist.&rdquo;</p>\n<p><strong>Why it matters:</strong> If you have something in your game that the player can&rsquo;t perceive, those areas may not benefit your design.</p>\n<p><strong>Learn more:</strong> <a href=\"https://thegamedesignroundtable.com/episode/236-tanya-x-short-makes-game-systems-obvious/\">Ep. #236</a> of the Game Design Round Table with designer Tanya X. Short of Kitfox Games</p>\n",
 				"content_text": "🕹️ Game Design Tip: \"If the player doesn't see it, it may not exist.\"\n\n**Why it matters:** If you have something in your game that the player can't perceive, those areas may not benefit your design.\n\n**Learn more:** [Ep. #236](https://thegamedesignroundtable.com/episode/236-tanya-x-short-makes-game-systems-obvious/) of the Game Design Round Table with designer Tanya X. Short of Kitfox Games\n",
-				"date_published": "2023-06-20T06:39:25-08:00",
+				"date_published": "2023-06-20T07:39:25-07:00",
 				"url": "https://gabrielcornish.com/2023/06/20/game-design-tip.html"
 			},
 			{
@@ -173,7 +173,7 @@
 				
 				"content_html": "<p>✨ My first Father’s Day gift.</p>\n<p>“Air Jordan 1 Retro OG Spider-Man Across the Spider-Verse”</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "✨ My first Father’s Day gift. \n\n“Air Jordan 1 Retro OG Spider-Man Across the Spider-Verse”\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2023/aeec353f5d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-06-20T06:01:35-08:00",
+				"date_published": "2023-06-20T07:01:35-07:00",
 				"url": "https://gabrielcornish.com/2023/06/20/my-first-fathers.html"
 			},
 			{
@@ -181,7 +181,7 @@
 				
 				"content_html": "<p><a href=\"https://gabrielcornish.com/2023/06/17/but-what-does.html\">I wrote about this the other day</a>, but Zach Gage put it more succinctly.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "[I wrote about this the other day](https://gabrielcornish.com/2023/06/17/but-what-does.html), but Zach Gage put it more succinctly.\r\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2023/image.jpg\" width=\"426\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-06-19T07:42:52-08:00",
+				"date_published": "2023-06-19T08:42:52-07:00",
 				"url": "https://gabrielcornish.com/2023/06/19/i-wrote-about.html"
 			},
 			{
@@ -189,7 +189,7 @@
 				"title": "Doing nothing in games should be meaningful.",
 				"content_html": "<p><strong>Why it matters</strong>: In game design, not pushing a button can be just as important as pushing a button. Choosing not to do something should have gameplay consequences.</p>\n<!-- raw HTML omitted -->\n<p><strong>For example</strong>: Say you have a treasure chest in your game that the player can destroy to earn a reward; what are some ways to reward them for not destroying it?</p>\n<p>Maybe they could:</p>\n<!-- raw HTML omitted -->\n<p><strong>The bottom line</strong>: You can increase the depth of a single interaction if you consider how the player can benefit from not doing the interaction. 🕹️</p>\n",
 				"content_text": "**Why it matters**: In game design, not pushing a button can be just as important as pushing a button. Choosing not to do something should have gameplay consequences.\r\n\r\n<li>If there’s a benefit to doing something in your game, there should also be a benefit to not doing it.\r\nThis approach creates tradeoffs. Tradeoffs are one of a player's most fun decisions in a game.</li>\r\n\r\n**For example**: Say you have a treasure chest in your game that the player can destroy to earn a reward; what are some ways to reward them for not destroying it? \r\n\r\nMaybe they could:\r\n\r\n<li>Gift the chest to an NPC to increase friendship with them </li>\r\n<li>Use the chest to climb onto a ledge that’s out of reach </li>\r\n\r\n**The bottom line**: You can increase the depth of a single interaction if you consider how the player can benefit from not doing the interaction. 🕹️\n",
-				"date_published": "2023-06-18T14:50:39-08:00",
+				"date_published": "2023-06-18T15:50:39-07:00",
 				"url": "https://gabrielcornish.com/2023/06/18/doing-nothing-in.html"
 			},
 			{
@@ -197,7 +197,7 @@
 				
 				"content_html": "<p>🕹️ Player verbs are gameplay.</p>\n<p><strong>Why it matters</strong>: &ldquo;But what does the player get to do?&rdquo;</p>\n<p>This is the question I have to ask after most game announcements and trailers.</p>\n<p><strong>The bottom line</strong>:\nCinematic trailers are not gameplay. Backstory and lore are not gameplay. Beautiful graphics are not gameplay.</p>\n",
 				"content_text": "🕹️ Player verbs are gameplay.\n\n**Why it matters**: \"But what does the player get to do?\"\n\nThis is the question I have to ask after most game announcements and trailers.\n\n**The bottom line**:\nCinematic trailers are not gameplay. Backstory and lore are not gameplay. Beautiful graphics are not gameplay.\n\n",
-				"date_published": "2023-06-17T16:15:23-08:00",
+				"date_published": "2023-06-17T17:15:23-07:00",
 				"url": "https://gabrielcornish.com/2023/06/17/but-what-does.html"
 			},
 			{
@@ -205,7 +205,7 @@
 				"title": "Signs and Feedback are the language of video games.",
 				"content_html": "<p>The player sees a sign, they provide input, and then receive feedback. Repeat. This loop is the heart of how games create a dialogue with the player.</p>\n<p><strong>Why it matters</strong>: Sending clear messages and feedback about the state of the game allows the player to react and make informed choices. This is a critical element to making a game more enjoyable.</p>\n<p><strong>The bigger picture</strong>: Creating gameplay that provides clear signs and feedback is more than just crafting a more fun experience. It&rsquo;s about making a more accessible experience so that more people can enjoy games.</p>\n<p><strong>Deeper dive</strong>: If you&rsquo;re interested in this area of game design, check out <a href=\"https://gdkeys.com/keys-signs-feedback/\">GDKey&rsquo;s excellent article</a> (5 minute read).</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "The player sees a sign, they provide input, and then receive feedback. Repeat. This loop is the heart of how games create a dialogue with the player.\n\n**Why it matters**: Sending clear messages and feedback about the state of the game allows the player to react and make informed choices. This is a critical element to making a game more enjoyable.\n\n**The bigger picture**: Creating gameplay that provides clear signs and feedback is more than just crafting a more fun experience. It's about making a more accessible experience so that more people can enjoy games.\n\n**Deeper dive**: If you're interested in this area of game design, check out [GDKey's excellent article](https://gdkeys.com/keys-signs-feedback/) (5 minute read). \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2023/a6fc98f86a.png\" width=\"600\" height=\"139\" alt=\"\">\n",
-				"date_published": "2023-06-14T14:11:03-08:00",
+				"date_published": "2023-06-14T15:11:03-07:00",
 				"url": "https://gabrielcornish.com/2023/06/14/signs-and-feedback.html"
 			},
 			{
@@ -213,7 +213,7 @@
 				
 				"content_html": "<p>Game Idea: An action-shooter where your bullets become more powerful the less ammo you have. 🕹️</p>\n",
 				"content_text": "Game Idea: An action-shooter where your bullets become more powerful the less ammo you have. 🕹️\n",
-				"date_published": "2023-04-24T15:44:57-08:00",
+				"date_published": "2023-04-24T16:44:57-07:00",
 				"url": "https://gabrielcornish.com/2023/04/24/game-idea-an.html"
 			},
 			{
@@ -221,7 +221,7 @@
 				
 				"content_html": "<p>I can finally talk about what I&rsquo;ve been working on for the last few years! Life By You is an open-world life simulation game coming to Early Access in September 2023. 🕹️</p>\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/U9c3WEYTJIU\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
 				"content_text": "I can finally talk about what I've been working on for the last few years! Life By You is an open-world life simulation game coming to Early Access in September 2023. 🕹️\n\n{{< youtube U9c3WEYTJIU >}}\n",
-				"date_published": "2023-04-18T12:33:43-08:00",
+				"date_published": "2023-04-18T13:33:43-07:00",
 				"url": "https://gabrielcornish.com/2023/04/18/i-can-finally.html"
 			},
 			{
@@ -229,7 +229,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2023/ca631cad9a.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-01-23T08:08:27-08:00",
+				"date_published": "2023-01-23T09:08:27-07:00",
 				"url": "https://gabrielcornish.com/2023/01/23/080827.html"
 			},
 			{
@@ -237,7 +237,7 @@
 				
 				"content_html": "<p>Design the game, not the player. Let the player&rsquo;s choices and actions shape their own experience.</p>\n<p>I wish more live service games would embrace this philosophy. 🕹️</p>\n",
 				"content_text": "Design the game, not the player. Let the player's choices and actions shape their own experience. \r\n\r\nI wish more live service games would embrace this philosophy. 🕹️\n",
-				"date_published": "2023-01-21T11:52:42-08:00",
+				"date_published": "2023-01-21T12:52:42-07:00",
 				"url": "https://gabrielcornish.com/2023/01/21/design-the-game.html"
 			},
 			{
@@ -245,7 +245,7 @@
 				
 				"content_html": "<p><a href=\"https://www.gamedeveloper.com/blogs/the-importance-of-one-new-thing-\">Great article from design legend, Warren Spector</a>.</p>\n<p>TL;DR: In game dev, success comes from delivering something new and fresh. Copying others won&rsquo;t cut it. Therefore, mash-up genres and give players the freedom to create their own unique experiences. That&rsquo;s how you stand out. 🕹️</p>\n",
 				"content_text": "[Great article from design legend, Warren Spector](https://www.gamedeveloper.com/blogs/the-importance-of-one-new-thing-). \r\n\r\nTL;DR: In game dev, success comes from delivering something new and fresh. Copying others won't cut it. Therefore, mash-up genres and give players the freedom to create their own unique experiences. That's how you stand out. 🕹️\n",
-				"date_published": "2023-01-19T09:20:29-08:00",
+				"date_published": "2023-01-19T10:20:29-07:00",
 				"url": "https://gabrielcornish.com/2023/01/19/great-article-from.html"
 			},
 			{
@@ -253,7 +253,7 @@
 				
 				"content_html": "<p>It’s been a relaxing break, but it’s rained quite a bit. So, we decided to go through the Sinister Six campaign. Just got to the final villain.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "It’s been a relaxing break, but it’s rained quite a bit. So, we decided to go through the Sinister Six campaign. Just got to the final villain. \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2023/e68d251494.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-12-31T16:53:46-08:00",
+				"date_published": "2022-12-31T17:53:46-07:00",
 				"url": "https://gabrielcornish.com/2022/12/31/its-been-a.html"
 			},
 			{
@@ -261,7 +261,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2022/6c1524be4c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-12-21T21:22:13-08:00",
+				"date_published": "2022-12-21T22:22:13-07:00",
 				"url": "https://gabrielcornish.com/2022/12/21/212213.html"
 			},
 			{
@@ -269,7 +269,7 @@
 				
 				"content_html": "<p>Got to check out a penny arcade museum at Fisherman’s Wharf in San Francisco yesterday and it was pretty awesome. However, I did see a bunch of games I used to play as a kid in the museum. So, now I feel old. 🕹️</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Got to check out a penny arcade museum at Fisherman’s Wharf in San Francisco yesterday and it was pretty awesome. However, I did see a bunch of games I used to play as a kid in the museum. So, now I feel old. 🕹️\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2022/6c15d017b0.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-12-19T15:48:37-08:00",
+				"date_published": "2022-12-19T16:48:37-07:00",
 				"url": "https://gabrielcornish.com/2022/12/19/got-to-check.html"
 			},
 			{
@@ -277,7 +277,7 @@
 				
 				"content_html": "<p>Not knowing what &ldquo;done&rdquo; looks like is the equivalent to running a marathon without a finish line.</p>\n",
 				"content_text": "Not knowing what \"done\" looks like is the equivalent to running a marathon without a finish line.\n",
-				"date_published": "2022-12-15T11:26:35-08:00",
+				"date_published": "2022-12-15T12:26:35-07:00",
 				"url": "https://gabrielcornish.com/2022/12/15/not-knowing-what.html"
 			},
 			{
@@ -285,7 +285,7 @@
 				
 				"content_html": "<p>🕹️ I&rsquo;m calling it now: the GOTY will be an action-adventure game, because, if we&rsquo;re honest, that&rsquo;s pretty much who wins every year. #TheGameAwards</p>\n",
 				"content_text": "🕹️ I'm calling it now: the GOTY will be an action-adventure game, because, if we're honest, that's pretty much who wins every year. #TheGameAwards\n",
-				"date_published": "2022-12-08T10:08:03-08:00",
+				"date_published": "2022-12-08T11:08:03-07:00",
 				"url": "https://gabrielcornish.com/2022/12/08/im-calling-it.html"
 			},
 			{
@@ -293,7 +293,7 @@
 				
 				"content_html": "<p>Sunday morning walk after a rainy day.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Sunday morning walk after a rainy day. \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2022/99b99b40e4.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-12-04T10:03:50-08:00",
+				"date_published": "2022-12-04T11:03:50-07:00",
 				"url": "https://gabrielcornish.com/2022/12/04/sunday-morning-walk.html"
 			},
 			{
@@ -301,7 +301,7 @@
 				
 				"content_html": "<p>Cold. Windy. Rainy. Going to light a fire and stay in my pajamas all day. Remote work is a beautiful thing.</p>\n",
 				"content_text": "Cold. Windy. Rainy. Going to light a fire and stay in my pajamas all day. Remote work is a beautiful thing.\n",
-				"date_published": "2022-12-01T09:01:02-08:00",
+				"date_published": "2022-12-01T10:01:02-07:00",
 				"url": "https://gabrielcornish.com/2022/12/01/cold-windy-rainy.html"
 			},
 			{
@@ -309,7 +309,7 @@
 				
 				"content_html": "<p>🕹️ A friend and I recently started working on a freeware game called Merchants of Mie and it&rsquo;s been a lot of fun. However, this is my first time working on a turn-based tabletop style video game. So, I&rsquo;m probably making every mistake imaginable.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "🕹️ A friend and I recently started working on a freeware game called Merchants of Mie and it's been a lot of fun. However, this is my first time working on a turn-based tabletop style video game. So, I'm probably making every mistake imaginable. \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2022/301f7671e9.png\" width=\"600\" height=\"351\" alt=\"\">\n",
-				"date_published": "2022-11-29T09:06:10-08:00",
+				"date_published": "2022-11-29T10:06:10-07:00",
 				"url": "https://gabrielcornish.com/2022/11/29/a-friend-and.html"
 			},
 			{
@@ -317,7 +317,7 @@
 				
 				"content_html": "<p>“Introduce yourself with five TV shows” 📺:</p>\n<ul>\n<li>Seinfeld</li>\n<li>Chuck</li>\n<li>V.G.H.S</li>\n<li>Spongebob Squarepants</li>\n<li>It&rsquo;s Always Sunny in Philadelphia</li>\n</ul>\n",
 				"content_text": "“Introduce yourself with five TV shows” 📺:\r\n\r\n- Seinfeld\r\n- Chuck\r\n- V.G.H.S\r\n- Spongebob Squarepants\r\n- It's Always Sunny in Philadelphia\r\n",
-				"date_published": "2022-11-28T16:02:49-08:00",
+				"date_published": "2022-11-28T17:02:49-07:00",
 				"url": "https://gabrielcornish.com/2022/11/28/introduce-yourself-with.html"
 			},
 			{
@@ -325,7 +325,7 @@
 				
 				"content_html": "<p>📺 I’ve watched a lot of tv shows in my life, but Chuck will always be in my top 5 of all time. So, if you haven’t seen it, do your eyeballs a favor!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📺 I’ve watched a lot of tv shows in my life, but Chuck will always be in my top 5 of all time. So, if you haven’t seen it, do your eyeballs a favor! \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2022/0a28351739.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-11-23T11:36:29-08:00",
+				"date_published": "2022-11-23T12:36:29-07:00",
 				"url": "https://gabrielcornish.com/2022/11/23/ive-watched-a.html"
 			},
 			{
@@ -333,7 +333,7 @@
 				
 				"content_html": "<p>Commercial #gamedev pays the bills and allows me to contribute to an industry I love, but freeware gamedev corrects the soul and reminds me of the joys of making games.</p>\n<p>I feel like more devs making freeware games leads to a happier industry.</p>\n",
 				"content_text": "Commercial #gamedev pays the bills and allows me to contribute to an industry I love, but freeware gamedev corrects the soul and reminds me of the joys of making games. \n\nI feel like more devs making freeware games leads to a happier industry.\n",
-				"date_published": "2022-11-23T07:20:38-08:00",
+				"date_published": "2022-11-23T08:20:38-07:00",
 				"url": "https://gabrielcornish.com/2022/11/23/commercial-gamedev-pays.html"
 			},
 			{
@@ -341,7 +341,7 @@
 				
 				"content_html": "<p>“Introduce yourself with five video games” 🕹️ This was surprisingly hard:</p>\n<ol>\n<li>Def Jam: Fight for NY (ps2)</li>\n<li>The Sims 3 (PC)</li>\n<li>Journey (ps3)</li>\n<li>Rocket League</li>\n<li>Uncharted 2 (ps3)</li>\n</ol>\n",
 				"content_text": "“Introduce yourself with five video games” 🕹️ This was surprisingly hard:\r\n\r\n1. Def Jam: Fight for NY (ps2)\r\n2. The Sims 3 (PC)\r\n3. Journey (ps3)\r\n4. Rocket League\r\n5. Uncharted 2 (ps3)\n",
-				"date_published": "2022-11-21T14:17:55-08:00",
+				"date_published": "2022-11-21T15:17:55-07:00",
 				"url": "https://gabrielcornish.com/2022/11/21/introduce-yourself-with.html"
 			},
 			{
@@ -349,7 +349,7 @@
 				
 				"content_html": "<p>My curiosity got the best of me, and I finally joined Mastodon (game dev server). But I have no idea what I&rsquo;m doing. So, if anyone has any tips for getting started, I&rsquo;ll gladly take any advice I can get.</p>\n",
 				"content_text": "My curiosity got the best of me, and I finally joined Mastodon (game dev server). But I have no idea what I'm doing. So, if anyone has any tips for getting started, I'll gladly take any advice I can get.\n",
-				"date_published": "2022-11-21T11:30:47-08:00",
+				"date_published": "2022-11-21T12:30:47-07:00",
 				"url": "https://gabrielcornish.com/2022/11/21/my-curiosity-got.html"
 			},
 			{
@@ -357,7 +357,7 @@
 				
 				"content_html": "<p>Relaxation goals</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Relaxation goals\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2022/c140be9d64.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-11-20T15:47:09-08:00",
+				"date_published": "2022-11-20T16:47:09-07:00",
 				"url": "https://gabrielcornish.com/2022/11/20/relaxation-goals.html"
 			},
 			{
@@ -365,7 +365,7 @@
 				
 				"content_html": "<p>SM companies make it so easy to distribute content. But, relying on Twitter and SM platforms to distribute our content will always be risky.</p>\n<p>Own your content! Post to your own site first and then syndicate content out to other platforms. Stay independent on the web.</p>\n",
 				"content_text": "SM companies make it so easy to distribute content. But, relying on Twitter and SM platforms to distribute our content will always be risky.\r\n\r\nOwn your content! Post to your own site first and then syndicate content out to other platforms. Stay independent on the web.\n",
-				"date_published": "2022-11-18T09:42:30-08:00",
+				"date_published": "2022-11-18T10:42:30-07:00",
 				"url": "https://gabrielcornish.com/2022/11/18/sm-companies-make.html"
 			},
 			{
@@ -373,7 +373,7 @@
 				
 				"content_html": "<p>Today I started playing around with AI art generation with #dalle2</p>\n<p>Here&rsquo;s a colorful graffiti painting of a corgi.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Today I started playing around with AI art generation with #dalle2\r\n\r\nHere's a colorful graffiti painting of a corgi.\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2022/331d4a705d.png\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-08-10T14:12:20-08:00",
+				"date_published": "2022-08-10T15:12:20-07:00",
 				"url": "https://gabrielcornish.com/2022/08/10/today-i-started.html"
 			},
 			{
@@ -381,7 +381,7 @@
 				
 				"content_html": "<p>Game design tip: The simplest way to make an interesting game is to give it unusual design constraints.</p>\n",
 				"content_text": "Game design tip: The simplest way to make an interesting game is to give it unusual design constraints.\n",
-				"date_published": "2022-04-15T09:48:51-08:00",
+				"date_published": "2022-04-15T10:48:51-07:00",
 				"url": "https://gabrielcornish.com/2022/04/15/game-design-tip.html"
 			},
 			{
@@ -389,7 +389,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2021/1ee7f38de5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-04-01T13:41:03-08:00",
+				"date_published": "2021-04-01T14:41:03-07:00",
 				"url": "https://gabrielcornish.com/2021/04/01/134103.html"
 			},
 			{
@@ -397,7 +397,7 @@
 				
 				"content_html": "<p>We @HomeTeamGameDev just released our 100th game! This was a fun project to contribute to. <a href=\"https://gamkedo.itch.io/springfield-property-manager\">gamkedo.itch.io/springfie&hellip;</a> #gamedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "We @HomeTeamGameDev just released our 100th game! This was a fun project to contribute to. [gamkedo.itch.io/springfie...](https://gamkedo.itch.io/springfield-property-manager) #gamedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/b6e430c9f7.gif\" width=\"400\" height=\"288\" alt=\"\" />\n",
-				"date_published": "2020-09-28T08:05:32-08:00",
+				"date_published": "2020-09-28T09:05:32-07:00",
 				"url": "https://gabrielcornish.com/2020/09/28/we-hometeamgamedev-just.html"
 			},
 			{
@@ -405,7 +405,7 @@
 				
 				"content_html": "<p>She’s had a long day.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "She’s had a long day. \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/9774fa281b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-09-19T14:31:14-08:00",
+				"date_published": "2020-09-19T15:31:14-07:00",
 				"url": "https://gabrielcornish.com/2020/09/19/shes-had-a.html"
 			},
 			{
@@ -413,7 +413,7 @@
 				
 				"content_html": "<p>Rediscovering the joy of doodling in MS Paint 🎨 #pixelart</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Rediscovering the joy of doodling in MS Paint 🎨 #pixelart\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/42ff59b303.png\" width=\"600\" height=\"544\" alt=\"\" />\n",
-				"date_published": "2020-08-21T15:37:59-08:00",
+				"date_published": "2020-08-21T16:37:59-07:00",
 				"url": "https://gabrielcornish.com/2020/08/21/rediscovering-the-joy.html"
 			},
 			{
@@ -421,7 +421,7 @@
 				
 				"content_html": "<p>This week in hobby #gamedev I added some new building and ship models to @HomeTeamGameDev Time Cannon. Fleshing out the environment has been a ton of fun. #indiedev #screenshotsaturday</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "This week in hobby #gamedev I added some new building and ship models to @HomeTeamGameDev Time Cannon. Fleshing out the environment has been a ton of fun. #indiedev #screenshotsaturday\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/f4774098e6.png\" width=\"600\" height=\"322\" alt=\"\" />\n",
-				"date_published": "2020-08-15T17:55:27-08:00",
+				"date_published": "2020-08-15T18:55:27-07:00",
 				"url": "https://gabrielcornish.com/2020/08/15/this-week-in.html"
 			},
 			{
@@ -429,7 +429,7 @@
 				
 				"content_html": "<p>I had a lot of fun using MagicaVoxel for the first time to create some building assets for @HomeTeamGameDev Time Cannon led by @ChrisDeLeon #gamedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I had a lot of fun using MagicaVoxel for the first time to create some building assets for @HomeTeamGameDev Time Cannon led by @ChrisDeLeon #gamedev\r\n \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/5e38d3a0bf.png\" width=\"600\" height=\"497\" alt=\"\" />\n",
-				"date_published": "2020-08-09T10:28:37-08:00",
+				"date_published": "2020-08-09T11:28:37-07:00",
 				"url": "https://gabrielcornish.com/2020/08/09/i-had-a.html"
 			},
 			{
@@ -437,7 +437,7 @@
 				
 				"content_html": "<p>The #gamedev possibilities with Unreal 5 are truly outstanding. I&rsquo;ll finally be able to render my text adventure games with .TTF fonts instead of Bit-mapped and with relatively no performance drops. The future is here. #UE5 #indiedev #interactivefiction #narrativedesign</p>\n",
 				"content_text": "The #gamedev possibilities with Unreal 5 are truly outstanding. I'll finally be able to render my text adventure games with .TTF fonts instead of Bit-mapped and with relatively no performance drops. The future is here. #UE5 #indiedev #interactivefiction #narrativedesign\n",
-				"date_published": "2020-05-13T16:02:00-08:00",
+				"date_published": "2020-05-13T17:02:00-07:00",
 				"url": "https://gabrielcornish.com/2020/05/13/the-gamedev-possibilities.html"
 			},
 			{
@@ -445,7 +445,7 @@
 				
 				"content_html": "<p>It doesn’t matter how old you are, this is still hands down the single best way to spend a Saturday morning.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "It doesn’t matter how old you are, this is still hands down the single best way to spend a Saturday morning. \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/aedbaadbfe.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
-				"date_published": "2020-05-02T08:05:42-08:00",
+				"date_published": "2020-05-02T09:05:42-07:00",
 				"url": "https://gabrielcornish.com/2020/05/02/it-doesnt-matter.html"
 			},
 			{
@@ -453,7 +453,7 @@
 				
 				"content_html": "<p>PSA: To all the #gamedev peeps out there starting to work from home for the first time, remember to take the weekend to step away from work. Rest, recover and get some sun. It goes a long way. Happy friday all! #indiedev #pico8 #pixelart</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "PSA: To all the #gamedev peeps out there starting to work from home for the first time, remember to take the weekend to step away from work. Rest, recover and get some sun. It goes a long way. Happy friday all! #indiedev #pico8 #pixelart\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/3728994b27.gif\" width=\"600\" height=\"461\" alt=\"\" />\n",
-				"date_published": "2020-03-27T09:38:11-08:00",
+				"date_published": "2020-03-27T10:38:11-07:00",
 				"url": "https://gabrielcornish.com/2020/03/27/psa-to-all.html"
 			},
 			{
@@ -461,7 +461,7 @@
 				"title": "The Soul Key: RELEASED!",
 				"content_html": "<p>I just released a tiny retro game called &ldquo;The Soul Key&rdquo;. It&rsquo;s a short game with multiple endings and a corgi! Check it out.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I just released a tiny retro game called \"The Soul Key\". It's a short game with multiple endings and a corgi! Check it out. \n\n<iframe src=\"https://itch.io/embed/595463?bg_color=C2C3C7&fg_color=000&link_color=FF004D&border_color=000\" width=\"552\" height=\"167\" frameborder=\"0\"><a href=\"https://gabrielcornish.itch.io/the-soul-key\">The Soul Key by Gabriel Cornish</a></iframe>\n",
-				"date_published": "2020-03-26T12:53:00-08:00",
+				"date_published": "2020-03-26T13:53:00-07:00",
 				"url": "https://gabrielcornish.com/2020/03/26/the-soul-key.html",
 				"tags": ["portfolio"]
 			},
@@ -470,7 +470,7 @@
 				
 				"content_html": "<p>Even while on a dungeon crawling adventure, there&rsquo;s always enough time to pet a corgi. #gamedev #pico8 #bitsy #indiedev #pixelart</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Even while on a dungeon crawling adventure, there's always enough time to pet a corgi. #gamedev #pico8 #bitsy #indiedev #pixelart\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/17f0a3764d.gif\" width=\"512\" height=\"512\" alt=\"\" />\n",
-				"date_published": "2020-03-25T09:08:01-08:00",
+				"date_published": "2020-03-25T10:08:01-07:00",
 				"url": "https://gabrielcornish.com/2020/03/25/even-while-on.html"
 			},
 			{
@@ -478,7 +478,7 @@
 				
 				"content_html": "<p>Playing around some more with  #bitsy #gamedev. The constraints are actually quite a lot of fun to work with. The #pico8 color palette is also usually my goto. #indiedev #pixelart #1bit</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Playing around some more with  #bitsy #gamedev. The constraints are actually quite a lot of fun to work with. The #pico8 color palette is also usually my goto. #indiedev #pixelart #1bit \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/71b2e47728.gif\" width=\"512\" height=\"512\" alt=\"\" />\n",
-				"date_published": "2020-03-24T16:06:32-08:00",
+				"date_published": "2020-03-24T17:06:32-07:00",
 				"url": "https://gabrielcornish.com/2020/03/24/playing-around-some.html"
 			},
 			{
@@ -486,7 +486,7 @@
 				
 				"content_html": "<p>Behold! My game design masterpiece. #gamedev #Bitsy #pixelart #indiedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Behold! My game design masterpiece. #gamedev #Bitsy #pixelart #indiedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/1e986d0891.gif\" width=\"526\" height=\"526\" alt=\"\" />\n",
-				"date_published": "2020-03-23T14:22:04-08:00",
+				"date_published": "2020-03-23T15:22:04-07:00",
 				"url": "https://gabrielcornish.com/2020/03/23/behold-my-game.html"
 			},
 			{
@@ -494,7 +494,7 @@
 				
 				"content_html": "<p>Thanks a bunch for the recommendation @magspinner. Coin Dasher it is! #godot #gamedev #indiedev #pixelart</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Thanks a bunch for the recommendation @magspinner. Coin Dasher it is! #godot #gamedev #indiedev #pixelart\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/4aa2f51c77.gif\" width=\"600\" height=\"446\" alt=\"\" />\n",
-				"date_published": "2020-03-21T10:49:35-08:00",
+				"date_published": "2020-03-21T11:49:35-07:00",
 				"url": "https://gabrielcornish.com/2020/03/21/thanks-a-bunch.html"
 			},
 			{
@@ -502,7 +502,7 @@
 				
 				"content_html": "<p>I don&rsquo;t have a name for my latest #gamedev project. Would anyone be willing to suggest some family-friendly names for the game&rsquo;s title? #indiedev #pixelart #godot #indiegamedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I don't have a name for my latest #gamedev project. Would anyone be willing to suggest some family-friendly names for the game's title? #indiedev #pixelart #godot #indiegamedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/288a8ec1a4.gif\" width=\"600\" height=\"446\" alt=\"\" />\n",
-				"date_published": "2020-03-20T15:37:45-08:00",
+				"date_published": "2020-03-20T16:37:45-07:00",
 				"url": "https://gabrielcornish.com/2020/03/20/i-dont-have.html"
 			},
 			{
@@ -510,7 +510,7 @@
 				
 				"content_html": "<p>Amazing what a little polish can do for such a simple game. I challenged myself to make a game in an hour and then polish it for a minimum of 30 minutes a day, every day. After a week, I&rsquo;m happy with how it&rsquo;s turning out. #gamedev #godot #indiedev #pixelart #indiegamedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Amazing what a little polish can do for such a simple game. I challenged myself to make a game in an hour and then polish it for a minimum of 30 minutes a day, every day. After a week, I'm happy with how it's turning out. #gamedev #godot #indiedev #pixelart #indiegamedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/609f54e4a5.gif\" width=\"600\" height=\"446\" alt=\"\" />\n",
-				"date_published": "2020-03-19T12:21:16-08:00",
+				"date_published": "2020-03-19T13:21:16-07:00",
 				"url": "https://gabrielcornish.com/2020/03/19/amazing-what-a.html"
 			},
 			{
@@ -518,7 +518,7 @@
 				
 				"content_html": "<p>Exploring a new game mechanic. After an hour of work this is what I&rsquo;ve come up with so far. #gamedev #pico8 #godot #indiedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Exploring a new game mechanic. After an hour of work this is what I've come up with so far. #gamedev #pico8 #godot #indiedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/bda0d8ef46.gif\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2020-03-09T16:18:58-08:00",
+				"date_published": "2020-03-09T17:18:58-07:00",
 				"url": "https://gabrielcornish.com/2020/03/09/exploring-a-new.html"
 			},
 			{
@@ -526,7 +526,7 @@
 				
 				"content_html": "<p>Yesterday I completed my 4th #gamedev project of the year. Didn’t turn out quite how I had hoped, but it was still a decent prototyping excercise and I learned a lot. Today I started planning for game 5 of 2020. #godot #indiedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Yesterday I completed my 4th #gamedev project of the year. Didn’t turn out quite how I had hoped, but it was still a decent prototyping excercise and I learned a lot. Today I started planning for game 5 of 2020. #godot #indiedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/8b8dc340c4.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-03-03T15:50:18-08:00",
+				"date_published": "2020-03-03T16:50:18-07:00",
 				"url": "https://gabrielcornish.com/2020/03/03/yesterday-i-completed.html"
 			},
 			{
@@ -534,7 +534,7 @@
 				
 				"content_html": "<p>I&rsquo;m thinking my new #gamedev project will be an arcade game about unlocking happy thoughts. #godot #pico8 #indiedev #wholesomegames</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I'm thinking my new #gamedev project will be an arcade game about unlocking happy thoughts. #godot #pico8 #indiedev #wholesomegames\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/57691b7970.gif\" width=\"600\" height=\"453\" alt=\"\" />\n",
-				"date_published": "2020-02-28T15:02:15-08:00",
+				"date_published": "2020-02-28T16:02:15-07:00",
 				"url": "https://gabrielcornish.com/2020/02/28/im-thinking-my.html"
 			},
 			{
@@ -542,7 +542,7 @@
 				
 				"content_html": "<p>The best part of getting ready to close out another month in #indiedev is being able to look back at everything you did or didn’t do.</p>\n<p>Pen and paper can be a good substitute for a producer if you don’t have one handy for your #gamedev projects.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "The best part of getting ready to close out another month in #indiedev is being able to look back at everything you did or didn’t do. \n\nPen and paper can be a good substitute for a producer if you don’t have one handy for your #gamedev projects. \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/00f7778687.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-02-26T08:35:24-08:00",
+				"date_published": "2020-02-26T09:35:24-07:00",
 				"url": "https://gabrielcornish.com/2020/02/26/the-best-part.html"
 			},
 			{
@@ -550,7 +550,7 @@
 				
 				"content_html": "<p>I needed to start a #gamedev project today, but I had no idea what to make. Therefor I now have a main menu and no gameplay 🤦‍♂️</p>\n<p>I know I shouldn&rsquo;t wait for inspiration, but it sure would be nice if my muse showed up to help out a little. Pleeease! #pico8 #godot #indiedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I needed to start a #gamedev project today, but I had no idea what to make. Therefor I now have a main menu and no gameplay 🤦‍♂️ \r\n\r\nI know I shouldn't wait for inspiration, but it sure would be nice if my muse showed up to help out a little. Pleeease! #pico8 #godot #indiedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/4851835fca.gif\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2020-02-25T16:28:39-08:00",
+				"date_published": "2020-02-25T17:28:39-07:00",
 				"url": "https://gabrielcornish.com/2020/02/25/i-needed-to.html"
 			},
 			{
@@ -558,7 +558,7 @@
 				
 				"content_html": "<p>Friday’s at the office. #gamedev #indiedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Friday’s at the office. #gamedev #indiedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/dbc8224dce.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-02-21T15:39:03-08:00",
+				"date_published": "2020-02-21T16:39:03-07:00",
 				"url": "https://gabrielcornish.com/2020/02/21/fridays-at-the.html"
 			},
 			{
@@ -566,7 +566,7 @@
 				
 				"content_html": "<p>Finally got arround to making a quick showreel of some of my work.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Finally got arround to making a quick showreel of some of my work.\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/0b4edaca20.gif\" width=\"512\" height=\"288\" alt=\"\" />\n",
-				"date_published": "2020-02-21T11:41:23-08:00",
+				"date_published": "2020-02-21T12:41:23-07:00",
 				"url": "https://gabrielcornish.com/2020/02/21/finally-got-arround.html"
 			},
 			{
@@ -574,7 +574,7 @@
 				
 				"content_html": "<p>Another atmospheric environment I&rsquo;ve been working on this week.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Another atmospheric environment I've been working on this week.\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/8e3278926b.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
-				"date_published": "2020-02-21T09:48:00-08:00",
+				"date_published": "2020-02-21T10:48:00-07:00",
 				"url": "https://gabrielcornish.com/2020/02/21/another-atmospheric-environment.html",
 				"tags": ["portfolio"]
 			},
@@ -583,7 +583,7 @@
 				
 				"content_html": "<p>10 year old me should have never parted with this game. I’m finally reunited with my childhood 😊</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "10 year old me should have never parted with this game. I’m finally reunited with my childhood 😊\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/2bdf8c226c.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-02-19T19:41:59-08:00",
+				"date_published": "2020-02-19T20:41:59-07:00",
 				"url": "https://gabrielcornish.com/2020/02/19/year-old-me.html"
 			},
 			{
@@ -591,7 +591,7 @@
 				
 				"content_html": "<p>I threw together this quick environment in honor of yesterday&rsquo;s lazy Sunday afternoon. Practicing my world building and environmental storytelling. #gamedev #madewithdreams</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I threw together this quick environment in honor of yesterday's lazy Sunday afternoon. Practicing my world building and environmental storytelling. #gamedev #madewithdreams\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/05c6b6d642.gif\" width=\"600\" height=\"337\" alt=\"\" />\n",
-				"date_published": "2020-02-17T10:46:00-08:00",
+				"date_published": "2020-02-17T11:46:00-07:00",
 				"url": "https://gabrielcornish.com/2020/02/17/i-threw-together.html",
 				"tags": ["portfolio"]
 			},
@@ -600,7 +600,7 @@
 				
 				"content_html": "<p>Found a few classics at my local bookstore.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Found a few classics at my local bookstore.\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/785666d4b9.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
-				"date_published": "2020-02-14T20:00:00-08:00",
+				"date_published": "2020-02-14T21:00:00-07:00",
 				"url": "https://gabrielcornish.com/2020/02/14/found-a-few.html"
 			},
 			{
@@ -608,7 +608,7 @@
 				
 				"content_html": "<p>Sometimes if you look at chopped up watermelon closely, it looks like sashimi.</p>\n",
 				"content_text": "Sometimes if you look at chopped up watermelon closely, it looks like sashimi.\n",
-				"date_published": "2020-02-10T10:26:56-08:00",
+				"date_published": "2020-02-10T11:26:56-07:00",
 				"url": "https://gabrielcornish.com/2020/02/10/sometimes-if-you.html"
 			},
 			{
@@ -616,7 +616,7 @@
 				
 				"content_html": "<p>Today I made a small game about a farting heart. Why? Just &lsquo;cuz. Happy Friday and I hope you have a great weekend! #gamedev #pico8 #godot #indiedev</p>\n<p>Project inspired by <a href=\"https://forums.tigsource.com/index.php?topic=6585.0\">Fart Race and Cattle Cows</a></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Today I made a small game about a farting heart. Why? Just 'cuz. Happy Friday and I hope you have a great weekend! #gamedev #pico8 #godot #indiedev\n\nProject inspired by [Fart Race and Cattle Cows](https://forums.tigsource.com/index.php?topic=6585.0) \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/d62c4a6415.jpg\" width=\"600\" height=\"335\" alt=\"\" />\n",
-				"date_published": "2020-02-07T10:41:00-08:00",
+				"date_published": "2020-02-07T11:41:00-07:00",
 				"url": "https://gabrielcornish.com/2020/02/07/today-i-made.html",
 				"tags": ["portfolio"]
 			},
@@ -625,7 +625,7 @@
 				
 				"content_html": "<p>Some days #gamedev can feel a little bit like this. Gotta just keep swimming. #pixelart #indiedev</p>\n<p>This sketch was inspired by an old @jwaaaap / @thepoppenkast game.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Some days #gamedev can feel a little bit like this. Gotta just keep swimming. #pixelart #indiedev\r\n\r\nThis sketch was inspired by an old @jwaaaap / @thepoppenkast game.\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/51e141b30c.jpg\" width=\"592\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-02-04T12:02:11-08:00",
+				"date_published": "2020-02-04T13:02:11-07:00",
 				"url": "https://gabrielcornish.com/2020/02/04/some-days-gamedev.html"
 			},
 			{
@@ -633,7 +633,7 @@
 				
 				"content_html": "<p>I’ve decided to unashamedly brag about picking this perfect orange from a perfect tree on this perfect Saturday.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "I’ve decided to unashamedly brag about picking this perfect orange from a perfect tree on this perfect Saturday.\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/0a92e363fc.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/16155/2020/1bfb31d8f0.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-02-01T12:03:26-08:00",
+				"date_published": "2020-02-01T13:03:26-07:00",
 				"url": "https://gabrielcornish.com/2020/02/01/ive-decided-to.html"
 			},
 			{
@@ -641,7 +641,7 @@
 				
 				"content_html": "<p>I&rsquo;ve been thinking a lot about the Quantity vs. Quality debate. Which do you value more in your #gamedev and creative work? I tend to side more with the quantity route, but a part of me wishes I  valued the quality route a bit more. #pixelart #pico8 #indiedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I've been thinking a lot about the Quantity vs. Quality debate. Which do you value more in your #gamedev and creative work? I tend to side more with the quantity route, but a part of me wishes I  valued the quality route a bit more. #pixelart #pico8 #indiedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/66fe0d162e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-01-31T10:31:06-08:00",
+				"date_published": "2020-01-31T11:31:06-07:00",
 				"url": "https://gabrielcornish.com/2020/01/31/ive-been-thinking.html"
 			},
 			{
@@ -649,7 +649,7 @@
 				
 				"content_html": "<p>Here&rsquo;s a one-word motivational poster on the best #gamedev advice I ever received. Easy to learn. Simple to understand. Hard to master. #pixelart #indiedev #pico8</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Here's a one-word motivational poster on the best #gamedev advice I ever received. Easy to learn. Simple to understand. Hard to master. #pixelart #indiedev #pico8\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/c5a40f67b0.jpg\" width=\"600\" height=\"476\" alt=\"\" />\n",
-				"date_published": "2020-01-30T10:46:02-08:00",
+				"date_published": "2020-01-30T11:46:02-07:00",
 				"url": "https://gabrielcornish.com/2020/01/30/heres-a-oneword.html"
 			},
 			{
@@ -657,7 +657,7 @@
 				
 				"content_html": "<p>Today I felt bummed out for cancelling my #gamedev project. So&hellip; I made this to cheer myself up.</p>\n<p>If you need it, I hope it cheers you up too. #pixelart #pico8 #godot #indiedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Today I felt bummed out for cancelling my #gamedev project. So... I made this to cheer myself up. \r\n\r\nIf you need it, I hope it cheers you up too. #pixelart #pico8 #godot #indiedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/033fe0b7e1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-01-29T15:39:19-08:00",
+				"date_published": "2020-01-29T16:39:19-07:00",
 				"url": "https://gabrielcornish.com/2020/01/29/today-i-felt.html"
 			},
 			{
@@ -665,7 +665,7 @@
 				
 				"content_html": "<p>Added some visual polish to my upcoming #twine game. #gamedev #pixelart #indiedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Added some visual polish to my upcoming #twine game. #gamedev #pixelart #indiedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/155b55cced.jpg\" width=\"600\" height=\"421\" alt=\"\" />\n",
-				"date_published": "2020-01-27T13:04:00-08:00",
+				"date_published": "2020-01-27T14:04:00-07:00",
 				"url": "https://gabrielcornish.com/2020/01/27/added-some-visual.html",
 				"tags": ["portfolio"]
 			},
@@ -674,7 +674,7 @@
 				
 				"content_html": "<p>I swear you&rsquo;d think my upcoming #gamedev project was made entirely with Crayons. It&rsquo;s not that far off 😂 Disaster Dorm is my upcoming #twine game about what happens when you create an AI Robot to clean your room. #pixelart #indiedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I swear you'd think my upcoming #gamedev project was made entirely with Crayons. It's not that far off 😂 Disaster Dorm is my upcoming #twine game about what happens when you create an AI Robot to clean your room. #pixelart #indiedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/6335110f82.jpg\" width=\"600\" height=\"421\" alt=\"\" />\n",
-				"date_published": "2020-01-24T15:47:41-08:00",
+				"date_published": "2020-01-24T16:47:41-07:00",
 				"url": "https://gabrielcornish.com/2020/01/24/i-swear-youd.html"
 			},
 			{
@@ -682,7 +682,7 @@
 				
 				"content_html": "<p>For #tbt here&rsquo;s a goofy game I made with my friends @emichen88 @PowerAuerArt. The <a href=\"https://gabrielcornish.itch.io/al-a-choose-your-own-adventure\">game</a> is about demons haunting your apartment in order to ruin your love life. #pixelart #gamedev #indiedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "For #tbt here's a goofy game I made with my friends @emichen88 @PowerAuerArt. The [game](https://gabrielcornish.itch.io/al-a-choose-your-own-adventure) is about demons haunting your apartment in order to ruin your love life. #pixelart #gamedev #indiedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/bfc57a3ea3.jpg\" width=\"600\" height=\"476\" alt=\"\" />\n",
-				"date_published": "2020-01-23T16:23:00-08:00",
+				"date_published": "2020-01-23T17:23:00-07:00",
 				"url": "https://gabrielcornish.com/2020/01/23/for-tbt-heres.html",
 				"tags": ["portfolio"]
 			},
@@ -691,7 +691,7 @@
 				
 				"content_html": "<p>Working on a simple yet wholesome #pixelart style. As a #gamedev with little art skills, sometimes you just gotta learn to work with what you&rsquo;re capable of. For me, that just happens to be a step above stick figures 😋 There&rsquo;s charm in imperfection. #indiedev #wabi-sabi</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Working on a simple yet wholesome #pixelart style. As a #gamedev with little art skills, sometimes you just gotta learn to work with what you're capable of. For me, that just happens to be a step above stick figures 😋 There's charm in imperfection. #indiedev #wabi-sabi\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/0c2398feb2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-01-23T16:09:27-08:00",
+				"date_published": "2020-01-23T17:09:27-07:00",
 				"url": "https://gabrielcornish.com/2020/01/23/working-on-a.html"
 			},
 			{
@@ -699,7 +699,7 @@
 				
 				"content_html": "<p>Some programmers talk to a rubber duck to walk through their problems. I prefer my good buddy Bob Ross. #gamedev #indiedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Some programmers talk to a rubber duck to walk through their problems. I prefer my good buddy Bob Ross. #gamedev #indiedev \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/b42255832f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-01-17T11:53:17-08:00",
+				"date_published": "2020-01-17T12:53:17-07:00",
 				"url": "https://gabrielcornish.com/2020/01/17/some-programmers-talk.html"
 			},
 			{
@@ -707,7 +707,7 @@
 				
 				"content_html": "<p>For #tbthursday, here&rsquo;s a small arcade game I made a while ago. I think this was the first game I ever made in #pico8. Good times. Good times. #gamedev #indiedev #pixelart <a href=\"https://gabrielcornish.itch.io/shoot-stuff\">gabrielcornish.itch.io/shoot-stu&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "For #tbthursday, here's a small arcade game I made a while ago. I think this was the first game I ever made in #pico8. Good times. Good times. #gamedev #indiedev #pixelart [gabrielcornish.itch.io/shoot-stu...](https://gabrielcornish.itch.io/shoot-stuff)\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/81a219cb30.jpg\" width=\"600\" height=\"476\" alt=\"\" />\n",
-				"date_published": "2020-01-16T09:09:00-08:00",
+				"date_published": "2020-01-16T10:09:00-07:00",
 				"url": "https://gabrielcornish.com/2020/01/16/for-tbthursday-heres.html",
 				"tags": ["portfolio"]
 			},
@@ -716,7 +716,7 @@
 				
 				"content_html": "<p>Pixel doesn’t allow anyone into her not-so-secret fort. #corgi</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Pixel doesn’t allow anyone into her not-so-secret fort. #corgi\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/54b8c8bf7a.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-01-15T11:40:19-08:00",
+				"date_published": "2020-01-15T12:40:19-07:00",
 				"url": "https://gabrielcornish.com/2020/01/15/pixel-doesnt-allow.html"
 			},
 			{
@@ -724,7 +724,7 @@
 				
 				"content_html": "<p>Happy Wednesday. Here, have a wobbly Kirby. #pico8 #pixelart</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Happy Wednesday. Here, have a wobbly Kirby. #pico8 #pixelart\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/3172bb12fb.jpg\" width=\"600\" height=\"581\" alt=\"\" />\n",
-				"date_published": "2020-01-15T10:55:55-08:00",
+				"date_published": "2020-01-15T11:55:55-07:00",
 				"url": "https://gabrielcornish.com/2020/01/15/happy-wednesday-here.html"
 			},
 			{
@@ -732,7 +732,7 @@
 				
 				"content_html": "<p>If you&rsquo;re an #indiedev battling with uncertainty, here&rsquo;s a quote that will hopefully make you feel better.</p>\n<p>&ldquo;Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.&rdquo; —Marcus Aurelius</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "If you're an #indiedev battling with uncertainty, here's a quote that will hopefully make you feel better.\r\n\r\n\"Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.\" —Marcus Aurelius\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/5759e1ee2d.jpg\" width=\"512\" height=\"256\" alt=\"\" />\n",
-				"date_published": "2020-01-14T11:04:54-08:00",
+				"date_published": "2020-01-14T12:04:54-07:00",
 				"url": "https://gabrielcornish.com/2020/01/14/if-youre-an.html"
 			},
 			{
@@ -740,7 +740,7 @@
 				
 				"content_html": "<p>I&rsquo;ve worked with many game engines in my career, but I&rsquo;m always very grateful that a tool like @twinethreads exist. If you&rsquo;re a #gamedev who&rsquo;s benefited from #twine, why not show it some love? Share a twine game that has impacted your life in some way. #pixelart #indiedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I've worked with many game engines in my career, but I'm always very grateful that a tool like @twinethreads exist. If you're a #gamedev who's benefited from #twine, why not show it some love? Share a twine game that has impacted your life in some way. #pixelart #indiedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/dd750efc53.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-01-14T09:43:48-08:00",
+				"date_published": "2020-01-14T10:43:48-07:00",
 				"url": "https://gabrielcornish.com/2020/01/14/ive-worked-with.html"
 			},
 			{
@@ -748,7 +748,7 @@
 				
 				"content_html": "<p>Want to learn how to create dialogue bubbles in your #twine game? Cyrus Firheir wrote a tutorial that&rsquo;s perfect for your next story-based #indiedev project. <a href=\"https://gist.github.com/cyrusfirheir/b7b75ba3ba13caecbcb0f43f3ec30c2e\">Check it out</a>. @twinethreads #gamedev #pixelart</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Want to learn how to create dialogue bubbles in your #twine game? Cyrus Firheir wrote a tutorial that's perfect for your next story-based #indiedev project. [Check it out](https://gist.github.com/cyrusfirheir/b7b75ba3ba13caecbcb0f43f3ec30c2e). @twinethreads #gamedev #pixelart\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/7d30eb1659.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2020-01-13T11:48:22-08:00",
+				"date_published": "2020-01-13T12:48:22-07:00",
 				"url": "https://gabrielcornish.com/2020/01/13/want-to-learn.html"
 			},
 			{
@@ -756,7 +756,7 @@
 				
 				"content_html": "<p>Have a case of the Monday&rsquo;s? Check out this feel-good puzzle platformer by @AnderssonKev @WhyKevDev! Just the trailer will put you in a good mood 😊It&rsquo;s called <a href=\"https://store.steampowered.com/app/1196800/TaniNani/\">TaniNani </a> and it comes out this month! #indiedev #indiegames</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Have a case of the Monday's? Check out this feel-good puzzle platformer by @AnderssonKev @WhyKevDev! Just the trailer will put you in a good mood 😊It's called [TaniNani ](https://store.steampowered.com/app/1196800/TaniNani/) and it comes out this month! #indiedev #indiegames\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/a82005b00d.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
-				"date_published": "2020-01-13T09:45:13-08:00",
+				"date_published": "2020-01-13T10:45:13-07:00",
 				"url": "https://gabrielcornish.com/2020/01/13/have-a-case.html"
 			},
 			{
@@ -764,7 +764,7 @@
 				
 				"content_html": "<p>I admit it. I love games that are easy, wholesome and just plain fun. Games that just make you feel good and relaxed. If you&rsquo;re a #gamedev making games with these aesthetics, I&rsquo;d love to check out your work. #pico8 #pixelart #indiedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I admit it. I love games that are easy, wholesome and just plain fun. Games that just make you feel good and relaxed. If you're a #gamedev making games with these aesthetics, I'd love to check out your work. #pico8 #pixelart #indiedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/3faaad27fc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-01-08T14:52:25-08:00",
+				"date_published": "2020-01-08T15:52:25-07:00",
 				"url": "https://gabrielcornish.com/2020/01/08/i-admit-it.html"
 			},
 			{
@@ -772,7 +772,7 @@
 				
 				"content_html": "<p>Updated my #gamedev project with a new color palette and new characters. I was inspired by @Spdrcstl to integrate #bitsy into #twine for this upcoming project. #pixelart #indiedev #indiegamedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Updated my #gamedev project with a new color palette and new characters. I was inspired by @Spdrcstl to integrate #bitsy into #twine for this upcoming project. #pixelart #indiedev #indiegamedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/70ea669bc9.jpg\" width=\"600\" height=\"305\" alt=\"\" />\n",
-				"date_published": "2020-01-03T16:01:00-08:00",
+				"date_published": "2020-01-03T17:01:00-07:00",
 				"url": "https://gabrielcornish.com/2020/01/03/updated-my-gamedev.html",
 				"tags": ["portfolio"]
 			},
@@ -781,7 +781,7 @@
 				
 				"content_html": "<p>Today I created the cast of characters for my #gamedev #twine project. #pixelart #indiedev #indiegamedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Today I created the cast of characters for my #gamedev #twine project. #pixelart #indiedev #indiegamedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/13fd7bb59f.jpg\" width=\"512\" height=\"512\" alt=\"\" />\n",
-				"date_published": "2020-01-03T14:58:19-08:00",
+				"date_published": "2020-01-03T15:58:19-07:00",
 				"url": "https://gabrielcornish.com/2020/01/03/today-i-created.html"
 			},
 			{
@@ -789,7 +789,7 @@
 				
 				"content_html": "<p>Today I started up a new #gamedev project using #twine and the #pico8 color palette.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Today I started up a new #gamedev project using #twine and the #pico8 color palette.\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/5302281742.jpg\" width=\"600\" height=\"362\" alt=\"\" />\n",
-				"date_published": "2020-01-02T16:19:20-08:00",
+				"date_published": "2020-01-02T17:19:20-07:00",
 				"url": "https://gabrielcornish.com/2020/01/02/today-i-started.html"
 			},
 			{
@@ -797,7 +797,7 @@
 				
 				"content_html": "<p>Sunrise walk before work.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Sunrise walk before work.\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/f1ac938fc2.jpg\" width=\"600\" height=\"338\" alt=\"\" />\n",
-				"date_published": "2020-01-02T08:18:15-08:00",
+				"date_published": "2020-01-02T09:18:15-07:00",
 				"url": "https://gabrielcornish.com/2020/01/02/sunrise-walk-before.html"
 			},
 			{
@@ -805,7 +805,7 @@
 				
 				"content_html": "<p>Is it crazy to believe that the next decade can be better than the last?</p>\n<p>The #gamedev community had its ups and downs, but it ultimately closed out an amazing decade in gaming. I cannot wait to see what this fantastic industry has to offer in 2020 and beyond. #pico8 #pixelart</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Is it crazy to believe that the next decade can be better than the last? \r\n\r\nThe #gamedev community had its ups and downs, but it ultimately closed out an amazing decade in gaming. I cannot wait to see what this fantastic industry has to offer in 2020 and beyond. #pico8 #pixelart\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2020/b454cbcca0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-01-01T14:53:02-08:00",
+				"date_published": "2020-01-01T15:53:02-07:00",
 				"url": "https://gabrielcornish.com/2020/01/01/is-it-crazy.html"
 			},
 			{
@@ -813,7 +813,7 @@
 				
 				"content_html": "<p>My world famous Wabi-Sabi wrapping technique. I’m proud of this one.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "My world famous Wabi-Sabi wrapping technique. I’m proud of this one. \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/5dc0c194f4.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
-				"date_published": "2019-12-25T08:31:19-08:00",
+				"date_published": "2019-12-25T09:31:19-07:00",
 				"url": "https://gabrielcornish.com/2019/12/25/my-world-famous.html"
 			},
 			{
@@ -821,7 +821,7 @@
 				
 				"content_html": "<p>Happy Holidays everyone! Over the next couple weeks, I hope you have an abundance of Triple F&rsquo;s&hellip; Friends, Family and Food. #pico8 #pixelart</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Happy Holidays everyone! Over the next couple weeks, I hope you have an abundance of Triple F's... Friends, Family and Food. #pico8 #pixelart\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/283f5dc8ea.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2019-12-24T11:58:48-08:00",
+				"date_published": "2019-12-24T12:58:48-07:00",
 				"url": "https://gabrielcornish.com/2019/12/24/happy-holidays-everyone.html"
 			},
 			{
@@ -829,7 +829,7 @@
 				
 				"content_html": "<p>Today I saw someone flying a kite in front of a rainbow. Gotta love Sunday.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Today I saw someone flying a kite in front of a rainbow. Gotta love Sunday. \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/3b27e6103a.jpg\" width=\"600\" height=\"457\" alt=\"\" />\n",
-				"date_published": "2019-12-22T10:25:07-08:00",
+				"date_published": "2019-12-22T11:25:07-07:00",
 				"url": "https://gabrielcornish.com/2019/12/22/today-i-saw.html"
 			},
 			{
@@ -837,7 +837,7 @@
 				
 				"content_html": "<p>For some reason, I&rsquo;m really enjoying working on this 3D #lowrez aesthetic. #pixelart #godot #gamedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "For some reason, I'm really enjoying working on this 3D #lowrez aesthetic. #pixelart #godot #gamedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/0dbc7fb37b.jpg\" width=\"600\" height=\"577\" alt=\"\" />\n",
-				"date_published": "2019-12-21T12:53:00-08:00",
+				"date_published": "2019-12-21T13:53:00-07:00",
 				"url": "https://gabrielcornish.com/2019/12/21/for-some-reason.html",
 				"tags": ["portfolio"]
 			},
@@ -846,7 +846,7 @@
 				
 				"content_html": "<p>I don&rsquo;t know about you, but my #corgi only ever has one thing on her mind. She can go from Zero-To-Play in under a second. #pico8 #pixelart</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I don't know about you, but my #corgi only ever has one thing on her mind. She can go from Zero-To-Play in under a second. #pico8 #pixelart\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/5703d2b389.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2019-12-20T15:33:05-08:00",
+				"date_published": "2019-12-20T16:33:05-07:00",
 				"url": "https://gabrielcornish.com/2019/12/20/i-dont-know.html"
 			},
 			{
@@ -854,7 +854,7 @@
 				
 				"content_html": "<p>Happy Friday! Here&rsquo;s another wobble doodle. #pico8 #pixelart</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Happy Friday! Here's another wobble doodle. #pico8 #pixelart\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/45b11faa62.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2019-12-20T12:05:05-08:00",
+				"date_published": "2019-12-20T13:05:05-07:00",
 				"url": "https://gabrielcornish.com/2019/12/20/happy-friday-heres.html"
 			},
 			{
@@ -862,7 +862,7 @@
 				
 				"content_html": "<p>Hard to believe another #starwars trilogy is concluding. Tonight&rsquo;s all about good friends, fountain drinks and a bucket of popcorn. Just like old times 😊 #pico8 #pixelart</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Hard to believe another #starwars trilogy is concluding. Tonight's all about good friends, fountain drinks and a bucket of popcorn. Just like old times 😊 #pico8 #pixelart\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/7ce1bf939e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2019-12-19T21:39:20-08:00",
+				"date_published": "2019-12-19T22:39:20-07:00",
 				"url": "https://gabrielcornish.com/2019/12/19/hard-to-believe.html"
 			},
 			{
@@ -870,7 +870,7 @@
 				
 				"content_html": "<p>It&rsquo;s hard to keep these three things equally balanced, but we should try anyways. Happy #gamedev&rsquo;s makes a happier industry. A happier industry makes better games. Better games makes happier players. Win-win. 😊 #pico8 #pixelart</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "It's hard to keep these three things equally balanced, but we should try anyways. Happy #gamedev's makes a happier industry. A happier industry makes better games. Better games makes happier players. Win-win. 😊 #pico8 #pixelart\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/cc3a38b202.jpg\" width=\"256\" height=\"256\" alt=\"\" />\n",
-				"date_published": "2019-12-19T10:00:50-08:00",
+				"date_published": "2019-12-19T11:00:50-07:00",
 				"url": "https://gabrielcornish.com/2019/12/19/its-hard-to.html"
 			},
 			{
@@ -878,7 +878,7 @@
 				
 				"content_html": "<p>Spent today doing some #gamedev and trying to recapture the look and feel of a #ps1 game. #godot #RetroGaming</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Spent today doing some #gamedev and trying to recapture the look and feel of a #ps1 game. #godot #RetroGaming\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/dc1c6ceb24.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2019-12-18T17:25:00-08:00",
+				"date_published": "2019-12-18T18:25:00-07:00",
 				"url": "https://gabrielcornish.com/2019/12/18/spent-today-doing.html",
 				"tags": ["portfolio"]
 			},
@@ -887,7 +887,7 @@
 				
 				"content_html": "<p>If your a #gamedev making games today, thank you! If you&rsquo;re a #gamer playing games today, thank you! Have fun and enjoy yourself today.</p>\n<ul>\n<li>#pixelart made with #pico8 &amp; #WOBBLE_PAINT</li>\n</ul>\n<!-- raw HTML omitted -->\n",
 				"content_text": "If your a #gamedev making games today, thank you! If you're a #gamer playing games today, thank you! Have fun and enjoy yourself today. \r\n\r\n- #pixelart made with #pico8 & #WOBBLE_PAINT\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/4ba0bb6c5d.jpg\" width=\"256\" height=\"256\" alt=\"\" />\n",
-				"date_published": "2019-12-18T07:34:33-08:00",
+				"date_published": "2019-12-18T08:34:33-07:00",
 				"url": "https://gabrielcornish.com/2019/12/18/if-your-a.html"
 			},
 			{
@@ -895,7 +895,7 @@
 				
 				"content_html": "<p>We need more #cozygames retro synthwave stuff! It&rsquo;s been a challenge to get the week going, so I hope this #gamedev sketch brings you some much needed &ldquo;chill&rdquo; this week. Credit for the inspiration goes to @StegmayerLuke &amp; @Theoremnd #pixelart</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "We need more #cozygames retro synthwave stuff! It's been a challenge to get the week going, so I hope this #gamedev sketch brings you some much needed \"chill\" this week. Credit for the inspiration goes to @StegmayerLuke & @Theoremnd #pixelart\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/940598bdef.jpg\" width=\"256\" height=\"256\" alt=\"\" />\n",
-				"date_published": "2019-12-17T15:49:41-08:00",
+				"date_published": "2019-12-17T16:49:41-07:00",
 				"url": "https://gabrielcornish.com/2019/12/17/we-need-more.html"
 			},
 			{
@@ -903,7 +903,7 @@
 				
 				"content_html": "<p>For #tbt here&rsquo;s a small game I made a LONG time ago. What is this even!? Who knows. However there&rsquo;s a quality in the work that only a beginner can have. Remember to enjoy your #gamedev journey. Keep a beginners mind.\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/bad0a79176.gif\" alt=\"\"></p>\n",
 				"content_text": "For #tbt here's a small game I made a LONG time ago. What is this even!? Who knows. However there's a quality in the work that only a beginner can have. Remember to enjoy your #gamedev journey. Keep a beginners mind.\n![](https://cdn.uploads.micro.blog/16155/2019/bad0a79176.gif)\n",
-				"date_published": "2019-12-12T15:21:48-08:00",
+				"date_published": "2019-12-12T16:21:48-07:00",
 				"url": "https://gabrielcornish.com/2019/12/12/for-tbt-heres.html"
 			},
 			{
@@ -911,7 +911,7 @@
 				
 				"content_html": "<p>Thinking through minimalist choice design structures in #gamedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Thinking through minimalist choice design structures in #gamedev \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/16dab78489.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2019-12-11T17:31:01-08:00",
+				"date_published": "2019-12-11T18:31:01-07:00",
 				"url": "https://gabrielcornish.com/2019/12/11/thinking-through-minimalist.html"
 			},
 			{
@@ -919,7 +919,7 @@
 				
 				"content_html": "<p>Snapshot of my game making space. Happy Monday and start of the week to all the #gamedev out there making their dreams come true.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Snapshot of my game making space. Happy Monday and start of the week to all the #gamedev out there making their dreams come true. \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/d5d85d8c9d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2019-12-09T11:32:47-08:00",
+				"date_published": "2019-12-09T12:32:47-07:00",
 				"url": "https://gabrielcornish.com/2019/12/09/snapshot-of-my.html"
 			},
 			{
@@ -927,7 +927,7 @@
 				
 				"content_html": "<p>Sunrise walk.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Sunrise walk.\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/22c9c554d7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2019-12-09T10:16:39-08:00",
+				"date_published": "2019-12-09T11:16:39-07:00",
 				"url": "https://gabrielcornish.com/2019/12/09/sunrise-walk.html"
 			},
 			{
@@ -935,7 +935,7 @@
 				
 				"content_html": "<p>Practicing some more #pixelart. This one was inspired by @csmgllz &ldquo;Riders of the dawn&rdquo;</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Practicing some more #pixelart. This one was inspired by @csmgllz \"Riders of the dawn\"\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/eb35a0cd74.jpg\" width=\"256\" height=\"256\" alt=\"\" />\n",
-				"date_published": "2019-12-07T14:47:02-08:00",
+				"date_published": "2019-12-07T15:47:02-07:00",
 				"url": "https://gabrielcornish.com/2019/12/07/practicing-some-more.html"
 			},
 			{
@@ -943,7 +943,7 @@
 				
 				"content_html": "<p>Today I worked on some concept art for my next #gamedev project. I&rsquo;m new to #pixelart but I&rsquo;ve been having a lot of fun with it so far and I&rsquo;m learning a lot.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Today I worked on some concept art for my next #gamedev project. I'm new to #pixelart but I've been having a lot of fun with it so far and I'm learning a lot.\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/376e603f74.jpg\" width=\"256\" height=\"256\" alt=\"\" />\n",
-				"date_published": "2019-12-06T14:40:14-08:00",
+				"date_published": "2019-12-06T15:40:14-07:00",
 				"url": "https://gabrielcornish.com/2019/12/06/today-i-worked.html"
 			},
 			{
@@ -951,7 +951,7 @@
 				
 				"content_html": "<p>Goof off and eat marshmallows with your friend! I just released <a href=\"https://gabrielcornish.itch.io/marshmallow-nights\">Marshmallow Nights</a>, another short #twine game you can finish in a single sitting. #gamedev</p>\n<p><img src=\"https://imgur.com/R4J3myK.gif\" alt=\"\"></p>\n",
 				"content_text": "Goof off and eat marshmallows with your friend! I just released [Marshmallow Nights](https://gabrielcornish.itch.io/marshmallow-nights), another short #twine game you can finish in a single sitting. #gamedev\n\n![](https://imgur.com/R4J3myK.gif)\n",
-				"date_published": "2019-12-04T15:48:50-08:00",
+				"date_published": "2019-12-04T16:48:50-07:00",
 				"url": "https://gabrielcornish.com/2019/12/04/goof-off-and.html"
 			},
 			{
@@ -959,7 +959,7 @@
 				
 				"content_html": "<p>It&rsquo;s raining, so I thought I&rsquo;d make a small #cozygame today. It&rsquo;s called Hot Soup and you can <a href=\"https://gabrielcornish.itch.io/hot-soup\">play</a> it on itch now. #gamedev #twine\n<img src=\"https://img.itch.zone/aW1nLzI3NDMwNzMuZ2lm/original/7YB776.gif\" alt=\"\"></p>\n",
 				"content_text": "It's raining, so I thought I'd make a small #cozygame today. It's called Hot Soup and you can [play](https://gabrielcornish.itch.io/hot-soup) it on itch now. #gamedev #twine\n![](https://img.itch.zone/aW1nLzI3NDMwNzMuZ2lm/original/7YB776.gif)\n",
-				"date_published": "2019-12-02T16:11:16-08:00",
+				"date_published": "2019-12-02T17:11:16-07:00",
 				"url": "https://gabrielcornish.com/2019/12/02/its-raining-so.html"
 			},
 			{
@@ -967,7 +967,7 @@
 				
 				"content_html": "<p>Rainy day, warm fire and a hot tea is the perfect way to prep for the #gamedev week ahead.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Rainy day, warm fire and a hot tea is the perfect way to prep for the #gamedev week ahead.\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/ed6ba95fd1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2019-12-01T17:06:30-08:00",
+				"date_published": "2019-12-01T18:06:30-07:00",
 				"url": "https://gabrielcornish.com/2019/12/01/rainy-day-warm.html"
 			},
 			{
@@ -975,7 +975,7 @@
 				
 				"content_html": "<p>One of my favorite #gamedev manifestos. Credit goes to @lexaloffle from a talk he gave for the <a href=\"https://www.youtube.com/watch?v=87jfTIWosBw\">NYU Game Center</a>.</p>\n<ul>\n<li>\n<p>Small things matter</p>\n</li>\n<li>\n<p>Discard and move on</p>\n</li>\n<li>\n<p>Inhabit boundaries</p>\n</li>\n<li>\n<p>Follow a new path</p>\n</li>\n<li>\n<p>Ignore the real world</p>\n</li>\n</ul>\n<!-- raw HTML omitted -->\n",
 				"content_text": "One of my favorite #gamedev manifestos. Credit goes to @lexaloffle from a talk he gave for the [NYU Game Center](https://www.youtube.com/watch?v=87jfTIWosBw).\r\n\r\n- Small things matter\r\n\r\n- Discard and move on\r\n\r\n- Inhabit boundaries\r\n\r\n- Follow a new path\r\n\r\n- Ignore the real world\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/ed494d5a23.jpg\" width=\"443\" height=\"333\" alt=\"\" />\n",
-				"date_published": "2019-11-26T07:56:11-08:00",
+				"date_published": "2019-11-26T08:56:11-07:00",
 				"url": "https://gabrielcornish.com/2019/11/26/one-of-my.html"
 			},
 			{
@@ -983,7 +983,7 @@
 				
 				"content_html": "<p>It might be silly to celebrate temporary tiny wins, but I&rsquo;m gonna celebrate the tiny win. <a href=\"https://gabrielcornish.itch.io/the-hackers-cave\">The Hacker&rsquo;s Cave</a> made it to the front page of Itch! #gamedev</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "It might be silly to celebrate temporary tiny wins, but I'm gonna celebrate the tiny win. [The Hacker's Cave](https://gabrielcornish.itch.io/the-hackers-cave) made it to the front page of Itch! #gamedev\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/dc2cc5d4c4.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
-				"date_published": "2019-11-25T21:24:53-08:00",
+				"date_published": "2019-11-25T22:24:53-07:00",
 				"url": "https://gabrielcornish.com/2019/11/25/it-might-be.html"
 			},
 			{
@@ -991,7 +991,7 @@
 				
 				"content_html": "<p>As someone who thinks a lot about what a game &ldquo;is&rdquo;, <a href=\"http://jeff-vogel.blogspot.com/2017/12/i-settle-all-video-game-arguments-part.html\">this article</a> by @spiderwebsoft is one of my favorite responses to that question.</p>\n",
 				"content_text": "As someone who thinks a lot about what a game \"is\", [this article](http://jeff-vogel.blogspot.com/2017/12/i-settle-all-video-game-arguments-part.html) by @spiderwebsoft is one of my favorite responses to that question.\n",
-				"date_published": "2019-11-25T15:48:03-08:00",
+				"date_published": "2019-11-25T16:48:03-07:00",
 				"url": "https://gabrielcornish.com/2019/11/25/as-someone-who.html"
 			},
 			{
@@ -999,7 +999,7 @@
 				
 				"content_html": "<p>Found this awesome #gamedev tutorial gif. Credit goes to @Securas2010 who is doing some really cool #indiegamedev stuff in #godot.</p>\n<p><img src=\"https://imgur.com/h1Pb6TC.gif\" alt=\"\"></p>\n",
 				"content_text": "Found this awesome #gamedev tutorial gif. Credit goes to @Securas2010 who is doing some really cool #indiegamedev stuff in #godot.\n\n![](https://imgur.com/h1Pb6TC.gif)\n",
-				"date_published": "2019-11-25T15:00:28-08:00",
+				"date_published": "2019-11-25T16:00:28-07:00",
 				"url": "https://gabrielcornish.com/2019/11/25/found-this-awesome.html"
 			},
 			{
@@ -1007,7 +1007,7 @@
 				
 				"content_html": "<blockquote>\n<p>&ldquo;Learn to be indifferent to what makes no difference&rdquo; - Marcus Aurelius</p>\n</blockquote>\n",
 				"content_text": "> \"Learn to be indifferent to what makes no difference\" - Marcus Aurelius\n",
-				"date_published": "2019-11-23T12:54:13-08:00",
+				"date_published": "2019-11-23T13:54:13-07:00",
 				"url": "https://gabrielcornish.com/2019/11/23/learn-to-be.html"
 			},
 			{
@@ -1015,7 +1015,7 @@
 				
 				"content_html": "<p>How to choose a #gamedev theme you&rsquo;ll be excited about for your next project:</p>\n<p>(1) Write 10 things you DID yesterday.</p>\n<p>(2) Write 10 things you SAW yesterday.</p>\n<p>(3) Select your favorite verb from the DID list and combine it with your favorite noun from SAW list.</p>\n<p>(4) Make game!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "How to choose a #gamedev theme you'll be excited about for your next project:\r\n\r\n(1) Write 10 things you DID yesterday.\r\n\r\n(2) Write 10 things you SAW yesterday.\r\n\r\n(3) Select your favorite verb from the DID list and combine it with your favorite noun from SAW list.\r\n\r\n(4) Make game!\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/240c949416.jpg\" width=\"440\" height=\"220\" alt=\"\" />\n",
-				"date_published": "2019-11-22T14:34:52-08:00",
+				"date_published": "2019-11-22T15:34:52-07:00",
 				"url": "https://gabrielcornish.com/2019/11/22/how-to-choose.html"
 			},
 			{
@@ -1023,7 +1023,7 @@
 				
 				"content_html": "<blockquote>\n<p>Keep company only with corgis who uplift you, whose presence calls forth your best. - Epictetus</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
 				"content_text": "> Keep company only with corgis who uplift you, whose presence calls forth your best. - Epictetus\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2019/f203baa4d0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2019-11-22T11:36:26-08:00",
+				"date_published": "2019-11-22T12:36:26-07:00",
 				"url": "https://gabrielcornish.com/2019/11/22/keep-company-only.html"
 			}
 	]
