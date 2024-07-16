@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://gabrielcornish.micro.blog/2024/07/16/game-design-is.html",
+				
+				"content_html": "<p>Game design is great because you can make the tiniest victories feel major with enough positive reinforcement.</p>\n<p>Games can help people feel joy from their smallest actions and I just love that.</p>\n",
+				"content_text": "Game design is great because you can make the tiniest victories feel major with enough positive reinforcement.\r\n\r\nGames can help people feel joy from their smallest actions and I just love that.\n",
+				"date_published": "2024-07-16T13:17:54-07:00",
+				"url": "https://gabrielcornish.com/2024/07/16/game-design-is.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2024/07/11/a-great-way.html",
+				
+				"content_html": "<p>A great way to procrastinate working on your game is to work on the title screen instead. Here&rsquo;s my first stab at the cover art for Hell Dev.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A great way to procrastinate working on your game is to work on the title screen instead. Here's my first stab at the cover art for Hell Dev.\n\n<img src=\"uploads/2024/fc2024-title.gif\" width=\"512\" height=\"342\" alt=\"\">\n",
+				"date_published": "2024-07-11T11:05:49-07:00",
+				"url": "https://gabrielcornish.com/2024/07/11/a-great-way.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2024/07/09/today-was-more.html",
+				
+				"content_html": "<p>🕹️ Today, was more art exploration for the game jam.</p>\n<p>I also set up the two main resources.</p>\n<p>The player will be managing Health and Glitches.</p>\n<ul>\n<li>Health is simple. If it reaches zero: game over.</li>\n<li>Glitches are meant to be collected. Collect enough glitches to escape the video game you&rsquo;re trapped inside.</li>\n</ul>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🕹️ Today, was more art exploration for the game jam. \r\n\r\nI also set up the two main resources.\r\n\r\nThe player will be managing Health and Glitches.\r\n\r\n- Health is simple. If it reaches zero: game over.\r\n- Glitches are meant to be collected. Collect enough glitches to escape the video game you're trapped inside.\n\n<img src=\"uploads/2024/fc2024-4.gif\" width=\"512\" height=\"342\" alt=\"\">\n",
+				"date_published": "2024-07-09T14:51:31-07:00",
+				"url": "https://gabrielcornish.com/2024/07/09/today-was-more.html"
+			},
+			{
 				"id": "http://gabrielcornish.micro.blog/2024/07/09/just-joined-the.html",
 				"title": "🕹️ Just joined the Decker Fantasy Camp 2024!",
 				"content_html": "<p>I just dropped everything to join the <a href=\"https://itch.io/jam/decker-fantasy-camp-2024\">Decker Fantasy Camp 2024</a> and I have 22 days to finish a game.</p>\n<!-- raw HTML omitted -->\n<p>I&rsquo;m a little late to the party, but I wanted to contribute something to the <a href=\"https://internet-janitor.itch.io/decker/community\">Decker</a> community&hellip; because they&rsquo;re awesome!</p>\n<p>Here&rsquo;s my game idea:</p>\n<ul>\n<li>Survive being trapped in your own video game while finding a way out.</li>\n<li>The game will be a Choose Your Own Adventure style game with some random elements and resource management.</li>\n</ul>\n<h2 id=\"start-with-art\">Start With Art</h2>\n<p>One of my weakest areas of game development is art, so that&rsquo;s where I wanted to focus my attention for this jam.</p>\n<p>I want to focus on developing my own style over the course of the jam. That means making a lot of art and also throwing away a lot of art.</p>\n<p>You can see some of the exploration I&rsquo;ve done already.</p>\n<!-- raw HTML omitted -->\n<p>To keep myself accountable, I also want to produce frequent dev logs as the jam progresses.</p>\n<p>I hope that showing my process will encourage others to also make their own games.</p>\n<p>If you want to receive updates on how I&rsquo;m developing the game, you can follow along by subscribing to my <a href=\"https://gabrielcornish.com/subscribe/\">newsletter</a>.</p>\n<!-- raw HTML omitted -->\n",
