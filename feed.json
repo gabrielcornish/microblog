@@ -7,12 +7,84 @@
 	"items": [
 		
 			{
-				"id": "http://gabrielcornish.micro.blog/2025/02/22/the-structure-of-a-fun.html",
+				"id": "http://gabrielcornish.micro.blog/2025/02/28/ive-made-a-mental-shift.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I've made a mental shift that has me blog a lot more lately.</p>\n<p>The realization was simple.</p>\n<p>Write to myself. Write for myself.</p>\n<p>It's been great and I feel like I'm in a better headspace.</p>\n",
+				"date_published": "2025-02-28T18:55:04-08:00",
+				"url": "https://blog.gabrielcornish.com/2025/02/28/ive-made-a-mental-shift.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2025/02/27/im-positive-that-if-i.html",
+				
+				"content_html": "<p>🕹️ I&rsquo;m positive that if I never bought another video game for the rest of my life, there is enough in my library to last two lifetimes.</p>\n",
+				"content_text": "🕹️ I'm positive that if I never bought another video game for the rest of my life, there is enough in my library to last two lifetimes.\n",
+				"date_published": "2025-02-27T18:17:31-08:00",
+				"url": "https://blog.gabrielcornish.com/2025/02/27/im-positive-that-if-i.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2025/02/26/no-matter-how-good-you.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<blockquote>\n<p>\"No matter how good you get, you're always gonna think that you should be better than you are...\" <br><br> - Dan Harmon</p>\n</blockquote>\n<p>This rang true for me. It feels like vision is always ahead of execution.</p>\n",
+				"date_published": "2025-02-26T11:42:58-08:00",
+				"url": "https://blog.gabrielcornish.com/2025/02/26/no-matter-how-good-you.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2025/02/25/im-making-a-game-about.html",
+				"title": "I'm making a game about exploring a small mall",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Can I make my first Steam game in one year?</p>\n<p>I've always wanted to.</p>\n<p>So, this year I started making a game about exploring a mall. In the game you buy gifts for friends, discover secrets, and meet other quirky shoppers.</p>\n<p>I've worked in the game industry for over 10 years, but I've never released a Steam game on my own. It's been on my bucket list for a while, but never quite had the confidence to do it.</p>\n<p>In some ways, I still don't.</p>\n<p>Well, this year I chose to take a crack at it.</p>\n<p>I'm not one of those indies who's trying to strike it rich or make my \"dream\" game. Gambling in Las Vegas would be a more efficient way to make money.</p>\n<p>No, I just want to make something that is worth charging for.</p>\n<p>A game that's small, focused, and delivers a fun experience worth the asking price.</p>\n<p>I want to <a href=\"https://gabrielcornish.com/posts/2025-02-23-What-Exactly-Is-a--Good--Game-.html\">make small promises to my players</a>, and then fulfill them. Plus a little extra.</p>\n<p>Nothing more. Nothing less.</p>\n<p>I started prototyping the game in January and hope to release in January 2026.</p>\n<p>I'll let you know how it goes.</p>\n",
+				"date_published": "2025-02-25T07:59:01-08:00",
+				"url": "https://blog.gabrielcornish.com/2025/02/25/im-making-a-game-about.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2025/02/24/theres-something-that-feels-safe.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>There's something that feels safe about a blog post. </p>\n<p>It's cozy. </p>\n<p>There's no algorithm to please.</p>\n<p>It feels slower. Calmer. Thoughtful.</p>\n",
+				"date_published": "2025-02-24T11:24:26-08:00",
+				"url": "https://blog.gabrielcornish.com/2025/02/24/theres-something-that-feels-safe.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2025/02/23/friday-nights-in-vanilla-coke.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Friday nights in 2005:</p>\n<ul>\n<li>Vanilla Coke</li>\n<li>Digiorno Supreme Pizza</li>\n<li>Battlefront 2 (PS2) with friends</li>\n</ul>\n<p>Friday nights 2025:</p>\n<ul>\n<li>Ginger tea</li>\n<li>Intermittent fasting</li>\n<li>An episode of Ugly Betty with wife</li>\n</ul>\n",
+				"date_published": "2025-02-23T16:58:20-08:00",
+				"url": "https://blog.gabrielcornish.com/2025/02/23/friday-nights-in-vanilla-coke.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2025/02/23/for-those-who-love-rss.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>For those who love RSS as much as I do, definitely check out <a href=\"https://adamledoux.net/zoneRSS/\">zoneRSS</a>. It's such a fun way to blog.</p>\n",
+				"date_published": "2025-02-23T13:28:46-08:00",
+				"url": "https://blog.gabrielcornish.com/2025/02/23/for-those-who-love-rss.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2025/02/23/i-want-the-future-of.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I want the future of social media to just be RSS and email.</p>\n",
+				"date_published": "2025-02-23T11:20:46-08:00",
+				"url": "https://blog.gabrielcornish.com/2025/02/23/i-want-the-future-of.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2025/02/23/what-exactly-is-a-good.html",
+				"title": "What Exactly Is a \"Good\" Game?",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I've always struggled with the desire to make something that is considered \"good\"—and to do it consistently.</p>\n<p>The problem is, \"good\" is subjective.</p>\n<p>This led me to discover one of my toxic traits: I want the subjective to become objective. I'm always searching for a reproducible and systematic approach to the creative process. I like things to be clear and straightforward.</p>\n<p>It's flawed thinking, but I believed that if I could define what a good game was, then I could deconstruct the process and make one consistently.</p>\n<p>A definition eluded me for a long time, but I eventually stumbled upon one that I feel good about:</p>\n<blockquote>\n<p>A game is only as good as the promises it keeps.</p>\n</blockquote>\n<p>I came across this idea in one of the best blog posts I’ve read on game creation: </p>\n<p><a href=\"https://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html\">How to Make Good Small Games.</a></p>\n<p>After reading it, I realized that a game gets to define its own terms of success. It does this by making promises to the player—and then keeping them.</p>\n<p>A game should be judged by how well it keeps its promises. Does it deliver what it says it will?</p>\n<p>Making a game that costs half a billion dollars and takes ten years to develop is a type of promise with high expectations. It’s a hard promise to keep. Alternatively, a 5-minute game with amateur art can still be good as long as it delivers on its promises—a much easier promise to keep.</p>\n<p>So, I think I’ve found a good balance between a subjective and objective definition of what makes a good game:</p>\n<blockquote>\n<p>A good game keeps its promises to the player.</p>\n</blockquote>\n",
+				"date_published": "2025-02-23T11:17:15-08:00",
+				"url": "https://blog.gabrielcornish.com/2025/02/23/what-exactly-is-a-good.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2025/02/23/the-structure-of-a-fun.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>The structure of a fun game is simple.</p>\n<p>Give the player a clear objective.</p>\n<p>Reward them for their effort.</p>\n<p>Tell them when they've achieved something.</p>\n",
-				"date_published": "2025-02-22T21:59:19-08:00",
-				"url": "https://blog.gabrielcornish.com/2025/02/22/the-structure-of-a-fun.html"
+				"date_published": "2025-02-23T10:34:28-08:00",
+				"url": "https://blog.gabrielcornish.com/2025/02/23/the-structure-of-a-fun.html"
 			},
 			{
 				"id": "http://gabrielcornish.micro.blog/2025/02/22/a-daily-routine-for-unemployed.html",
@@ -26,7 +98,7 @@
 				"id": "http://gabrielcornish.micro.blog/2024/11/18/age-of-mythology.html",
 				
 				"content_html": "<p>Age of Mythology was nominated for best strategy game at this year&rsquo;s The Game Awards!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Age of Mythology was nominated for best strategy game at this year's The Game Awards! \n\n<img src=\"uploads/2024/aom-nominee.png\" width=\"600\" height=\"313\" alt=\"\">\n",
+				"content_text": "Age of Mythology was nominated for best strategy game at this year's The Game Awards! \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2024/aom-nominee.png\" width=\"600\" height=\"313\" alt=\"\">\n",
 				"date_published": "2024-11-18T10:42:59-08:00",
 				"url": "https://blog.gabrielcornish.com/2024/11/18/age-of-mythology.html"
 			},
@@ -39,18 +111,10 @@
 				"url": "https://blog.gabrielcornish.com/2024/08/28/one-of-the.html"
 			},
 			{
-				"id": "http://gabrielcornish.micro.blog/2024/08/23/how-to-structure.html",
-				"title": "How to structure your day as an unemployed game developer",
-				"content_html": "<p>Unemployed as a game developer? Here&rsquo;s how I&rsquo;m staying on track and keeping my spirits up.</p>\n<p>I&rsquo;ve crafted a simple daily routine that&rsquo;s been essential for my mental well-being and productivity during this period.</p>\n<ul>\n<li>Morning: Create 🎨</li>\n<li>Midday: Connect 📨</li>\n<li>Afternoon: Contribute 🙌🏽</li>\n</ul>\n<p><strong>Create</strong>: This is all about building skills and creative growth. While the timing of my next opportunity is uncertain, I&rsquo;m making the most of this time by exploring new technologies, building games, and honing my craft.</p>\n<p><strong>Connect</strong>: This phase is all about maximizing opportunities. Whether it&rsquo;s reaching out to my network, applying for roles, or sharing my latest work, I&rsquo;m just trying to keep the momentum going.</p>\n<p><strong>Contribute</strong>: Giving back to the community is key. Whether it&rsquo;s helping others in their job search, collaborating on indie projects, or participating in game jams, assisting others is how we&rsquo;re all going to get through this.</p>\n<p>And here&rsquo;s one last bonus&hellip;</p>\n<ul>\n<li>Evenings: Community</li>\n</ul>\n<p>Evenings are dedicated to recharging with loved ones. It&rsquo;s my time to unplug, rest, and cherish moments with friends and family.</p>\n<p>I&rsquo;d love to hear what strategies have been working for you as you navigate your job search. Drop a comment below and let&rsquo;s support each other!</p>\n<p>Cheers and happy Friday everyone!</p>\n",
-				"content_text": "Unemployed as a game developer? Here's how I'm staying on track and keeping my spirits up.\r\n\r\nI've crafted a simple daily routine that's been essential for my mental well-being and productivity during this period.\r\n\r\n- Morning: Create 🎨 \r\n- Midday: Connect 📨\r\n- Afternoon: Contribute 🙌🏽\r\n\r\n**Create**: This is all about building skills and creative growth. While the timing of my next opportunity is uncertain, I'm making the most of this time by exploring new technologies, building games, and honing my craft.\r\n\r\n**Connect**: This phase is all about maximizing opportunities. Whether it's reaching out to my network, applying for roles, or sharing my latest work, I'm just trying to keep the momentum going.\r\n\r\n**Contribute**: Giving back to the community is key. Whether it's helping others in their job search, collaborating on indie projects, or participating in game jams, assisting others is how we're all going to get through this.\r\n\r\nAnd here's one last bonus...\r\n\r\n- Evenings: Community\r\n\r\nEvenings are dedicated to recharging with loved ones. It's my time to unplug, rest, and cherish moments with friends and family.\r\n\r\nI'd love to hear what strategies have been working for you as you navigate your job search. Drop a comment below and let's support each other!\r\n\r\nCheers and happy Friday everyone!\r\n\r\n",
-				"date_published": "2024-08-23T10:46:01-08:00",
-				"url": "https://blog.gabrielcornish.com/2024/08/23/how-to-structure.html"
-			},
-			{
 				"id": "http://gabrielcornish.micro.blog/2024/08/18/tahoe-with-my.html",
 				
 				"content_html": "<p>Tahoe with my wife and child</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tahoe with my wife and child \n\n<img src=\"uploads/2024/3b2c08eb74.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Tahoe with my wife and child \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2024/3b2c08eb74.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-18T10:01:48-08:00",
 				"url": "https://blog.gabrielcornish.com/2024/08/18/tahoe-with-my.html"
 			},
