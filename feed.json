@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://gabrielcornish.micro.blog/2026/01/12/needed-a-way-to-send.html",
+				
+				"content_html": "<p>Needed a way to send my clipboard to multiple devices. <a href=\"https://kdeconnect.kde.org/\">KDE Connect</a> works great for this. Highly recommended. I no longer have to email myself links. Praise be!</p>\n",
+				"content_text": "Needed a way to send my clipboard to multiple devices. [KDE Connect](https://kdeconnect.kde.org/) works great for this. Highly recommended. I no longer have to email myself links. Praise be!\n",
+				"date_published": "2026-01-12T10:36:42-08:00",
+				"url": "https://micro.gabrielcornish.com/2026/01/12/needed-a-way-to-send.html"
+			},
+			{
 				"id": "http://gabrielcornish.micro.blog/2026/01/09/social-media-isnt-social-anymore.html",
 				
 				"content_html": "<p>Social media isn&rsquo;t social anymore.\nIt&rsquo;s just media. Media we resent and don&rsquo;t trust.\nWe know it manipulates. Divides. Angers.\nAlgorithms don&rsquo;t want real connection. They want conflict. Cheap and predictable attention.\nIt&rsquo;s a business model built on creating unhappy customers.</p>\n",
