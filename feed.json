@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://gabrielcornish.micro.blog/2026/01/21/started-playing-space-marine-recently.html",
+				
+				"content_html": "<p>🕹️ started playing Space Marine 2 recently. What a fun game! I realized some games just understand their assignment. They know what they are. They know what is expected. And they don’t try to be anything else. I appreciate that.</p>\n",
+				"content_text": "🕹️ started playing Space Marine 2 recently. What a fun game! I realized some games just understand their assignment. They know what they are. They know what is expected. And they don’t try to be anything else. I appreciate that. \n",
+				"date_published": "2026-01-21T09:25:32-08:00",
+				"url": "https://micro.gabrielcornish.com/2026/01/21/started-playing-space-marine-recently.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2026/01/18/got-my-first-retro-game.html",
+				
+				"content_html": "<p>🕹️Got my first retro game handheld. Linux 64-bit system. Under $100. Default software was meh… so I swapped it for Knulli. Plays everything through PS1 generation perfectly.  A very enjoyable experience all-in-all.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🕹️Got my first retro game handheld. Linux 64-bit system. Under $100. Default software was meh… so I swapped it for Knulli. Plays everything through PS1 generation perfectly.  A very enjoyable experience all-in-all.\n\n<img src=\"uploads/2026/bbd33654df.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-01-18T08:45:33-08:00",
+				"url": "https://micro.gabrielcornish.com/2026/01/18/got-my-first-retro-game.html"
+			},
+			{
 				"id": "http://gabrielcornish.micro.blog/2026/01/17/found-this-photo-of-the.html",
 				
 				"content_html": "<p><a href=\"https://www.reddit.com/r/psx/comments/1qeik2r/the_sony_playstation_store_at_the_sony_metreon_in/\">Found this photo</a> of the PlayStation Store at the Metreon in San Francisco (1999). I used to love going there as a kid. I really miss the vibes and aesthetics of the 5th and 6th gen console era.</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +50,7 @@
 				"id": "http://gabrielcornish.micro.blog/2026/01/14/its-been-almost-two-weeks.html",
 				
 				"content_html": "<p>It’s been almost two weeks since we lost our corgi. It’s hard to put into words how much I miss her. She was the sweetest and greatest friend anyone could ask for. Today she came back home.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s been almost two weeks since we lost our corgi. It’s hard to put into words how much I miss her. She was the sweetest and greatest friend anyone could ask for. Today she came back home.\n\n<img src=\"uploads/2026/8c9d322816.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "It’s been almost two weeks since we lost our corgi. It’s hard to put into words how much I miss her. She was the sweetest and greatest friend anyone could ask for. Today she came back home.\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2026/8c9d322816.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-14T18:21:55-08:00",
 				"url": "https://micro.gabrielcornish.com/2026/01/14/its-been-almost-two-weeks.html"
 			},
