@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://gabrielcornish.micro.blog/2026/01/30/102901.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2026/78b769e24f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-01-30T10:29:01-08:00",
+				"url": "https://micro.gabrielcornish.com/2026/01/30/102901.html"
+			},
+			{
 				"id": "http://gabrielcornish.micro.blog/2026/01/27/finally-can-share-what-i.html",
 				
 				"content_html": "<p>🕹️ Finally can share what I worked on last year! <a href=\"https://www.ageofempires.com/news/demeter-god-pack-coming-february-10th/\">Demeter</a> was such a fun god to design! From pitch to ship the team poured so much passion and love into this one. Excited for players to finally get their hands on it.</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +50,7 @@
 				"id": "http://gabrielcornish.micro.blog/2026/01/18/got-my-first-retro-game.html",
 				
 				"content_html": "<p>🕹️Got my first retro game handheld. Linux 64-bit system. Under $100. Default software was meh… so I swapped it for Knulli. Plays everything through PS1 generation perfectly.  A very enjoyable experience all-in-all.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🕹️Got my first retro game handheld. Linux 64-bit system. Under $100. Default software was meh… so I swapped it for Knulli. Plays everything through PS1 generation perfectly.  A very enjoyable experience all-in-all.\n\n<img src=\"uploads/2026/bbd33654df.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "🕹️Got my first retro game handheld. Linux 64-bit system. Under $100. Default software was meh… so I swapped it for Knulli. Plays everything through PS1 generation perfectly.  A very enjoyable experience all-in-all.\n\n<img src=\"https://cdn.uploads.micro.blog/16155/2026/bbd33654df.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-18T08:45:33-08:00",
 				"url": "https://micro.gabrielcornish.com/2026/01/18/got-my-first-retro-game.html"
 			},
