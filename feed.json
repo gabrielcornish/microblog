@@ -7,8 +7,104 @@
 	"items": [
 		
 			{
+				"id": "http://gabrielcornish.micro.blog/2026/07/05/in-reply-thank-you-i.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p class=\"post-subject\">↩ in reply</p><p>Thank you 🙏 I was just randomly browsing profiles and came across yours. Would never have known you mentioned me 😆</p>\n",
+				"date_published": "2026-07-05T06:44:00-07:00",
+				"url": "https://micro.gabrielcornish.com/2026/07/05/in-reply-thank-you-i.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2026/07/04/in-reply-seeing-it-fixed.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p class=\"post-subject\">↩ in reply</p><p>Seeing it fixed on my end. Thank you 🙏</p>\n",
+				"date_published": "2026-07-04T19:48:01-07:00",
+				"url": "https://micro.gabrielcornish.com/2026/07/04/in-reply-seeing-it-fixed.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2026/07/04/in-reply-the-twtxtapp-client.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p class=\"post-subject\">↩ in reply</p><p>The twtxt.app client</p>\n",
+				"date_published": "2026-07-04T17:35:39-07:00",
+				"url": "https://micro.gabrielcornish.com/2026/07/04/in-reply-the-twtxtapp-client.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2026/07/04/in-reply-good-to-know.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p class=\"post-subject\">↩ in reply</p><p>Good to know! However I am still seeing double Twt on all my replies even if I don’t edit/delete</p>\n",
+				"date_published": "2026-07-04T17:22:07-07:00",
+				"url": "https://micro.gabrielcornish.com/2026/07/04/in-reply-good-to-know.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2026/07/04/in-reply-its-definitely-possible.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p class=\"post-subject\">↩ in reply</p><p>It’s definitely possible. I tried to keep everything the same, but there was some funkiness I did when I was in GitHub. Would that also explain why some of my posts show up twice in twtxt.net when replying?</p>\n",
+				"date_published": "2026-07-04T16:03:12-07:00",
+				"url": "https://micro.gabrielcornish.com/2026/07/04/in-reply-its-definitely-possible.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2026/07/04/happy-th-of-july-everyone.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🇺🇸 Happy 4th of July everyone!</p>\n",
+				"date_published": "2026-07-04T07:51:05-07:00",
+				"url": "https://micro.gabrielcornish.com/2026/07/04/happy-th-of-july-everyone.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2026/07/04/074337.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>(#qn6ndt3ucjy5) @&lt;prologic <a href=\"https://twtxt.net/user/prologic/twtxt.txt&gt;\" rel=\"noopener\">https://twtxt.net/user/prologic/twtxt.txt&gt;</a> 😂 Noob question, do we just do this out in the open? I can also send you an aliased email to take the conversation private.</p>\n",
+				"date_published": "2026-07-04T07:43:37-07:00",
+				"url": "https://micro.gabrielcornish.com/2026/07/04/074337.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2026/07/03/220109.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>@&lt;prologic <a href=\"https://twtxt.net/user/prologic/twtxt.txt&gt;\" rel=\"noopener\">https://twtxt.net/user/prologic/twtxt.txt&gt;</a> Thanks for the heads up! I fixed my nick and corrected my reply. I'm still learning lol. I still need to get setup with a client, I'm using my timeline at the moment, but that's finicky due to CORS in the browser. By chance do you know how I would go about signing up with twtxt.net?</p>\n",
+				"date_published": "2026-07-03T22:01:09-07:00",
+				"url": "https://micro.gabrielcornish.com/2026/07/03/220109.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2026/07/03/195630.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>@&lt;bender <a href=\"https://twtxt.net/user/bender/twtxt.txt&gt;\" rel=\"noopener\">https://twtxt.net/user/bender/twtxt.txt&gt;</a> Thanks for the warm welcome! I don't actually have a twtxt client setup yet, but you showed up in the timeline on my site: <a href=\"https://gabesarcade.com/?timeline\" rel=\"noopener\">https://gabesarcade.com/?timeline</a> - which is kind blowing my mind right now.</p>\n",
+				"date_published": "2026-07-03T19:56:30-07:00",
+				"url": "https://micro.gabrielcornish.com/2026/07/03/195630.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2026/07/03/twtxt-is-awesome-how-am.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>twtxt is awesome! How am I just discovering this?</p>\n",
+				"date_published": "2026-07-03T15:06:41-07:00",
+				"url": "https://micro.gabrielcornish.com/2026/07/03/twtxt-is-awesome-how-am.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2026/07/03/i-miss-the-ps-era.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I miss the ps2 era of gaming. Withing PS6 dropping physical discs, I'm reminded of how great it is to pop in an old ps2 game and have it run flawlessly. <img loading=\"lazy\" src=\"https://cdn.uploads.micro.blog/16155/2026/e3-ps2.png\" alt=\"PS2 Vibes\"></p>\n",
+				"date_published": "2026-07-03T10:59:37-07:00",
+				"url": "https://micro.gabrielcornish.com/2026/07/03/i-miss-the-ps-era.html"
+			},
+			{
+				"id": "http://gabrielcornish.micro.blog/2026/07/03/ok-so-i-think-ive.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Ok, so I think I've set up a good posting solution. I use twtxt to post updates. My site renders those in HTML and generates an RSS feed. The RSS feed is then cross-posted by Micro.Blog. Clean and simple.</p>\n",
+				"date_published": "2026-07-03T10:00:05-07:00",
+				"url": "https://micro.gabrielcornish.com/2026/07/03/ok-so-i-think-ive.html"
+			},
+			{
 				"id": "http://gabrielcornish.micro.blog/2026/07/02/somedays-i-stop-and-realize.html",
-				"title": "Somedays I stop and realize what a privilege it is to be able to…",
+				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Somedays I stop and realize what a privilege it is to be able to make games for a living. It's not a stable career. It's not an easy career. But, when things align, it's a fulfilling career.</p>\n",
 				"date_published": "2026-07-02T15:29:44-07:00",
@@ -23,16 +119,16 @@
 				"url": "https://micro.gabrielcornish.com/2026/07/02/now-listening-battlecry-nujabes.html"
 			},
 			{
-				"id": "http://gabrielcornish.micro.blog/2026/07/02/enjoy-today.html",
-				"title": "Enjoy Today",
+				"id": "http://gabrielcornish.micro.blog/2026/07/02/120357.html",
+				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img loading=\"lazy\" src=\"https://micro.gabrielcornish.com/uploads/2026/enjoy-today.gif\" alt=\"Enjoy Today\"></p>\n",
+				"content_text": "<p><img loading=\"lazy\" src=\"https://cdn.uploads.micro.blog/16155/2026/36f9b25d8c.gif\" alt=\"Enjoy Today\"></p>\n",
 				"date_published": "2026-07-02T12:03:57-07:00",
-				"url": "https://micro.gabrielcornish.com/2026/07/02/enjoy-today.html"
+				"url": "https://micro.gabrielcornish.com/2026/07/02/120357.html"
 			},
 			{
 				"id": "http://gabrielcornish.micro.blog/2026/07/02/ive-been-trying-to-figure.html",
-				"title": "I've been trying to figure out an easy way to write micro posts on…",
+				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>I've been trying to figure out an easy way to write micro posts on the internet. I think I've settled on using Twxtxt as my format.</p>\n",
 				"date_published": "2026-07-02T12:00:40-07:00",
@@ -42,7 +138,7 @@
 				"id": "http://gabrielcornish.micro.blog/2026/01/30/102901.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2026/78b769e24f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/16155/2026/78b769e24f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-30T11:29:01-07:00",
 				"url": "https://micro.gabrielcornish.com/2026/01/30/102901.html"
 			},
@@ -50,7 +146,7 @@
 				"id": "http://gabrielcornish.micro.blog/2026/01/27/finally-can-share-what-i.html",
 				
 				"content_html": "<p>🕹️ Finally can share what I worked on last year! <a href=\"https://www.ageofempires.com/news/demeter-god-pack-coming-february-10th/\">Demeter</a> was such a fun god to design! From pitch to ship the team poured so much passion and love into this one. Excited for players to finally get their hands on it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🕹️ Finally can share what I worked on last year! [Demeter](https://www.ageofempires.com/news/demeter-god-pack-coming-february-10th/) was such a fun god to design! From pitch to ship the team poured so much passion and love into this one. Excited for players to finally get their hands on it. \n\n<img src=\"uploads/2026/662d7a6a05.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "🕹️ Finally can share what I worked on last year! [Demeter](https://www.ageofempires.com/news/demeter-god-pack-coming-february-10th/) was such a fun god to design! From pitch to ship the team poured so much passion and love into this one. Excited for players to finally get their hands on it. \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2026/662d7a6a05.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-01-27T16:21:33-07:00",
 				"url": "https://micro.gabrielcornish.com/2026/01/27/finally-can-share-what-i.html"
 			},
@@ -58,7 +154,7 @@
 				"id": "http://gabrielcornish.micro.blog/2026/01/25/went-to-a-restaurant-in.html",
 				
 				"content_html": "<p>Went to a restaurant in the city and couldn’t stop looking at this piece. I don’t know why it spoke to me, but it did.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Went to a restaurant in the city and couldn’t stop looking at this piece. I don’t know why it spoke to me, but it did. \n\n<img src=\"uploads/2026/3b8b17f06e.jpg\" width=\"421\" height=\"600\" alt=\"\">\n",
+				"content_text": "Went to a restaurant in the city and couldn’t stop looking at this piece. I don’t know why it spoke to me, but it did. \n\n<img src=\"https://cdn.uploads.micro.blog/16155/2026/3b8b17f06e.jpg\" width=\"421\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-25T22:39:46-07:00",
 				"url": "https://micro.gabrielcornish.com/2026/01/25/went-to-a-restaurant-in.html"
 			},
